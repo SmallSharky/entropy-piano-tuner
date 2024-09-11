@@ -1,0 +1,7 @@
+<map id="Stroboscope::pushRawData" name="Stroboscope::pushRawData">
+<area shape="rect" id="Node000001" title="Stroboscope::pushRawData." alt="" coords="5,31,205,56"/>
+<area shape="rect" id="Node000002" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="279,5,444,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,31,265,25,265,30,206,36"/>
+<area shape="rect" id="Node000003" href="$class_message_handler.html#a91817cbc1e987a726f6ec02c17f87f25" title="short function for creating and sending a message and drop older messages of the same type so that th..." alt="" coords="253,55,469,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,50,240,53,239,59,205,55"/>
+</map>

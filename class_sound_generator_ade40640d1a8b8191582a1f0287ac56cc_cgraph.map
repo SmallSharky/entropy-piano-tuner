@@ -1,0 +1,114 @@
+<map id="SoundGenerator::handleMessage" name="SoundGenerator::handleMessage">
+<area shape="rect" id="Node000001" title="Sound generator message listener and dispatcher." alt="" coords="5,739,243,765"/>
+<area shape="rect" id="Node000002" href="$class_sound_generator.html#a2e1c322d8a08004f286558c60f14f5b4" title="Change the volume of the resonating reference sound." alt="" coords="293,56,524,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,739,142,621,176,432,199,333,226,241,256,165,272,135,289,113,302,101,305,105,293,116,276,138,260,167,231,243,204,334,181,433,147,622,130,740"/>
+<area shape="rect" id="Node000006" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="335,1019,483,1045"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="133,764,152,809,185,873,232,940,261,971,292,998,323,1014,321,1019,289,1002,257,975,228,944,181,875,147,811,128,766"/>
+<area shape="rect" id="Node000007" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="859,146,1079,171"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="124,739,134,664,160,546,182,480,210,413,245,349,289,292,317,263,349,239,418,199,493,171,572,152,650,142,727,138,859,142,859,147,727,143,651,147,573,157,495,176,420,204,352,243,321,267,293,295,249,352,214,415,187,482,165,548,139,665,129,740"/>
+<area shape="rect" id="Node000008" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="863,209,1074,234"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="124,739,135,672,162,571,183,515,211,460,246,408,289,365,353,320,424,284,498,258,574,238,650,225,722,217,849,213,850,218,723,223,650,230,575,243,500,263,426,289,356,324,292,369,250,412,216,462,188,517,167,572,140,673,129,740"/>
+<area shape="rect" id="Node000009" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="610,790,775,815"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="243,758,527,781,597,789,596,794,526,787,243,763"/>
+<area shape="rect" id="Node000010" href="$class_sound_generator.html#a5fa61aa47b5e3d809b60208ba1499c91" title="Handle MIDI keypress." alt="" coords="305,443,512,483"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="136,737,376,491,380,494,140,741"/>
+<area shape="rect" id="Node000016" href="$class_synthesizer.html#ad607dd1a8d909eb0cb2dc889edb97b09" title="Function which plays a single note (sound)" alt="" coords="881,474,1056,499"/>
+<area shape="poly" id="edge36_Node000001_Node000016" title=" " alt="" coords="126,738,142,682,173,599,195,554,221,508,252,466,289,429,325,400,358,379,389,364,420,354,488,342,574,329,641,316,695,308,748,310,812,330,858,356,898,392,931,429,954,461,950,464,926,432,894,395,855,361,810,334,747,315,695,313,642,322,575,335,489,347,422,359,391,369,360,384,328,404,292,433,257,469,226,511,199,556,178,601,147,684,131,740"/>
+<area shape="rect" id="Node000020" href="$class_sound_generator.html#af01fcc8b9ac101b5d3647e856377fc2c" title="Play a resonating reference sound in the tuning mode." alt="" coords="291,645,527,685"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="166,737,328,687,330,692,168,742"/>
+<area shape="rect" id="Node000023" href="$class_sound_generator.html#af0b8b9eadeda73b49c9e3d28247c869b" title="Stop the resonating reference sound." alt="" coords="575,904,811,944"/>
+<area shape="poly" id="edge65_Node000001_Node000023" title=" " alt="" coords="138,763,162,791,198,827,242,862,292,890,358,911,428,924,496,930,561,931,560,936,496,935,427,929,357,916,290,894,239,866,194,831,158,795,134,767"/>
+<area shape="rect" id="Node000024" href="$class_synthesizer.html#add493ea683182fe21af94447ec0c458d" title="Terminate a sound." alt="" coords="871,913,1066,938"/>
+<area shape="poly" id="edge46_Node000001_Node000024" title=" " alt="" coords="134,764,156,800,190,849,236,898,263,919,292,936,364,967,428,985,486,992,542,991,661,974,810,953,902,938,903,944,811,959,662,980,543,996,486,997,427,990,362,972,289,941,260,924,233,902,186,852,151,803,130,766"/>
+<area shape="rect" id="Node000025" href="$class_sound_generator.html#a3417f47e868db10789359536673348db" title="Calculate the sound of all keys in advance." alt="" coords="300,840,517,880"/>
+<area shape="poly" id="edge37_Node000001_Node000025" title=" " alt="" coords="155,762,292,819,332,833,330,838,290,824,153,767"/>
+<area shape="rect" id="Node000026" href="$class_sound_generator.html#ab20f0ab230cc63049dc6409cd10d9dce" title="Calculate the sound of a given key in advance, using the spectrum of the given key." alt="" coords="584,840,801,880"/>
+<area shape="poly" id="edge45_Node000001_Node000026" title=" " alt="" coords="191,762,291,781,527,825,576,835,575,840,526,831,290,787,190,767"/>
+<area shape="rect" id="Node000031" href="$class_synthesizer.html#a8b7c8ead24ca3be76046d06bc55611d2" title="Tell the synthesizer to change the total number of keys." alt="" coords="297,1069,521,1094"/>
+<area shape="poly" id="edge47_Node000001_Node000031" title=" " alt="" coords="131,764,146,819,177,899,198,942,225,984,256,1022,292,1055,300,1060,297,1065,289,1059,252,1026,220,987,194,944,172,901,141,821,126,766"/>
+<area shape="rect" id="Node000003" href="$class_synthesizer.html#aec689a601eeff0325e66a2e85727dc87" title="Check whether a sound with given id is still playing." alt="" coords="610,70,775,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,76,597,78,596,83,524,81"/>
+<area shape="rect" id="Node000005" href="$class_synthesizer.html#ab2a165c05df2ff75cf2c277eefcea18f" title="Change the level (sustain level) of a constantly playing sound." alt="" coords="593,5,792,45"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="521,53,580,43,580,48,522,59"/>
+<area shape="rect" id="Node000004" href="$class_synthesizer.html#a756d8f979a65fa64524e9e016821dccb" title="Get a pointer to the sound according to the given ID." alt="" coords="862,42,1075,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="775,72,848,64,849,70,776,77"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="793,33,848,39,848,45,792,39"/>
+<area shape="rect" id="Node000011" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="589,475,797,501"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="513,469,575,475,575,480,512,475"/>
+<area shape="rect" id="Node000012" href="$class_piano.html#a7be71a23d427c15c37408b185bcea6a4" title=" " alt="" coords="608,525,777,550"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="473,480,575,509,616,519,614,524,574,515,472,485"/>
+<area shape="rect" id="Node000013" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="580,171,805,197"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="428,441,667,205,670,208,432,445"/>
+<area shape="rect" id="Node000014" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="913,697,1024,722"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="483,440,556,427,640,422,685,424,729,431,772,442,812,460,830,475,850,498,891,560,958,683,953,685,887,562,846,501,827,479,809,465,770,447,728,436,684,429,640,427,556,433,484,445"/>
+<area shape="rect" id="Node000015" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="591,574,794,599"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="439,480,500,520,576,559,603,568,602,573,574,564,497,525,436,485"/>
+<area shape="poly" id="edge18_Node000010_Node000016" title=" " alt="" coords="432,440,493,396,532,375,574,359,640,342,693,335,747,340,812,359,854,379,893,407,950,462,946,466,889,411,851,384,810,364,746,345,693,340,641,347,575,364,534,380,496,401,435,445"/>
+<area shape="rect" id="Node000019" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="607,374,778,399"/>
+<area shape="poly" id="edge21_Node000010_Node000019" title=" " alt="" coords="484,440,630,400,631,406,485,445"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="805,171,845,167,845,173,806,176"/>
+<area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="787,194,861,204,860,209,787,199"/>
+<area shape="rect" id="Node000017" href="$class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9" title="Mutexed getter function to obtain the calculated waveform." alt="" coords="1164,499,1327,539"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1057,494,1151,505,1150,510,1056,499"/>
+<area shape="rect" id="Node000018" href="$class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2" title="Find out whether the WaveformGenerator is still computing." alt="" coords="1164,435,1327,475"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="1056,474,1150,463,1151,468,1057,479"/>
+<area shape="poly" id="edge28_Node000020_Node000003" title=" " alt="" coords="426,643,477,580,503,538,524,494,538,445,543,401,538,322,536,284,538,245,549,203,572,157,587,139,605,123,644,99,647,104,608,127,591,142,577,160,554,205,543,245,541,284,543,321,548,401,544,446,529,496,508,541,481,583,431,647"/>
+<area shape="poly" id="edge27_Node000020_Node000009" title=" " alt="" coords="449,683,528,731,552,751,576,768,615,784,613,789,573,773,548,755,525,735,446,688"/>
+<area shape="poly" id="edge23_Node000020_Node000011" title=" " alt="" coords="423,643,484,577,526,540,573,510,589,503,591,508,576,514,529,544,487,581,427,647"/>
+<area shape="poly" id="edge24_Node000020_Node000012" title=" " alt="" coords="434,643,495,600,534,578,574,559,596,551,598,556,576,564,536,583,498,605,437,647"/>
+<area shape="poly" id="edge25_Node000020_Node000014" title=" " alt="" coords="452,683,510,706,575,724,662,733,749,733,831,727,899,719,900,724,831,733,750,739,662,739,574,729,508,711,450,688"/>
+<area shape="poly" id="edge26_Node000020_Node000015" title=" " alt="" coords="479,643,574,616,631,600,633,605,575,621,481,648"/>
+<area shape="poly" id="edge33_Node000020_Node000016" title=" " alt="" coords="527,663,593,658,665,649,739,632,810,608,850,587,887,560,945,508,948,511,891,564,853,591,812,613,741,638,666,654,594,663,527,668"/>
+<area shape="rect" id="Node000021" href="$class_sound_generator.html#a2dd3ea7f250f11f224a37c28427863bb" title="Play a permanent sine wave as a resonating background sound for tuning." alt="" coords="575,675,811,715"/>
+<area shape="poly" id="edge29_Node000020_Node000021" title=" " alt="" coords="527,675,561,678,561,684,527,680"/>
+<area shape="poly" id="edge34_Node000020_Node000023" title=" " alt="" coords="427,684,576,890,585,895,582,900,573,894,422,687"/>
+<area shape="poly" id="edge30_Node000021_Node000014" title=" " alt="" coords="811,698,900,703,899,708,811,704"/>
+<area shape="poly" id="edge32_Node000021_Node000016" title=" " alt="" coords="772,672,809,654,853,620,892,580,949,509,953,512,896,584,857,624,812,658,774,677"/>
+<area shape="rect" id="Node000022" href="$class_key.html#acb1d238f5843b42f04338a8a8090e4cd" title="Get a read&#45;only reference to mPeaks." alt="" coords="912,775,1025,801"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="753,712,918,768,916,773,752,717"/>
+<area shape="poly" id="edge35_Node000023_Node000024" title=" " alt="" coords="811,922,858,922,858,927,811,927"/>
+<area shape="poly" id="edge38_Node000025_Node000026" title=" " alt="" coords="518,857,570,857,570,863,518,863"/>
+<area shape="poly" id="edge39_Node000026_Node000014" title=" " alt="" coords="785,837,809,825,825,810,833,794,842,778,857,761,886,741,917,725,920,730,889,745,860,765,846,781,838,797,829,813,812,829,788,842"/>
+<area shape="poly" id="edge40_Node000026_Node000022" title=" " alt="" coords="769,837,905,802,907,807,771,843"/>
+<area shape="rect" id="Node000027" href="$class_synthesizer.html#a6afcf57ac79feb55b597601cc4146130" title="Pre&#45;calculate the PCM waveform of a sound." alt="" coords="875,840,1063,880"/>
+<area shape="poly" id="edge41_Node000026_Node000027" title=" " alt="" coords="802,857,861,857,861,863,802,863"/>
+<area shape="rect" id="Node000028" href="$class_waveform_generator.html#acb339ff8c5d94694bf81cb09ca343715" title="pre&#45;calculate a waveform" alt="" coords="1164,840,1327,880"/>
+<area shape="poly" id="edge42_Node000027_Node000028" title=" " alt="" coords="1063,857,1150,857,1150,863,1063,863"/>
+<area shape="rect" id="Node000029" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="1429,783,1646,838"/>
+<area shape="poly" id="edge43_Node000028_Node000029" title=" " alt="" coords="1326,844,1415,829,1416,834,1327,849"/>
+<area shape="rect" id="Node000030" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="1412,863,1663,903"/>
+<area shape="poly" id="edge44_Node000028_Node000030" title=" " alt="" coords="1327,864,1398,869,1398,875,1327,869"/>
+<area shape="rect" id="Node000032" href="$class_synthesizer.html#a50a5ba6b05c325842d2920772c5ed683" title="Initialize and start the synthesizer." alt="" coords="623,1069,762,1094"/>
+<area shape="poly" id="edge48_Node000031_Node000032" title=" " alt="" coords="521,1079,610,1079,610,1084,521,1084"/>
+<area shape="rect" id="Node000033" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="891,1185,1047,1225"/>
+<area shape="poly" id="edge49_Node000032_Node000033" title=" " alt="" coords="718,1092,781,1126,860,1164,895,1178,893,1183,858,1169,778,1131,715,1097"/>
+<area shape="rect" id="Node000035" href="$class_p_c_m_device.html#a79fdf403f93a9ab56c2aaa3ea1f15eb5" title=" " alt="" coords="876,1253,1061,1278"/>
+<area shape="poly" id="edge51_Node000032_Node000035" title=" " alt="" coords="706,1092,766,1161,810,1201,860,1235,885,1246,883,1251,857,1240,807,1205,762,1164,702,1096"/>
+<area shape="rect" id="Node000037" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="867,965,1071,990"/>
+<area shape="poly" id="edge53_Node000032_Node000037" title=" " alt="" coords="716,1066,779,1034,858,1001,892,991,894,996,860,1007,781,1039,719,1071"/>
+<area shape="rect" id="Node000039" href="$class_waveform_generator.html#ae13f508c9352c6b71ee782f02a30c20b" title="Initialization procedure of the waveform generator." alt="" coords="877,1015,1060,1041"/>
+<area shape="poly" id="edge55_Node000032_Node000039" title=" " alt="" coords="759,1066,888,1041,889,1046,760,1071"/>
+<area shape="rect" id="Node000040" href="$class_p_c_m_device.html#a3eb36ae49ca60f5c7ca9b7e1f816d661" title=" " alt="" coords="901,1065,1037,1090"/>
+<area shape="poly" id="edge56_Node000032_Node000040" title=" " alt="" coords="762,1078,887,1076,887,1081,762,1083"/>
+<area shape="rect" id="Node000041" href="$class_simple_thread_handler.html#acd459deb405647c580000490aaa71a0d" title=" " alt="" coords="887,1115,1050,1155"/>
+<area shape="poly" id="edge57_Node000032_Node000041" title=" " alt="" coords="760,1091,874,1114,873,1119,759,1097"/>
+<area shape="rect" id="Node000034" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="1167,1185,1323,1225"/>
+<area shape="poly" id="edge50_Node000033_Node000034" title=" " alt="" coords="1047,1203,1154,1203,1154,1208,1047,1208"/>
+<area shape="rect" id="Node000036" href="$class_audio_interface.html#a9e1e0edcab91af83674223cd1406b751" title=" " alt="" coords="1146,1249,1345,1289"/>
+<area shape="poly" id="edge52_Node000035_Node000036" title=" " alt="" coords="1062,1264,1132,1265,1132,1270,1062,1269"/>
+<area shape="rect" id="Node000038" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="1127,957,1364,982"/>
+<area shape="poly" id="edge54_Node000037_Node000038" title=" " alt="" coords="1071,972,1113,971,1113,976,1071,977"/>
+<area shape="rect" id="Node000042" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="1456,1121,1619,1161"/>
+<area shape="poly" id="edge58_Node000041_Node000042" title=" " alt="" coords="1050,1117,1126,1107,1245,1100,1364,1107,1443,1118,1442,1123,1364,1112,1245,1105,1127,1112,1051,1122"/>
+<area shape="rect" id="Node000043" href="$class_simple_thread_handler.html#a0832e65ca495778cf58dd039985fb69c" title=" " alt="" coords="1158,1007,1333,1047"/>
+<area shape="poly" id="edge59_Node000041_Node000043" title=" " alt="" coords="1049,1112,1077,1100,1101,1082,1125,1063,1156,1049,1158,1054,1128,1068,1104,1086,1080,1105,1051,1117"/>
+<area shape="rect" id="Node000047" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="1164,1121,1327,1161"/>
+<area shape="poly" id="edge63_Node000041_Node000047" title=" " alt="" coords="1050,1134,1150,1136,1150,1142,1050,1139"/>
+<area shape="rect" id="Node000044" href="$class_simple_thread_handler.html#a773070afe77138730078e87096784f1b" title=" " alt="" coords="1456,1057,1619,1097"/>
+<area shape="poly" id="edge60_Node000043_Node000044" title=" " alt="" coords="1333,1039,1443,1058,1442,1064,1332,1044"/>
+<area shape="rect" id="Node000045" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="1464,943,1611,969"/>
+<area shape="poly" id="edge61_Node000043_Node000045" title=" " alt="" coords="1320,1004,1363,992,1411,979,1456,969,1457,974,1413,984,1365,997,1321,1009"/>
+<area shape="rect" id="Node000046" href="$class_simple_thread_handler.html#ac8e798b146647cf3fae4ca1e13c05e44" title="Virtual worker function, executed within the new thread." alt="" coords="1456,993,1619,1033"/>
+<area shape="poly" id="edge62_Node000043_Node000046" title=" " alt="" coords="1333,1020,1442,1015,1442,1020,1333,1025"/>
+<area shape="poly" id="edge64_Node000047_Node000042" title=" " alt="" coords="1327,1139,1442,1139,1442,1144,1327,1144"/>
+</map>

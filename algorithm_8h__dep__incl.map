@@ -1,0 +1,45 @@
+<map id="src/common/core/calculation/algorithm.h" name="src/common/core/calculation/algorithm.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="923,5,1132,45"/>
+<area shape="rect" id="Node000002" href="$algorithm_8cpp.html" title=" " alt="" coords="689,93,899,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="964,53,846,96,844,91,962,48"/>
+<area shape="rect" id="Node000003" href="$algorithmplugin_8h.html" title=" " alt="" coords="923,93,1132,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1030,59,1030,93,1025,93,1025,59"/>
+<area shape="rect" id="Node000015" href="$calculationmanager_8h.html" title=" " alt="" coords="1377,181,1587,221"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1090,48,1434,179,1432,184,1088,53"/>
+<area shape="rect" id="Node000004" href="$entropyminimizer_8h.html" title=" " alt="" coords="320,181,593,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="909,136,587,184,586,179,909,131"/>
+<area shape="rect" id="Node000006" href="$examplealgorithm_8h.html" title=" " alt="" coords="627,181,910,221"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="958,140,826,184,824,179,957,135"/>
+<area shape="rect" id="Node000008" href="$pitchraise_8h.html" title=" " alt="" coords="939,181,1115,221"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1030,147,1030,181,1025,181,1025,147"/>
+<area shape="rect" id="Node000010" href="$resettorecording_8h.html" title=" " alt="" coords="18,181,274,221"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="909,136,739,153,606,162,475,170,308,184,274,187,274,182,307,179,474,165,606,157,739,148,909,131"/>
+<area shape="rect" id="Node000012" href="$algorithmfactory_8h.html" title=" " alt="" coords="1143,181,1352,221"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1081,136,1193,179,1191,184,1079,141"/>
+<area shape="rect" id="Node000005" href="$entropyminimizer_8cpp.html" title=" " alt="" coords="301,269,589,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="455,235,450,269,445,269,449,235"/>
+<area shape="rect" id="Node000007" href="$examplealgorithm_8cpp.html" title=" " alt="" coords="613,269,911,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="769,235,766,269,761,269,763,235"/>
+<area shape="rect" id="Node000009" href="$pitchraise_8cpp.html" title=" " alt="" coords="935,269,1120,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1030,235,1030,269,1025,269,1025,235"/>
+<area shape="rect" id="Node000011" href="$resettorecording_8cpp.html" title=" " alt="" coords="5,269,276,309"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="147,235,145,269,139,269,141,235"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="1193,179,1082,136,1084,131,1195,174"/>
+<area shape="rect" id="Node000013" href="$algorithmfactory_8cpp.html" title=" " alt="" coords="1144,269,1353,309"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1251,235,1251,269,1246,269,1245,235"/>
+<area shape="rect" id="Node000014" href="$calculationmanager_8cpp.html" title=" " alt="" coords="1377,269,1587,309"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="1313,224,1432,267,1430,272,1311,229"/>
+<area shape="poly" id="edge16_Node000015_Node000013" title=" " alt="" coords="1419,229,1301,272,1299,267,1417,224"/>
+<area shape="poly" id="edge18_Node000015_Node000014" title=" " alt="" coords="1485,235,1485,269,1479,269,1479,235"/>
+<area shape="rect" id="Node000016" href="$algorithmparameters_8cpp.html" title=" " alt="" coords="1611,269,1820,309"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1547,224,1665,267,1663,272,1545,229"/>
+<area shape="rect" id="Node000017" href="$core_8cpp.html" title=" " alt="" coords="1737,365,1931,390"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="1601,207,1670,215,1739,227,1796,244,1818,255,1833,268,1846,292,1848,319,1841,365,1835,364,1843,319,1840,293,1829,271,1815,259,1794,249,1738,232,1670,220,1600,212"/>
+<area shape="rect" id="Node000018" href="$core_8h.html" title=" " alt="" coords="1943,277,2122,302"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="1601,218,1960,274,1959,279,1600,224"/>
+<area shape="poly" id="edge23_Node000018_Node000017" title=" " alt="" coords="1994,310,1862,367,1860,362,1992,305"/>
+<area shape="rect" id="Node000019" href="$calculationadapter_8cpp.html" title=" " alt="" coords="2185,357,2379,397"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="2080,304,2228,355,2226,360,2078,309"/>
+<area shape="rect" id="Node000020" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="1955,357,2161,397"/>
+<area shape="poly" id="edge22_Node000018_Node000020" title=" " alt="" coords="2042,314,2055,356,2050,358,2037,316"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Synthesizer" name="Synthesizer">
+<area shape="rect" id="Node000001" title="Synthesizer class." alt="" coords="952,53,1051,79"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html" title=" " alt="" coords="629,13,725,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,31,952,57,951,63,738,36"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html" title=" " alt="" coords="271,5,389,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,17,629,22,629,28,403,22"/>
+<area shape="rect" id="Node000004" href="$class_waveform_generator.html" title="The WaveformGenerator class." alt="" coords="600,77,755,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="768,86,928,75,951,72,952,77,928,81,769,91"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="249,55,411,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,71,600,82,599,88,425,76"/>
+<area shape="rect" id="Node000006" href="$class_callback_manager.html" title=" " alt="" coords="221,105,439,145"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="452,110,599,95,600,100,453,115"/>
+<area shape="rect" id="Node000007" href="$class_base_callback_manager.html" title="Base class for managing callback interfaces." alt="" coords="5,112,172,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,122,221,122,221,127,186,127"/>
+<area shape="rect" id="Node000008" href="$class_f_f_t___implementation.html" title="Thread&#45;safe implementation of fftw3." alt="" coords="252,169,408,195"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="421,165,497,149,575,129,648,100,650,105,577,134,498,155,422,170"/>
+<area shape="rect" id="Node000009" href="$class_f_f_t_adapter.html" title="Abstract base class for handling fast Fourier transforms." alt="" coords="41,169,136,195"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="150,179,252,179,252,185,150,185"/>
+</map>

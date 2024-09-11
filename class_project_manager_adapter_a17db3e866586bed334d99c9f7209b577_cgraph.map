@@ -1,0 +1,51 @@
+<map id="ProjectManagerAdapter::onOpenFile" name="ProjectManagerAdapter::onOpenFile">
+<area shape="rect" id="Node000001" title="onOpen : Menu open&#45;file response" alt="" coords="5,147,180,187"/>
+<area shape="rect" id="Node000002" href="$class_project_manager_adapter.html#a23f5be6868db2679bedbc733de45fc9f" title="Check whether no changes have been made. If not ask whether the user wants to save the file." alt="" coords="228,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,144,165,104,227,62,250,49,253,54,229,66,168,108,119,148"/>
+<area shape="rect" id="Node000007" href="$struct_project_manager_adapter_1_1_file_dialog_result.html#acb53a9113a19909f85e02f784253f5c8" title=" " alt="" coords="1119,49,1305,89"/>
+<area shape="poly" id="edge20_Node000001_Node000007" title=" " alt="" coords="157,144,234,124,328,103,432,87,537,80,762,80,943,77,1105,72,1105,77,943,83,762,85,537,85,432,92,329,108,235,129,159,149"/>
+<area shape="rect" id="Node000018" href="$class_project_manager_adapter.html#acd9c753fd182c34025cfbf4acc0a4111" title="get a path to a file to open" alt="" coords="228,315,403,355"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="113,185,162,238,195,267,229,294,250,306,248,311,227,298,191,271,159,242,109,189"/>
+<area shape="rect" id="Node000019" href="$class_project_manager_adapter.html#ab72a6795a7bda6d99ac5a19fcde1d39b" title="Open (read) a file." alt="" coords="896,357,1071,397"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="179,184,885,352,884,357,178,189"/>
+<area shape="rect" id="Node000003" href="$class_project_manager_adapter.html#abd46203c6af320a7b9e62af56b035572" title="asks the user whether to save the current project file" alt="" coords="451,5,625,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,23,437,23,437,28,403,28"/>
+<area shape="rect" id="Node000004" href="$class_project_manager_adapter.html#a7d37e4cabd1891d1be619f8d7ae20a00" title="onSaveFile : Menu save&#45;file response" alt="" coords="451,149,625,189"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,43,496,139,493,144,346,48"/>
+<area shape="rect" id="Node000005" href="$class_project_manager_adapter.html#a88be87d46916699fd47381c777f856a8" title="onSaveFileAs : Menu save&#45;file&#45;as response" alt="" coords="673,149,848,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="626,167,660,167,660,172,626,172"/>
+<area shape="rect" id="Node000008" href="$class_project_manager_adapter.html#adbc961c875a9f78c26ac88ef6980dd72" title="ProjectManagerAdapter::saveFile." alt="" coords="896,235,1071,275"/>
+<area shape="poly" id="edge18_Node000004_Node000008" title=" " alt="" coords="620,187,674,199,883,236,882,242,673,204,619,192"/>
+<area shape="rect" id="Node000006" href="$class_project_manager_adapter.html#aecac686b1863bbfa287246bb58b911f6" title="get a path were to save the file" alt="" coords="896,120,1071,160"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="848,155,882,151,883,156,849,160"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="839,187,893,195,953,197,1013,190,1042,182,1069,170,1086,155,1093,138,1101,118,1117,99,1125,94,1128,98,1120,103,1105,121,1098,140,1090,158,1072,174,1044,187,1014,195,953,202,893,200,839,192"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="815,187,919,227,917,232,813,192"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="1044,232,1069,214,1080,200,1086,186,1091,158,1097,129,1104,114,1117,99,1122,95,1126,99,1121,103,1109,117,1102,131,1097,159,1091,188,1084,203,1073,218,1047,237"/>
+<area shape="rect" id="Node000009" href="$class_piano_manager.html#a7bdeb92f1fbfb953367659da9235d5e2" title=" " alt="" coords="1122,390,1302,415"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1003,273,1052,325,1084,353,1120,376,1134,383,1131,388,1117,381,1081,357,1048,329,999,277"/>
+<area shape="rect" id="Node000010" href="$class_core.html#af51170e1063f5b41b84d94d0d9b8e88d" title=" " alt="" coords="1125,291,1299,317"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1071,271,1140,286,1139,291,1070,276"/>
+<area shape="rect" id="Node000012" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="1127,242,1297,267"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="1071,252,1113,252,1113,257,1071,257"/>
+<area shape="rect" id="Node000013" href="$class_project_manager_adapter.html#ac8dc02b915e93b241af0249f7b854ba1" title="change the state of mChangesInFile and notify the listener" alt="" coords="1125,440,1299,480"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="1008,273,1040,305,1073,344,1087,368,1094,388,1103,407,1120,426,1127,431,1123,435,1117,430,1099,410,1089,390,1082,370,1068,347,1036,309,1004,277"/>
+<area shape="rect" id="Node000015" href="$class_project_manager_adapter.html#a17d159007595334ffaf6aba008810ae7" title="Show a message box that an error occurred during the save process." alt="" coords="1125,177,1299,217"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="1063,232,1118,218,1119,223,1064,237"/>
+<area shape="rect" id="Node000016" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="1139,341,1285,366"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="1017,273,1064,300,1120,327,1141,334,1139,339,1118,332,1062,305,1014,277"/>
+<area shape="rect" id="Node000017" href="$class_project_manager_adapter.html#a0165e7a2a33f3a3e85aad7d22f1a0f90" title="virtual function to write a piano file to the desired format" alt="" coords="1125,113,1299,153"/>
+<area shape="poly" id="edge17_Node000008_Node000017" title=" " alt="" coords="1037,232,1069,214,1083,201,1092,189,1102,176,1117,163,1128,157,1130,162,1120,168,1106,180,1097,192,1087,205,1072,218,1040,237"/>
+<area shape="rect" id="Node000011" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="1353,291,1576,317"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1299,301,1340,301,1340,307,1299,307"/>
+<area shape="rect" id="Node000014" href="$class_file_changes_callback.html#acc067ed6e14fdab56a8485e5a09b604c" title=" " alt="" coords="1377,440,1552,480"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1299,457,1363,457,1363,463,1299,463"/>
+<area shape="poly" id="edge22_Node000019_Node000009" title=" " alt="" coords="1071,384,1109,389,1108,394,1070,390"/>
+<area shape="poly" id="edge23_Node000019_Node000010" title=" " alt="" coords="1037,355,1118,327,1148,318,1149,323,1119,332,1039,360"/>
+<area shape="poly" id="edge25_Node000019_Node000012" title=" " alt="" coords="1006,355,1055,316,1117,278,1138,269,1140,274,1120,282,1058,320,1009,359"/>
+<area shape="poly" id="edge26_Node000019_Node000013" title=" " alt="" coords="1038,395,1120,425,1140,433,1139,438,1118,431,1036,400"/>
+<area shape="poly" id="edge28_Node000019_Node000016" title=" " alt="" coords="1070,366,1125,360,1125,365,1071,371"/>
+<area shape="rect" id="Node000020" href="$class_project_manager_adapter.html#af73a78babc59fbb2f6e24309f417b219" title="virtual function to read a piano file from the desired format" alt="" coords="1125,504,1299,544"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1005,395,1055,442,1086,467,1120,490,1132,496,1130,501,1117,494,1083,472,1051,446,1001,399"/>
+<area shape="rect" id="Node000021" href="$class_project_manager_adapter.html#aa25e50f4e7af6b1e8c1d1e495c9d81ed" title="Show a message box that an error occurred during the open process." alt="" coords="1125,568,1299,608"/>
+<area shape="poly" id="edge27_Node000019_Node000021" title=" " alt="" coords="997,396,1044,473,1079,516,1120,554,1129,559,1126,564,1117,558,1075,520,1039,476,992,399"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="EntropyMinimizer::computeEntropy" name="EntropyMinimizer::computeEntropy">
+<area shape="rect" id="Node000001" title="Compute the entropy of the current normalized accumulator content." alt="" coords="5,23,208,63"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a365914f5f4cf1049e98d3f0ff0e17021" title="Compute the Shannon entropy of a normalized probability distribution." alt="" coords="256,5,459,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,30,242,27,243,32,208,36"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="277,55,438,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,50,263,56,263,61,208,56"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="507,55,696,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,65,493,65,493,70,438,70"/>
+</map>

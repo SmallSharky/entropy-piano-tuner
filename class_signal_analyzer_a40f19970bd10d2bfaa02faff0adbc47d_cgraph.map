@@ -1,0 +1,7 @@
+<map id="SignalAnalyzer::keyRecognized" name="SignalAnalyzer::keyRecognized">
+<area shape="rect" id="Node000001" title="Callback function of the KeyRecognizer." alt="" coords="5,42,231,67"/>
+<area shape="rect" id="Node000002" href="$class_signal_analyzer.html#a0be7b4e052f0d77b259037eebb7a3736" title="identify final key" alt="" coords="279,5,455,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,39,265,35,265,40,226,45"/>
+<area shape="rect" id="Node000003" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="281,70,452,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,65,268,69,267,74,231,70"/>
+</map>

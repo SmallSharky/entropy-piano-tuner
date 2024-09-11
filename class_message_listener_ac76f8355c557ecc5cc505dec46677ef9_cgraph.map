@@ -1,0 +1,7 @@
+<map id="MessageListener::MessageListener" name="MessageListener::MessageListener">
+<area shape="rect" id="Node000001" title="Constructor, registering the present class at the MessageHandler." alt="" coords="5,23,204,63"/>
+<area shape="rect" id="Node000002" href="$class_message_handler.html#a61357e98934136a5e1de7999c435587c" title="Connect a new message listener." alt="" coords="255,5,470,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,31,241,27,242,33,205,36"/>
+<area shape="rect" id="Node000003" href="$class_message_handler.html#a4e65d97a9bb4891587dd2c2835c1a728" title="get a reference to the singleton class" alt="" coords="252,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,50,239,53,238,58,204,55"/>
+</map>

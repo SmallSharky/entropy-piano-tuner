@@ -1,0 +1,7 @@
+<map id="AudioRecorder::readAll" name="AudioRecorder::readAll">
+<area shape="rect" id="Node000001" title="Read all data from the internal buffer." alt="" coords="5,31,176,56"/>
+<area shape="rect" id="Node000002" href="$class_circular_buffer.html#a4d4f546d5fa6d8b5ce1e9d3527cefb7a" title="Clear the buffer, keeping its maximal size." alt="" coords="260,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,32,246,25,246,30,177,37"/>
+<area shape="rect" id="Node000003" href="$class_circular_buffer.html#ae9530f7bd16658b6bac4a7a2f9fa299c" title="Copy entire data in a time&#45;ordered form." alt="" coords="224,55,447,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,49,210,52,210,58,176,54"/>
+</map>

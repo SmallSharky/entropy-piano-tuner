@@ -1,0 +1,26 @@
+<map id="src/common/core/calculation/algorithmfactory.h" name="src/common/core/calculation/algorithmfactory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="494,5,703,45"/>
+<area shape="rect" id="Node000002" href="$algorithmfactory_8cpp.html" title=" " alt="" coords="261,93,470,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,53,417,96,416,91,534,48"/>
+<area shape="rect" id="Node000003" href="$algorithmplugin_8h.html" title=" " alt="" coords="494,93,703,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="593,59,594,93,588,93,587,59"/>
+<area shape="rect" id="Node000012" href="$calculationmanager_8cpp.html" title=" " alt="" coords="727,93,937,133"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="664,48,782,91,780,96,662,53"/>
+<area shape="poly" id="edge11_Node000003_Node000001" title=" " alt="" coords="605,80,604,46,609,46,610,80"/>
+<area shape="rect" id="Node000004" href="$entropyminimizer_8h.html" title=" " alt="" coords="23,181,297,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,139,257,184,256,179,489,133"/>
+<area shape="rect" id="Node000006" href="$examplealgorithm_8h.html" title=" " alt="" coords="328,181,611,221"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="560,144,499,183,496,179,557,139"/>
+<area shape="rect" id="Node000008" href="$pitchraise_8h.html" title=" " alt="" coords="640,181,816,221"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="640,139,701,179,698,183,638,144"/>
+<area shape="rect" id="Node000010" href="$resettorecording_8h.html" title=" " alt="" coords="849,181,1105,221"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="696,134,895,179,894,184,694,139"/>
+<area shape="rect" id="Node000005" href="$entropyminimizer_8cpp.html" title=" " alt="" coords="5,269,293,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="159,235,154,269,149,269,153,235"/>
+<area shape="rect" id="Node000007" href="$examplealgorithm_8cpp.html" title=" " alt="" coords="318,269,615,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="471,235,470,269,465,269,466,235"/>
+<area shape="rect" id="Node000009" href="$pitchraise_8cpp.html" title=" " alt="" coords="639,269,825,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="732,235,734,269,728,269,727,235"/>
+<area shape="rect" id="Node000011" href="$resettorecording_8cpp.html" title=" " alt="" coords="849,269,1119,309"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="983,235,985,269,980,269,977,235"/>
+</map>

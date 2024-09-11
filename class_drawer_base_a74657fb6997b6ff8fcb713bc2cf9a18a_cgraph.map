@@ -1,0 +1,9 @@
+<map id="DrawerBase::redraw" name="DrawerBase::redraw">
+<area shape="rect" id="Node000001" title="Function to completely redraw the scene." alt="" coords="5,70,160,95"/>
+<area shape="rect" id="Node000002" href="$class_graphics_view_adapter.html#a690fa6f4e2f35d32fedf483070903027" title="Clear the graphics panel." alt="" coords="230,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,67,217,46,219,51,135,73"/>
+<area shape="rect" id="Node000003" href="$class_drawer_base.html#a5eb83c8723a4cdefaf93f790cacc1428" title="Abstract function : draw the content." alt="" coords="241,70,382,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,80,226,80,226,85,161,85"/>
+<area shape="rect" id="Node000004" href="$class_drawer_base.html#abadb4620de698e8b7c24b310b79a2c39" title="Check whether the content has to be redrawn." alt="" coords="208,119,415,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,93,239,114,238,119,142,98"/>
+</map>

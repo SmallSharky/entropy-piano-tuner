@@ -1,0 +1,9 @@
+<map id="entropyminimizer::AuditoryPreprocessing::normalizeSpectrum" name="entropyminimizer::AuditoryPreprocessing::normalizeSpectrum">
+<area shape="rect" id="Node000001" title="Normalize spectrum." alt="" coords="5,23,253,63"/>
+<area shape="rect" id="Node000002" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="314,5,450,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,28,300,23,301,29,254,34"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="301,55,463,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,52,288,56,287,61,253,58"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="511,55,700,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,65,497,65,497,70,463,70"/>
+</map>

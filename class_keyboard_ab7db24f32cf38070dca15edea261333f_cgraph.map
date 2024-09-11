@@ -1,0 +1,5 @@
+<map id="Keyboard::getNoteName" name="Keyboard::getNoteName">
+<area shape="rect" id="Node000001" title="Get the name of the key as a string." alt="" coords="5,5,188,31"/>
+<area shape="rect" id="Node000002" href="$class_keyboard.html#a351363d1a0329663c5236daab8508239" title=" " alt="" coords="236,5,353,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,15,222,15,222,21,188,21"/>
+</map>

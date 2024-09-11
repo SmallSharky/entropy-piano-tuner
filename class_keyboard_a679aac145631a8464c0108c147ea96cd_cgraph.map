@@ -1,0 +1,5 @@
+<map id="Keyboard::getKeyColor" name="Keyboard::getKeyColor">
+<area shape="rect" id="Node000001" title="Get the color of the key (black / white)" alt="" coords="5,5,176,31"/>
+<area shape="rect" id="Node000002" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="224,5,444,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,15,210,15,210,21,176,21"/>
+</map>

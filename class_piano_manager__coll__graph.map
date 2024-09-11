@@ -1,0 +1,11 @@
+<map id="PianoManager" name="PianoManager">
+<area shape="rect" id="Node000001" title="The PianoManager class." alt="" coords="35,181,150,207"/>
+<area shape="rect" id="Node000002" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="5,93,137,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,131,92,180,87,181,75,133"/>
+<area shape="rect" id="Node000003" href="$class_piano.html" title=" " alt="" coords="162,93,221,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,130,108,183,105,179,166,126"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="78,5,161,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,40,159,68,181,91,177,95,155,71,133,43"/>
+<area shape="rect" id="Node000005" href="$class_algorithm_parameters.html" title=" " alt="" coords="185,5,345,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="255,44,237,71,210,95,207,91,233,68,251,41"/>
+</map>

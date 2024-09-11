@@ -1,0 +1,19 @@
+<map id="WaveformGenerator::workerFunction" name="WaveformGenerator::workerFunction">
+<area shape="rect" id="Node000001" title="Main thread function for wavefrom generation." alt="" coords="5,213,168,253"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="263,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,212,112,177,138,135,173,92,215,55,249,38,251,43,217,60,177,95,143,138,117,180,99,214"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#a717c9c2053e0b6c38a75acc619132b9c" title="Find out whether a thread has been registered for termination." alt="" coords="260,69,423,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,211,151,165,181,140,215,119,246,106,248,111,217,124,184,144,154,169,107,215"/>
+<area shape="rect" id="Node000005" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="233,134,450,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="157,211,231,190,232,195,159,216"/>
+<area shape="rect" id="Node000006" href="$class_simple_thread_handler.html#a1e798c941ef6b6cc223c155334c59542" title=" " alt="" coords="260,213,423,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="168,231,246,231,246,236,168,236"/>
+<area shape="rect" id="Node000007" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="216,277,467,317"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,251,249,271,247,277,166,256"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="245,342,438,367"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,252,157,291,186,310,217,327,241,336,239,341,215,332,183,315,154,295,107,256"/>
+<area shape="rect" id="Node000009" href="$class_simple_thread_handler.html#a2b9a9567f74a046f9a76ff974ca3fa5e" title=" " alt="" coords="260,392,423,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="102,252,148,314,180,348,217,376,248,391,246,396,215,381,177,352,144,317,98,255"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="515,5,671,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,23,501,23,501,28,420,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FourierSpectrumGraphDrawer::clear" name="FourierSpectrumGraphDrawer::clear">
+<area shape="rect" id="Node000001" title="Clear the spectrum." alt="" coords="5,5,220,45"/>
+<area shape="rect" id="Node000002" href="$class_drawer_base.html#a24d4f9ee435b9a8e960509b8e6ab16dc" title="Clear the whole view." alt="" coords="268,13,409,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,23,254,23,254,28,220,28"/>
+</map>

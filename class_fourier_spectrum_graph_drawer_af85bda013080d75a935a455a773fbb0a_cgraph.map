@@ -1,0 +1,25 @@
+<map id="FourierSpectrumGraphDrawer::handleMessage" name="FourierSpectrumGraphDrawer::handleMessage">
+<area shape="rect" id="Node000001" title="Message dispatcher for FourierSpectrumGraphDrawer." alt="" coords="5,113,220,153"/>
+<area shape="rect" id="Node000002" href="$class_drawer_base.html#a74657fb6997b6ff8fcb713bc2cf9a18a" title="Function to completely redraw the scene." alt="" coords="298,70,453,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,111,295,95,296,101,217,116"/>
+<area shape="rect" id="Node000005" href="$class_drawer_base.html#abadb4620de698e8b7c24b310b79a2c39" title="Check whether the content has to be redrawn." alt="" coords="531,119,737,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="220,130,517,130,517,135,220,136"/>
+<area shape="rect" id="Node000006" href="$class_fourier_spectrum_graph_drawer.html#a719a08e4341ee307d0bd8e87eecb5c72" title="Function for updating the red curve showing the spectrum." alt="" coords="268,265,483,305"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="150,151,329,256,327,261,147,156"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html#a690fa6f4e2f35d32fedf483070903027" title="Clear the graphics panel." alt="" coords="553,5,715,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,67,538,44,539,49,434,73"/>
+<area shape="rect" id="Node000004" href="$class_drawer_base.html#a5eb83c8723a4cdefaf93f790cacc1428" title="Abstract function : draw the content." alt="" coords="563,70,705,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="453,80,549,80,549,85,453,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,93,554,114,553,119,442,98"/>
+<area shape="rect" id="Node000007" href="$class_graphics_view_adapter.html#aa28e72fc6d0fd9cee40a342a1fb05102" title="Abstract function: Draw a chart (polygon)." alt="" coords="553,169,715,209"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="421,263,530,219,551,211,553,216,532,224,423,268"/>
+<area shape="rect" id="Node000008" href="$class_graphics_view_adapter.html#a372860840793673dd7e9531f98dd67bd" title="Abstract function: Draw a filled rectangle." alt="" coords="553,233,715,273"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="483,269,538,262,539,268,483,275"/>
+<area shape="rect" id="Node000009" href="$class_graphics_view_adapter.html#a655390f2c5d90c3e3e029e2d9a167502" title="Get the first of all graphics elements with a given role." alt="" coords="545,297,723,337"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="483,296,532,302,532,307,483,301"/>
+<area shape="rect" id="Node000010" href="$class_graphics_view_adapter.html#ac84d56eb502d5167530b80dc113fa83c" title="Get a list of graphic items that match with the given role." alt="" coords="785,327,969,367"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="414,303,469,328,531,347,593,356,655,359,772,356,772,361,655,364,592,361,530,352,467,333,412,308"/>
+<area shape="rect" id="Node000011" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="536,413,732,438"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="402,303,459,347,532,391,569,406,567,411,529,396,456,351,399,308"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="723,325,772,331,771,337,723,331"/>
+</map>

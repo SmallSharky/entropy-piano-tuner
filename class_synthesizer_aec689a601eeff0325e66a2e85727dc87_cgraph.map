@@ -1,0 +1,5 @@
+<map id="Synthesizer::isPlaying" name="Synthesizer::isPlaying">
+<area shape="rect" id="Node000001" title="Check whether a sound with given id is still playing." alt="" coords="5,5,171,31"/>
+<area shape="rect" id="Node000002" href="$class_synthesizer.html#a756d8f979a65fa64524e9e016821dccb" title="Get a pointer to the sound according to the given ID." alt="" coords="219,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,15,205,15,205,21,171,21"/>
+</map>

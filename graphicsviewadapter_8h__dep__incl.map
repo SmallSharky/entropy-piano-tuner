@@ -1,0 +1,23 @@
+<map id="src/common/core/adapters/graphicsviewadapter.h" name="src/common/core/adapters/graphicsviewadapter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,5,550,45"/>
+<area shape="rect" id="Node000002" href="$graphicsviewadapter_8cpp.html" title=" " alt="" coords="247,93,442,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,56,370,95,367,91,416,52"/>
+<area shape="rect" id="Node000003" href="$drawerbase_8h.html" title=" " alt="" coords="467,93,657,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="489,52,539,91,536,95,486,56"/>
+<area shape="rect" id="Node000004" href="$drawerbase_8cpp.html" title=" " alt="" coords="5,181,196,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,137,197,185,196,180,453,132"/>
+<area shape="rect" id="Node000005" href="$fourierspectrumgraphdrawer_8h.html" title=" " alt="" coords="220,181,443,221"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="500,141,383,184,381,179,498,136"/>
+<area shape="rect" id="Node000007" href="$graphicsitem_8cpp.html" title=" " alt="" coords="467,181,657,221"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="565,147,565,181,559,181,559,147"/>
+<area shape="rect" id="Node000008" href="$tuningcurvegraphdrawer_8h.html" title=" " alt="" coords="681,181,877,221"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="623,136,733,179,731,184,622,141"/>
+<area shape="rect" id="Node000010" href="$tuningindicatordrawer_8h.html" title=" " alt="" coords="905,181,1096,221"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="671,133,906,179,905,184,670,138"/>
+<area shape="rect" id="Node000006" href="$fourierspectrumgraphdrawer_8cpp.html" title=" " alt="" coords="212,269,451,309"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="334,235,334,269,329,269,329,235"/>
+<area shape="rect" id="Node000009" href="$tuningcurvegraphdrawer_8cpp.html" title=" " alt="" coords="671,269,882,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="781,235,780,269,775,269,776,235"/>
+<area shape="rect" id="Node000011" href="$tuningindicatordrawer_8cpp.html" title=" " alt="" coords="906,269,1101,309"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1004,235,1005,269,1000,269,999,235"/>
+</map>

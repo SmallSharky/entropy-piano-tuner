@@ -1,0 +1,36 @@
+<map id="src/common/core/audio/player/waveformgenerator.h" name="src/common/core/audio/player/waveformgenerator.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="892,5,1103,45"/>
+<area shape="rect" id="Node000002" href="$synthesizer_8h.html" title=" " alt="" coords="798,93,973,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="963,56,912,95,909,91,960,52"/>
+<area shape="rect" id="Node000016" href="$waveformgenerator_8cpp.html" title=" " alt="" coords="997,93,1224,133"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1035,52,1087,91,1084,95,1032,56"/>
+<area shape="rect" id="Node000003" href="$soundgenerator_8h.html" title=" " alt="" coords="680,181,864,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="851,144,799,183,795,179,848,140"/>
+<area shape="rect" id="Node000015" href="$synthesizer_8cpp.html" title=" " alt="" coords="913,181,1087,221"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="923,140,976,179,973,183,920,144"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="879,189,887,194,891,202,883,212,865,218,864,212,880,208,885,201,883,197,876,193"/>
+<area shape="rect" id="Node000004" href="$soundgenerator_8cpp.html" title=" " alt="" coords="673,343,871,383"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="775,235,775,343,769,343,769,235"/>
+<area shape="rect" id="Node000005" href="$core_8h.html" title=" " alt="" coords="352,269,531,295"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="680,227,490,272,489,267,679,222"/>
+<area shape="rect" id="Node000009" href="$settings_8h.html" title=" " alt="" coords="1029,269,1232,295"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="872,222,1079,267,1078,272,870,227"/>
+<area shape="rect" id="Node000006" href="$calculationadapter_8cpp.html" title=" " alt="" coords="453,343,648,383"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="470,300,526,340,523,345,467,305"/>
+<area shape="rect" id="Node000007" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="5,343,211,383"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="380,300,189,345,188,340,379,295"/>
+<area shape="rect" id="Node000008" href="$core_8cpp.html" title=" " alt="" coords="235,350,429,375"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="415,305,350,352,347,348,412,301"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="1066,300,858,345,857,340,1065,295"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="1018,299,662,345,649,347,648,342,661,340,1017,294"/>
+<area shape="rect" id="Node000010" href="$signalanalyzer_8cpp.html" title=" " alt="" coords="1613,343,1814,383"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1244,294,1602,340,1613,342,1612,347,1601,345,1243,299"/>
+<area shape="rect" id="Node000011" href="$stroboscope_8cpp.html" title=" " alt="" coords="1838,343,2029,383"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="1246,287,1512,307,1827,340,1838,342,1837,347,1826,345,1512,312,1246,293"/>
+<area shape="rect" id="Node000012" href="$algorithminformationparser_8cpp.html" title=" " alt="" coords="896,343,1128,383"/>
+<area shape="poly" id="edge14_Node000009_Node000012" title=" " alt="" coords="1103,305,1042,345,1039,340,1100,300"/>
+<area shape="rect" id="Node000013" href="$tuningindicatordrawer_8cpp.html" title=" " alt="" coords="1152,343,1347,383"/>
+<area shape="poly" id="edge15_Node000009_Node000013" title=" " alt="" coords="1161,300,1222,340,1219,345,1158,305"/>
+<area shape="rect" id="Node000014" href="$settings_8cpp.html" title=" " alt="" coords="1371,350,1589,375"/>
+<area shape="poly" id="edge16_Node000009_Node000014" title=" " alt="" coords="1195,295,1430,347,1429,353,1194,300"/>
+</map>

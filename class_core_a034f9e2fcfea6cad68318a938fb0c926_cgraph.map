@@ -1,0 +1,11 @@
+<map id="Core::stop" name="Core::stop">
+<area shape="rect" id="Node000001" title="Stop the core." alt="" coords="5,31,93,56"/>
+<area shape="rect" id="Node000002" href="$class_audio_interface.html#a1b205187be7a32ecf3f1145ff7ba66f5" title="Stop the audio device." alt="" coords="142,5,295,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,34,128,29,128,34,94,39"/>
+<area shape="rect" id="Node000003" href="$class_signal_analyzer.html#a355d83fd41fbf9dbc1eadb325948ac7c" title="Stop the signal analyzer." alt="" coords="141,55,296,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,47,128,52,127,57,93,52"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="344,47,507,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="297,65,330,65,330,70,297,70"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="555,47,717,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="507,65,541,65,541,70,507,70"/>
+</map>

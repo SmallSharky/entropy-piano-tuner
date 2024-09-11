@@ -1,0 +1,7 @@
+<map id="Synthesizer::playSound" name="Synthesizer::playSound">
+<area shape="rect" id="Node000001" title="Function which plays a single note (sound)" alt="" coords="5,45,180,70"/>
+<area shape="rect" id="Node000002" href="$class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9" title="Mutexed getter function to obtain the calculated waveform." alt="" coords="228,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,42,214,37,215,42,180,47"/>
+<area shape="rect" id="Node000003" href="$class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2" title="Find out whether the WaveformGenerator is still computing." alt="" coords="228,69,391,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,67,215,73,214,78,179,73"/>
+</map>

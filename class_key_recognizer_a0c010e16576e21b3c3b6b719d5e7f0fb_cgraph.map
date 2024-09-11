@@ -1,0 +1,14 @@
+<map id="KeyRecognizer::estimateFrequency" name="KeyRecognizer::estimateFrequency">
+<area shape="rect" id="Node000001" title="Estimate frequency for a given log&#45;log spectrum." alt="" coords="5,95,256,121"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="319,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,93,318,47,319,52,173,98"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="304,70,491,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,93,290,90,291,95,257,99"/>
+<area shape="rect" id="Node000005" href="$class_key_recognizer.html#a3faff2c2ae9f9cc81aca216f1345b772" title="Map bin index to frequency." alt="" coords="539,146,696,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="254,118,525,146,525,152,253,123"/>
+<area shape="rect" id="Node000006" href="$class_key_recognizer.html#a5d64a7e75360ee497f157bd817579920" title=" " alt="" coords="317,171,478,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,118,339,165,338,170,175,123"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="539,5,695,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,23,525,23,525,28,476,28"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="478,172,525,167,525,172,479,177"/>
+</map>

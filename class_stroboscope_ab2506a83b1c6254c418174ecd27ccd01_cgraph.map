@@ -1,0 +1,7 @@
+<map id="Stroboscope::setFrequencies" name="Stroboscope::setFrequencies">
+<area shape="rect" id="Node000001" title="Stroboscope::setFrequencies." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="261,5,465,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,15,248,15,248,21,214,21"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="513,5,751,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,15,500,15,500,21,466,21"/>
+</map>

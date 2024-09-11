@@ -1,0 +1,17 @@
+<map id="PianoManager::handleNewKey" name="PianoManager::handleNewKey">
+<area shape="rect" id="Node000001" title="Handle the event that a key has been successfully indentified." alt="" coords="5,153,225,179"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="289,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,151,186,97,228,66,272,40,288,33,290,38,275,44,230,71,190,102,131,155"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a10e0ea4a3d241f657ef30ef8f809ac7e" title=" " alt="" coords="298,55,427,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,151,198,121,272,89,295,81,297,86,274,94,201,125,141,156"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#aa1c6b5c3d8079ad836f3e4913ccab761" title=" " alt="" coords="291,104,434,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,151,284,129,285,135,180,156"/>
+<area shape="rect" id="Node000005" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="277,153,448,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,163,264,163,264,169,225,169"/>
+<area shape="rect" id="Node000006" href="$class_piano.html#a3239a7b657723832bb9fcebb8c6566a6" title=" " alt="" coords="307,203,418,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,176,295,199,293,204,179,181"/>
+<area shape="rect" id="Node000007" href="$class_key.html#a13e2ba5135cdbb6feba4f852d0637b75" title="Set overpull in cents." alt="" coords="299,252,427,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="142,177,202,206,274,237,300,245,298,250,272,242,199,211,140,181"/>
+<area shape="rect" id="Node000008" href="$class_key.html#a15b967d6fe38c1abdb3db543aee0abcf" title="Set tuned frequency." alt="" coords="273,301,452,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,177,190,229,231,260,275,286,293,295,291,299,272,291,228,264,187,234,128,181"/>
+</map>

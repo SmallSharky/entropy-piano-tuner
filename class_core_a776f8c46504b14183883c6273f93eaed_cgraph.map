@@ -1,0 +1,33 @@
+<map id="Core::~Core" name="Core::~Core">
+<area shape="rect" id="Node000001" title="Core destructor, calls stop and exit." alt="" coords="5,199,107,224"/>
+<area shape="rect" id="Node000002" href="$class_core.html#a03bb373b2da2f9f52b95444d6805f01c" title="Thus function calls exit() of all components that were initialized." alt="" coords="223,173,309,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,203,209,190,210,195,107,208"/>
+<area shape="rect" id="Node000009" href="$class_core.html#a034f9e2fcfea6cad68318a938fb0c926" title="Stop the core." alt="" coords="470,312,558,337"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="80,222,115,240,156,257,236,279,318,297,457,317,456,322,317,302,235,285,154,262,113,245,78,227"/>
+<area shape="rect" id="Node000014" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="155,223,377,248"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="107,215,142,219,141,224,107,220"/>
+<area shape="rect" id="Node000015" href="$class_calculation_manager.html#a227c8d291114155cafe9a0c7959a6a06" title=" " alt="" coords="190,31,342,71"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="72,196,226,78,230,82,76,201"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#a3e005d7d4df513800317d1a2e1d61bba" title="Destroy the audio device." alt="" coords="439,99,589,124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,171,425,133,451,125,453,130,426,138,306,176"/>
+<area shape="rect" id="Node000004" href="$class_recording_manager.html#aa10385cd8bc10014a5e5b9c211ec56fb" title=" " alt="" coords="425,148,603,173"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="309,179,411,169,412,174,309,184"/>
+<area shape="rect" id="Node000005" href="$class_signal_analyzer.html#a7d7638f9b0422ee3c7446e95ab7d79e4" title=" " alt="" coords="438,197,590,223"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="309,187,424,199,424,204,309,193"/>
+<area shape="rect" id="Node000006" href="$class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784" title=" " alt="" coords="438,247,590,287"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="309,190,378,208,403,219,426,232,446,240,444,245,424,236,400,224,376,213,308,195"/>
+<area shape="rect" id="Node000008" href="$class_calculation_manager.html#aa487e73bb38429319e338d0987215744" title="Stop the calculation thread." alt="" coords="438,34,590,74"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="283,171,344,130,424,84,439,77,441,82,427,88,347,134,286,176"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="309,184,345,191,379,208,397,230,404,254,410,276,427,297,458,313,456,318,424,301,406,279,399,255,393,233,376,212,343,196,308,190"/>
+<area shape="rect" id="Node000007" href="$class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8" title=" " alt="" coords="652,99,804,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="576,245,601,232,655,191,698,148,702,152,658,195,604,236,578,250"/>
+<area shape="rect" id="Node000010" href="$class_audio_interface.html#a1b205187be7a32ecf3f1145ff7ba66f5" title="Stop the audio device." alt="" coords="651,336,805,361"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="558,327,638,336,637,341,558,332"/>
+<area shape="rect" id="Node000011" href="$class_signal_analyzer.html#a355d83fd41fbf9dbc1eadb325948ac7c" title="Stop the signal analyzer." alt="" coords="651,287,805,312"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="558,317,637,307,638,313,558,322"/>
+<area shape="rect" id="Node000012" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="853,279,1016,319"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="806,297,840,297,840,302,806,302"/>
+<area shape="rect" id="Node000013" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="1064,279,1227,319"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1016,297,1050,297,1050,302,1016,302"/>
+<area shape="poly" id="edge15_Node000015_Node000007" title=" " alt="" coords="328,29,387,15,457,5,531,5,568,10,604,20,632,33,658,50,701,87,698,91,655,54,629,37,602,25,567,15,531,10,457,10,388,20,329,34"/>
+</map>

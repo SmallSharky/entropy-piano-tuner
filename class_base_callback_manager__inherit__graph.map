@@ -1,0 +1,9 @@
+<map id="BaseCallbackManager" name="BaseCallbackManager">
+<area shape="rect" id="Node000001" title="Base class for managing callback interfaces." alt="" coords="5,45,172,70"/>
+<area shape="rect" id="Node000002" href="$class_callback_manager.html" title=" " alt="" coords="220,5,437,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,42,219,37,220,42,186,47"/>
+<area shape="rect" id="Node000004" href="$class_callback_manager.html" title="Callback manager that can invoke a method to all its listeners." alt="" coords="225,69,432,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,68,225,73,225,78,185,73"/>
+<area shape="rect" id="Node000003" href="$class_waveform_generator.html" title="The WaveformGenerator class." alt="" coords="485,13,640,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,23,485,23,485,28,451,28"/>
+</map>

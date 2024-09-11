@@ -1,0 +1,24 @@
+<map id="Algorithm::showCalculationProgress" name="Algorithm::showCalculationProgress">
+<area shape="rect" id="Node000001" title="Transmit the current percentage of progress to the messaging system." alt="" coords="5,55,207,95"/>
+<area shape="rect" id="Node000002" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="255,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,53,286,31,287,36,194,58"/>
+<area shape="rect" id="Node000003" href="$class_algorithm.html#a2d287a5531ac4de412392ac1fe0b15fc" title="Transmit the current percentage of progress to the messaging system." alt="" coords="255,55,457,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,73,241,73,241,78,207,78"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html#acd459deb405647c580000490aaa71a0d" title=" " alt="" coords="275,130,437,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,93,276,124,275,129,173,98"/>
+<area shape="rect" id="Node000004" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="507,51,678,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,68,494,66,494,71,457,73"/>
+<area shape="rect" id="Node000006" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="728,94,891,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="437,141,714,119,715,124,438,146"/>
+<area shape="rect" id="Node000007" href="$class_simple_thread_handler.html#a0832e65ca495778cf58dd039985fb69c" title=" " alt="" coords="505,215,680,255"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="413,168,525,208,523,213,411,173"/>
+<area shape="rect" id="Node000011" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="511,151,674,191"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="438,155,498,160,497,165,438,160"/>
+<area shape="rect" id="Node000008" href="$class_simple_thread_handler.html#a773070afe77138730078e87096784f1b" title=" " alt="" coords="728,158,891,198"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="668,213,720,199,721,204,670,218"/>
+<area shape="rect" id="Node000009" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="736,223,883,248"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="680,233,722,233,722,238,680,238"/>
+<area shape="rect" id="Node000010" href="$class_simple_thread_handler.html#ac8e798b146647cf3fae4ca1e13c05e44" title="Virtual worker function, executed within the new thread." alt="" coords="728,273,891,313"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="670,253,721,267,720,272,668,258"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="668,149,720,135,721,140,670,154"/>
+</map>

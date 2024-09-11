@@ -1,0 +1,25 @@
+<map id="SoundGenerator::handleMidiKeypress" name="SoundGenerator::handleMidiKeypress">
+<area shape="rect" id="Node000001" title="Handle MIDI keypress." alt="" coords="5,146,212,186"/>
+<area shape="rect" id="Node000002" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="269,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,144,182,91,219,63,259,40,276,32,278,37,261,44,222,68,185,95,130,148"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a7be71a23d427c15c37408b185bcea6a4" title=" " alt="" coords="288,55,457,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,144,197,115,259,89,285,81,287,86,261,94,199,120,145,148"/>
+<area shape="rect" id="Node000004" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="260,104,485,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,144,290,129,291,135,213,149"/>
+<area shape="rect" id="Node000007" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="317,153,428,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="212,163,303,163,303,169,212,169"/>
+<area shape="rect" id="Node000008" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="271,203,474,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="213,183,291,197,290,203,212,188"/>
+<area shape="rect" id="Node000009" href="$class_synthesizer.html#ad607dd1a8d909eb0cb2dc889edb97b09" title="Function which plays a single note (sound)" alt="" coords="285,252,460,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="147,184,200,211,261,237,291,246,290,251,259,242,197,216,144,189"/>
+<area shape="rect" id="Node000012" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="287,301,458,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="130,184,185,237,222,264,261,288,278,295,276,300,259,292,219,269,182,241,126,188"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="533,85,753,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="486,106,519,104,520,109,486,112"/>
+<area shape="rect" id="Node000006" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="538,135,749,160"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="485,127,524,131,524,136,485,132"/>
+<area shape="rect" id="Node000010" href="$class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9" title="Mutexed getter function to obtain the calculated waveform." alt="" coords="562,198,725,238"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="446,249,548,232,549,237,447,255"/>
+<area shape="rect" id="Node000011" href="$class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2" title="Find out whether the WaveformGenerator is still computing." alt="" coords="562,262,725,302"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="460,268,549,273,548,279,460,273"/>
+</map>

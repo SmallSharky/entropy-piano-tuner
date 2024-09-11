@@ -1,0 +1,7 @@
+<map id="SignalAnalyzer::stop" name="SignalAnalyzer::stop">
+<area shape="rect" id="Node000001" title="Stop the signal analyzer." alt="" coords="5,13,160,38"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="208,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,23,194,23,194,28,161,28"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="419,5,581,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,23,405,23,405,28,371,28"/>
+</map>

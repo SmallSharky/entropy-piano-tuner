@@ -1,0 +1,13 @@
+<map id="SoundGenerator::playResonatingSineWave" name="SoundGenerator::playResonatingSineWave">
+<area shape="rect" id="Node000001" title="Play a permanent sine wave as a resonating background sound for tuning." alt="" coords="5,47,241,87"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="321,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,45,307,29,308,34,227,50"/>
+<area shape="rect" id="Node000003" href="$class_key.html#acb1d238f5843b42f04338a8a8090e4cd" title="Get a read&#45;only reference to mPeaks." alt="" coords="320,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,65,306,65,306,70,242,70"/>
+<area shape="rect" id="Node000004" href="$class_synthesizer.html#ad607dd1a8d909eb0cb2dc889edb97b09" title="Function which plays a single note (sound)" alt="" coords="289,104,464,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,85,298,99,297,104,226,90"/>
+<area shape="rect" id="Node000005" href="$class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9" title="Mutexed getter function to obtain the calculated waveform." alt="" coords="512,65,675,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,101,498,96,499,101,464,107"/>
+<area shape="rect" id="Node000006" href="$class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2" title="Find out whether the WaveformGenerator is still computing." alt="" coords="512,129,675,169"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="464,127,499,132,498,137,463,132"/>
+</map>

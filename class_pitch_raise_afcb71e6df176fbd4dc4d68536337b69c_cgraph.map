@@ -1,0 +1,19 @@
+<map id="PitchRaise::algorithmWorkerFunction" name="PitchRaise::algorithmWorkerFunction">
+<area shape="rect" id="Node000001" title="PitchRaise::algorithmWorkerFunction." alt="" coords="5,154,212,194"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="319,5,429,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,152,180,96,218,65,259,40,304,24,306,29,261,44,221,69,184,99,129,156"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="300,55,448,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,151,194,119,259,89,286,80,287,86,261,94,196,124,142,156"/>
+<area shape="rect" id="Node000004" href="$class_key.html#a3ee0a9cc4f16b994883dac48baf3c915" title="Get estimated inharmonicity." alt="" coords="260,104,488,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,151,301,130,302,135,202,157"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html#a1e798c941ef6b6cc223c155334c59542" title=" " alt="" coords="293,154,455,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,171,279,171,279,177,212,177"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="536,248,707,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="200,191,260,203,523,245,522,250,260,209,199,197"/>
+<area shape="rect" id="Node000007" href="$class_algorithm.html#a2d287a5531ac4de412392ac1fe0b15fc" title="Transmit the current percentage of progress to the messaging system." alt="" coords="273,269,475,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="147,192,261,248,297,262,295,267,259,252,145,197"/>
+<area shape="rect" id="Node000008" href="$class_pitch_raise.html#ab9b43a384ea6569b349af41ff8905f1a" title="Update the entire tuning curve." alt="" coords="263,357,485,383"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="129,193,184,253,221,288,261,318,292,336,323,350,321,355,289,341,259,323,218,292,180,257,125,196"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="475,275,522,269,523,274,475,280"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="334,359,326,349,330,339,347,333,374,331,409,335,419,339,422,345,418,348,415,343,407,340,374,336,348,338,334,343,331,348,338,355"/>
+</map>

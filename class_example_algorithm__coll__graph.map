@@ -1,0 +1,16 @@
+<map id="ExampleAlgorithm" name="ExampleAlgorithm">
+<area shape="rect" id="Node000001" title="Basic class to show how to implement own algorithms." alt="" coords="189,256,331,281"/>
+<area shape="rect" id="Node000002" href="$class_algorithm.html" title="The Algorithm class is a basic abstract class for any tuning algorithm." alt="" coords="217,181,303,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,221,263,256,257,256,257,221"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,93,168,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,122,238,179,235,183,121,127"/>
+<area shape="rect" id="Node000004" href="$class_piano.html" title=" " alt="" coords="319,93,377,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="328,130,274,183,270,179,325,126"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="179,5,261,31"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="222,45,224,80,231,118,243,152,256,180,251,182,238,154,225,119,219,80,217,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,38,275,67,320,91,317,96,272,72,238,42"/>
+<area shape="rect" id="Node000006" href="$class_algorithm_parameters.html" title=" " alt="" coords="289,5,449,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="366,45,354,93,348,92,361,43"/>
+<area shape="rect" id="Node000007" href="$class_algorithm_factory_description.html" title=" " alt="" coords="402,93,609,119"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="463,126,369,160,297,184,295,179,367,155,461,121"/>
+</map>

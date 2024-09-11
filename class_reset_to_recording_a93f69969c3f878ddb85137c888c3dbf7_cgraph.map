@@ -1,0 +1,17 @@
+<map id="ResetToRecording::algorithmWorkerFunction" name="ResetToRecording::algorithmWorkerFunction">
+<area shape="rect" id="Node000001" title="Worker function in which the computation thread is carried out." alt="" coords="5,122,215,162"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="317,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,120,190,79,225,58,262,40,303,26,305,31,264,44,228,62,193,83,137,124"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="299,55,447,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,119,262,89,295,80,296,86,263,94,167,124"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="263,104,483,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,129,249,126,249,131,215,135"/>
+<area shape="rect" id="Node000005" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="271,153,474,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,149,258,153,257,158,215,154"/>
+<area shape="rect" id="Node000006" href="$class_simple_thread_handler.html#a1e798c941ef6b6cc223c155334c59542" title=" " alt="" coords="291,203,454,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,160,263,187,293,197,291,202,262,193,173,165"/>
+<area shape="rect" id="Node000007" href="$class_algorithm.html#ab2444aede55b764e297d7123bdf6954f" title="Update the tuning curve." alt="" coords="263,268,482,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="134,160,190,207,226,232,264,253,286,262,284,267,262,258,223,236,187,211,130,164"/>
+<area shape="rect" id="Node000008" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="531,268,701,293"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="482,278,517,278,517,283,482,283"/>
+</map>

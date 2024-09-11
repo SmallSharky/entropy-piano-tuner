@@ -1,0 +1,9 @@
+<map id="Synthesizer::preCalculateWaveform" name="Synthesizer::preCalculateWaveform">
+<area shape="rect" id="Node000001" title="Pre&#45;calculate the PCM waveform of a sound." alt="" coords="5,49,193,89"/>
+<area shape="rect" id="Node000002" href="$class_waveform_generator.html#acb339ff8c5d94694bf81cb09ca343715" title="pre&#45;calculate a waveform" alt="" coords="241,49,404,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,66,228,66,228,71,194,71"/>
+<area shape="rect" id="Node000003" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="469,5,686,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,55,455,47,456,53,404,60"/>
+<area shape="rect" id="Node000004" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="452,85,703,125"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="404,77,439,82,438,88,404,83"/>
+</map>

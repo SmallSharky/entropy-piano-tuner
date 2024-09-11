@@ -1,0 +1,5 @@
+<map id="PCMDevice" name="PCMDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,93,112,119"/>
+<area shape="rect" id="Node000002" href="$class_audio_interface.html" title=" " alt="" coords="5,5,123,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,45,67,93,61,93,61,45"/>
+</map>

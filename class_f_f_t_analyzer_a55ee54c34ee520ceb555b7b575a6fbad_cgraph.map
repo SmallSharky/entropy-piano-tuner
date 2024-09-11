@@ -1,0 +1,10 @@
+<map id="FFTAnalyzer::estimateQuality" name="FFTAnalyzer::estimateQuality">
+<area shape="rect" id="Node000001" title="Estimate the quality of the recorded signal." alt="" coords="5,56,220,81"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a39da022a8dc5843008123ada9e0d5888" title="Determine the n&#45;th moment of a distribution stored in a vector." alt="" coords="268,5,475,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,53,292,31,293,36,179,58"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="523,81,712,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,71,509,86,509,91,220,77"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="291,107,452,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,79,293,101,292,107,178,84"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="452,108,508,103,509,108,452,114"/>
+</map>

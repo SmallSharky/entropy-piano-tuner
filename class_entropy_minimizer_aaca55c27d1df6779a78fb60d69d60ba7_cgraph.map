@@ -1,0 +1,16 @@
+<map id="EntropyMinimizer::updateTuningcurve" name="EntropyMinimizer::updateTuningcurve">
+<area shape="rect" id="Node000001" title="Update the tuning curve for a given key number." alt="" coords="5,74,196,114"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a16452e4ca4fb84657512601e26731a60" title="Compute the defining temperatent." alt="" coords="244,56,487,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,82,230,79,230,84,196,88"/>
+<area shape="rect" id="Node000006" href="$class_algorithm.html#ab2444aede55b764e297d7123bdf6954f" title="Update the tuning curve." alt="" coords="256,105,475,131"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="196,100,243,104,242,110,196,105"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="535,5,760,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,53,562,31,563,36,437,59"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="813,55,1023,80"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="487,66,799,65,799,70,487,71"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="808,5,1028,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="760,15,794,15,794,21,760,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="718,28,834,49,834,55,717,33"/>
+<area shape="rect" id="Node000007" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="562,107,733,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="475,116,548,116,548,122,475,121"/>
+</map>

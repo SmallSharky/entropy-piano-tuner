@@ -1,0 +1,15 @@
+<map id="entropyminimizer::AuditoryPreprocessing::cleanSpectrum" name="entropyminimizer::AuditoryPreprocessing::cleanSpectrum">
+<area shape="rect" id="Node000001" title="Clean logarithmically binned spectrum." alt="" coords="5,112,224,152"/>
+<area shape="rect" id="Node000002" href="$classentropyminimizer_1_1_auditory_preprocessing.html#a976b4032cdebd4fe74f5348b7f201423" title=" " alt="" coords="272,5,564,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,109,207,81,271,55,298,46,300,52,273,60,209,86,153,114"/>
+<area shape="rect" id="Node000003" href="$class_key.html#a3ee0a9cc4f16b994883dac48baf3c915" title="Get estimated inharmonicity." alt="" coords="304,70,532,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,112,325,95,326,100,225,117"/>
+<area shape="rect" id="Node000004" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="317,119,519,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,129,303,129,303,135,224,135"/>
+<area shape="rect" id="Node000005" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="350,169,486,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,147,337,166,336,171,224,152"/>
+<area shape="rect" id="Node000006" href="$classentropyminimizer_1_1_auditory_preprocessing.html#a722933eee1d3d8f07cf25ca1c02683a6" title=" " alt="" coords="317,219,519,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,150,209,177,273,203,305,213,303,218,271,208,207,182,152,154"/>
+<area shape="rect" id="Node000007" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="612,226,783,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="519,236,598,236,598,241,519,241"/>
+</map>

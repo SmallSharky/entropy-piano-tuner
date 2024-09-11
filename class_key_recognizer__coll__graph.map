@@ -1,0 +1,17 @@
+<map id="KeyRecognizer" name="KeyRecognizer">
+<area shape="rect" id="Node000001" title="Module for fast recognition of the pressed key." alt="" coords="282,181,401,207"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,93,168,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,121,308,179,306,184,133,126"/>
+<area shape="rect" id="Node000003" href="$class_key_recognizer_callback.html" title="Callback class for KeyRecognizer." alt="" coords="193,93,367,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,131,302,156,326,179,322,183,298,159,285,133"/>
+<area shape="rect" id="Node000004" href="$class_piano.html" title=" " alt="" coords="392,93,451,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,131,354,183,351,179,399,127"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="235,5,317,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,38,339,67,393,92,391,97,336,72,296,42"/>
+<area shape="rect" id="Node000006" href="$class_algorithm_parameters.html" title=" " alt="" coords="341,5,501,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="424,45,424,93,419,93,419,45"/>
+<area shape="rect" id="Node000007" href="$class_f_f_t___implementation.html" title="Thread&#45;safe implementation of fftw3." alt="" coords="498,93,654,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="535,126,446,160,377,184,375,179,444,155,534,121"/>
+<area shape="rect" id="Node000008" href="$class_f_f_t_adapter.html" title="Abstract base class for handling fast Fourier transforms." alt="" coords="550,5,645,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="594,45,582,93,576,92,589,43"/>
+</map>

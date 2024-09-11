@@ -1,0 +1,9 @@
+<map id="DrawerBase" name="DrawerBase">
+<area shape="rect" id="Node000001" title="Abstract base class for drawing 2d graphics." alt="" coords="287,5,389,31"/>
+<area shape="rect" id="Node000002" href="$class_fourier_spectrum_graph_drawer.html" title="The FourierSpectrumGraphDrawer class." alt="" coords="5,79,220,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,37,150,81,148,76,288,32"/>
+<area shape="rect" id="Node000003" href="$class_tuning_curve_graph_drawer.html" title="Class for drawing various tuning curves." alt="" coords="244,79,432,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,44,341,79,335,79,335,44"/>
+<area shape="rect" id="Node000004" href="$class_tuning_indicator_drawer.html" title="Drawer for the tuning indicator." alt="" coords="457,79,625,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="384,33,509,76,507,81,382,38"/>
+</map>

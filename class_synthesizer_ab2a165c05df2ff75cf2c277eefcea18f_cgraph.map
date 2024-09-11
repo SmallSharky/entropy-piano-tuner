@@ -1,0 +1,5 @@
+<map id="Synthesizer::ModifySustainLevel" name="Synthesizer::ModifySustainLevel">
+<area shape="rect" id="Node000001" title="Change the level (sustain level) of a constantly playing sound." alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" href="$class_synthesizer.html#a756d8f979a65fa64524e9e016821dccb" title="Get a pointer to the sound according to the given ID." alt="" coords="252,13,465,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+</map>

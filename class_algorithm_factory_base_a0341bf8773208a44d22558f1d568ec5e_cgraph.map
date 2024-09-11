@@ -1,0 +1,11 @@
+<map id="AlgorithmFactoryBase::AlgorithmFactoryBase" name="AlgorithmFactoryBase::AlgorithmFactoryBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,179,109"/>
+<area shape="rect" id="Node000002" href="$class_algorithm_factory_description.html#a7cdc5c5b7ee65aae2d5de74c792f3962" title=" " alt="" coords="227,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,67,241,46,243,51,168,72"/>
+<area shape="rect" id="Node000003" href="$class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784" title=" " alt="" coords="254,69,406,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,87,240,87,240,92,179,92"/>
+<area shape="rect" id="Node000005" href="$class_calculation_manager.html#a2ba6f6af35e9989e374464943a812f89" title=" " alt="" coords="254,133,406,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,107,243,127,241,132,166,112"/>
+<area shape="rect" id="Node000004" href="$class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8" title=" " alt="" coords="481,69,633,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,87,467,87,467,92,406,92"/>
+</map>

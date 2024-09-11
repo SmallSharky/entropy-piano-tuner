@@ -1,0 +1,7 @@
+<map id="AlgorithmFactory&lt; AlgorithmClass &gt;" name="AlgorithmFactory&lt; AlgorithmClass &gt;">
+<area shape="rect" id="Node000001" title="The AlgorithmFactory class is a template class to be created with the actual Algorithm." alt="" coords="5,168,217,208"/>
+<area shape="rect" id="Node000002" href="$class_algorithm_factory_base.html" title="The AlgorithmFactoryBase class create the desired Algorithm." alt="" coords="29,93,194,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,132,114,168,109,168,109,132"/>
+<area shape="rect" id="Node000003" href="$class_algorithm_factory_description.html" title=" " alt="" coords="8,5,215,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,45,114,93,109,93,109,45"/>
+</map>

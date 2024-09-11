@@ -1,0 +1,35 @@
+<map id="ProjectManagerAdapter::onQuit" name="ProjectManagerAdapter::onQuit">
+<area shape="rect" id="Node000001" title="onQuit : Menu quit response" alt="" coords="5,101,180,141"/>
+<area shape="rect" id="Node000002" href="$class_project_manager_adapter.html#abd46203c6af320a7b9e62af56b035572" title="asks the user whether to save the current project file" alt="" coords="228,69,403,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,106,214,101,215,106,181,111"/>
+<area shape="rect" id="Node000003" href="$class_project_manager_adapter.html#a7d37e4cabd1891d1be619f8d7ae20a00" title="onSaveFile : Menu save&#45;file response" alt="" coords="228,133,403,173"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,131,215,136,214,142,180,137"/>
+<area shape="rect" id="Node000004" href="$class_project_manager_adapter.html#a88be87d46916699fd47381c777f856a8" title="onSaveFileAs : Menu save&#45;file&#45;as response" alt="" coords="451,104,625,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,139,437,135,438,140,403,144"/>
+<area shape="rect" id="Node000007" href="$class_project_manager_adapter.html#adbc961c875a9f78c26ac88ef6980dd72" title="ProjectManagerAdapter::saveFile." alt="" coords="673,161,848,201"/>
+<area shape="poly" id="edge17_Node000003_Node000007" title=" " alt="" coords="403,156,660,172,659,178,403,161"/>
+<area shape="rect" id="Node000005" href="$class_project_manager_adapter.html#aecac686b1863bbfa287246bb58b911f6" title="get a path were to save the file" alt="" coords="673,47,848,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,101,668,88,670,93,617,107"/>
+<area shape="rect" id="Node000006" href="$struct_project_manager_adapter_1_1_file_dialog_result.html#acb53a9113a19909f85e02f784253f5c8" title=" " alt="" coords="896,5,1083,45"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="625,128,677,128,734,124,792,114,847,96,861,88,871,78,880,67,895,56,910,49,912,53,897,61,884,71,875,82,865,92,849,101,793,119,734,129,677,133,625,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="617,141,670,155,668,160,616,147"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="819,159,846,141,862,120,869,99,877,78,894,57,903,50,906,54,898,61,881,81,874,101,867,123,850,145,822,163"/>
+<area shape="rect" id="Node000008" href="$class_piano_manager.html#a7bdeb92f1fbfb953367659da9235d5e2" title=" " alt="" coords="899,70,1079,95"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="810,159,847,140,870,123,895,106,916,97,918,102,897,110,873,127,849,145,813,164"/>
+<area shape="rect" id="Node000009" href="$class_core.html#af51170e1063f5b41b84d94d0d9b8e88d" title=" " alt="" coords="902,119,1077,145"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="848,160,916,145,917,150,849,165"/>
+<area shape="rect" id="Node000011" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="904,169,1075,194"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="848,179,890,179,890,184,848,184"/>
+<area shape="rect" id="Node000012" href="$class_project_manager_adapter.html#ac8dc02b915e93b241af0249f7b854ba1" title="change the state of mChangesInFile and notify the listener" alt="" coords="902,219,1077,259"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="842,199,897,213,895,218,840,204"/>
+<area shape="rect" id="Node000014" href="$class_project_manager_adapter.html#a17d159007595334ffaf6aba008810ae7" title="Show a message box that an error occurred during the save process." alt="" coords="902,283,1077,323"/>
+<area shape="poly" id="edge14_Node000007_Node000014" title=" " alt="" coords="790,199,838,234,897,268,912,275,910,280,895,273,835,238,786,204"/>
+<area shape="rect" id="Node000015" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="916,347,1063,373"/>
+<area shape="poly" id="edge15_Node000007_Node000015" title=" " alt="" coords="776,200,824,266,858,302,897,332,912,340,909,345,895,337,855,306,820,269,772,203"/>
+<area shape="rect" id="Node000016" href="$class_project_manager_adapter.html#a0165e7a2a33f3a3e85aad7d22f1a0f90" title="virtual function to write a piano file to the desired format" alt="" coords="902,397,1077,437"/>
+<area shape="poly" id="edge16_Node000007_Node000016" title=" " alt="" coords="773,201,790,239,817,288,853,339,898,383,905,388,902,393,894,387,849,343,813,291,785,242,768,203"/>
+<area shape="rect" id="Node000010" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="1131,119,1353,145"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1077,129,1117,129,1117,135,1077,135"/>
+<area shape="rect" id="Node000013" href="$class_file_changes_callback.html#acc067ed6e14fdab56a8485e5a09b604c" title=" " alt="" coords="1155,219,1329,259"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1077,236,1141,236,1141,241,1077,241"/>
+</map>

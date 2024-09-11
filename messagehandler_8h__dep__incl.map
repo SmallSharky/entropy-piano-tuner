@@ -1,0 +1,37 @@
+<map id="src/common/core/messages/messagehandler.h" name="src/common/core/messages/messagehandler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1964,5,2168,45"/>
+<area shape="rect" id="Node000002" href="$auditorypreprocessing_8cpp.html" title=" " alt="" coords="5,93,324,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1950,31,1266,49,805,68,337,96,325,97,324,92,336,91,805,62,1266,43,1950,26"/>
+<area shape="rect" id="Node000003" href="$entropyminimizer_8cpp.html" title=" " alt="" coords="349,93,637,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1950,32,1390,51,1022,70,649,96,637,97,636,92,648,91,1021,65,1389,46,1950,27"/>
+<area shape="rect" id="Node000004" href="$pitchraise_8cpp.html" title=" " alt="" coords="661,93,847,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1950,31,1745,37,1474,48,1168,67,860,96,847,98,847,92,859,91,1167,62,1473,43,1745,31,1950,26"/>
+<area shape="rect" id="Node000005" href="$modeselectoradapter_8cpp.html" title=" " alt="" coords="871,93,1066,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1951,33,1563,53,1321,71,1078,96,1067,97,1066,92,1078,91,1321,66,1563,48,1950,28"/>
+<area shape="rect" id="Node000006" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="1090,93,1295,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1950,37,1658,60,1308,96,1296,97,1295,92,1307,91,1658,54,1950,32"/>
+<area shape="rect" id="Node000007" href="$signalanalyzer_8cpp.html" title=" " alt="" coords="1320,93,1521,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1950,42,1533,96,1522,98,1521,92,1532,91,1950,37"/>
+<area shape="rect" id="Node000008" href="$midiadapter_8cpp.html" title=" " alt="" coords="1545,93,1720,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1958,51,1721,97,1720,92,1957,45"/>
+<area shape="rect" id="Node000009" href="$soundgenerator_8cpp.html" title=" " alt="" coords="1744,93,1943,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2005,53,1893,96,1891,91,2004,48"/>
+<area shape="rect" id="Node000010" href="$audiorecorder_8cpp.html" title=" " alt="" coords="1966,93,2166,133"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2069,59,2069,93,2063,93,2063,59"/>
+<area shape="rect" id="Node000011" href="$stroboscope_8cpp.html" title=" " alt="" coords="2191,93,2381,133"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2128,48,2239,91,2237,96,2126,53"/>
+<area shape="rect" id="Node000012" href="$algorithm_8cpp.html" title=" " alt="" coords="2405,93,2615,133"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2177,45,2413,91,2412,96,2176,51"/>
+<area shape="rect" id="Node000013" href="$calculationmanager_8cpp.html" title=" " alt="" coords="2639,93,2848,133"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2182,36,2390,60,2628,91,2639,92,2638,98,2627,96,2389,65,2181,42"/>
+<area shape="rect" id="Node000014" href="$core_8cpp.html" title=" " alt="" coords="2872,101,3065,126"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2182,31,2490,53,2675,70,2861,91,2909,98,2908,103,2860,96,2675,75,2489,58,2182,36"/>
+<area shape="rect" id="Node000015" href="$tuningcurvegraphdrawer_8cpp.html" title=" " alt="" coords="3090,93,3301,133"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2182,28,2580,49,2828,67,3078,91,3090,92,3090,97,3078,96,2828,72,2579,54,2182,34"/>
+<area shape="rect" id="Node000016" href="$messagehandler_8cpp.html" title=" " alt="" coords="3325,93,3529,133"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2182,26,2393,32,2674,43,2992,62,3313,91,3325,92,3325,97,3312,96,2992,68,2674,49,2393,37,2182,31"/>
+<area shape="rect" id="Node000017" href="$messagelistener_8cpp.html" title=" " alt="" coords="3553,93,3757,133"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2182,25,2429,28,2766,39,3152,58,3349,73,3542,91,3553,92,3553,97,3542,96,3349,78,3151,64,2766,44,2428,34,2182,30"/>
+<area shape="rect" id="Node000018" href="$pianomanager_8cpp.html" title=" " alt="" coords="3781,93,3956,133"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2182,26,2984,48,3438,67,3627,78,3770,91,3781,92,3781,97,3770,96,3626,83,3438,72,2984,53,2181,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="entropyminimizer::AuditoryPreprocessing::convertToSPLA" name="entropyminimizer::AuditoryPreprocessing::convertToSPLA">
+<area shape="rect" id="Node000001" title="Compute A&#45;weighted sound pressure level SPLA." alt="" coords="5,5,223,45"/>
+<area shape="rect" id="Node000002" href="$classentropyminimizer_1_1_auditory_preprocessing.html#ad438205fdb1f9ee29509cafea3828c55" title="Initialize the filter function in the vector mdBA." alt="" coords="271,5,513,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,23,257,23,257,28,223,28"/>
+<area shape="rect" id="Node000003" href="$classentropyminimizer_1_1_auditory_preprocessing.html#a722933eee1d3d8f07cf25ca1c02683a6" title=" " alt="" coords="561,5,763,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="514,23,547,23,547,28,514,28"/>
+<area shape="rect" id="Node000004" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="811,13,981,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="763,23,797,23,797,28,763,28"/>
+</map>

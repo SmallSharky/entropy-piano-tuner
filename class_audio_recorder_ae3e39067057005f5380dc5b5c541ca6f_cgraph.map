@@ -1,0 +1,11 @@
+<map id="AudioRecorder::open" name="AudioRecorder::open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,163,80"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="211,5,415,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,52,239,31,240,36,144,57"/>
+<area shape="rect" id="Node000004" href="$class_p_c_m_device.html#a3eb36ae49ca60f5c7ca9b7e1f816d661" title=" " alt="" coords="245,55,381,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,65,231,65,231,70,163,70"/>
+<area shape="rect" id="Node000005" href="$class_circular_buffer.html#a7a80a3483a699157eaf25a30ed400792" title="Resize the buffer, shrink oldest data if necessary." alt="" coords="233,104,392,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,77,240,98,239,104,143,83"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="463,5,700,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,15,449,15,449,21,415,21"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MessageProjectFile" name="MessageProjectFile">
+<area shape="rect" id="Node000001" title="Message reporting an action concerining files." alt="" coords="5,181,153,207"/>
+<area shape="rect" id="Node000002" href="$class_message.html" title="The Message class." alt="" coords="18,93,98,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,131,79,180,74,181,62,133"/>
+<area shape="rect" id="Node000003" href="$class_piano.html" title=" " alt="" coords="122,93,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,131,91,183,87,179,131,127"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="37,5,119,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,43,100,68,129,91,126,95,96,71,82,45"/>
+<area shape="rect" id="Node000005" href="$class_algorithm_parameters.html" title=" " alt="" coords="143,5,303,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="207,43,163,95,159,91,203,39"/>
+</map>

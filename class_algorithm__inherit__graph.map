@@ -1,0 +1,13 @@
+<map id="Algorithm" name="Algorithm">
+<area shape="rect" id="Node000001" title="The Algorithm class is a basic abstract class for any tuning algorithm." alt="" coords="265,79,352,104"/>
+<area shape="rect" id="Node000003" href="$class_entropy_minimizer.html" title="Namespace for all entropy minimizer components." alt="" coords="5,152,143,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,110,113,154,111,149,257,105"/>
+<area shape="rect" id="Node000004" href="$class_example_algorithm.html" title="Basic class to show how to implement own algorithms." alt="" coords="167,152,309,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,116,251,154,248,150,285,112"/>
+<area shape="rect" id="Node000005" href="$class_pitch_raise.html" title="Basic class to show how to implement own algorithms." alt="" coords="334,152,425,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="332,112,370,150,366,154,328,116"/>
+<area shape="rect" id="Node000006" href="$class_reset_to_recording.html" title="Algorithm to copy the recorded pitches into the tuning curve." alt="" coords="449,152,587,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="356,106,485,149,483,154,355,111"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="227,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,44,311,79,306,79,306,44"/>
+</map>

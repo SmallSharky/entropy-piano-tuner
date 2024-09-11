@@ -1,0 +1,11 @@
+<map id="entropyminimizer::AuditoryPreprocessing::extrapolateInharmonicity" name="entropyminimizer::AuditoryPreprocessing::extrapolateInharmonicity">
+<area shape="rect" id="Node000001" title="Extrapolate inharmonicity and estimate missing values." alt="" coords="5,47,292,87"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="346,29,571,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,53,332,50,332,55,293,58"/>
+<area shape="rect" id="Node000005" href="$class_piano.html#a2933e5209564538be8a3544741284d84" title="Compute expected approximative inharmonicity." alt="" coords="340,79,577,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="293,76,326,78,326,84,292,81"/>
+<area shape="rect" id="Node000003" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="625,5,845,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,30,612,26,612,31,572,35"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="630,55,841,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="572,50,616,54,616,59,571,55"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SignalAnalyzer::signalPreprocessing" name="SignalAnalyzer::signalPreprocessing">
+<area shape="rect" id="Node000001" title="Function for signal preprocessing." alt="" coords="5,31,263,56"/>
+<area shape="rect" id="Node000002" href="$class_audio_recorder.html#aa8466708a502c68266509125e3310028" title="Cut trailing silence." alt="" coords="311,5,503,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,29,297,26,297,31,263,34"/>
+<area shape="rect" id="Node000003" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="551,31,755,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="263,41,536,41,536,46,263,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,25,537,29,537,34,502,31"/>
+<area shape="rect" id="Node000004" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="803,31,1040,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="755,41,789,41,789,46,755,46"/>
+</map>

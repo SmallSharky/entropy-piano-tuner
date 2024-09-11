@@ -1,0 +1,15 @@
+<map id="SoundGenerator::preCalculateSoundOfKey" name="SoundGenerator::preCalculateSoundOfKey">
+<area shape="rect" id="Node000001" title="Calculate the sound of a given key in advance, using the spectrum of the given key." alt="" coords="5,47,223,87"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="309,5,420,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,45,295,29,296,34,217,50"/>
+<area shape="rect" id="Node000003" href="$class_key.html#acb1d238f5843b42f04338a8a8090e4cd" title="Get a read&#45;only reference to mPeaks." alt="" coords="308,55,421,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,65,294,65,294,70,223,70"/>
+<area shape="rect" id="Node000004" href="$class_synthesizer.html#a6afcf57ac79feb55b597601cc4146130" title="Pre&#45;calculate the PCM waveform of a sound." alt="" coords="271,105,459,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,85,264,99,263,104,201,90"/>
+<area shape="rect" id="Node000005" href="$class_waveform_generator.html#acb339ff8c5d94694bf81cb09ca343715" title="pre&#45;calculate a waveform" alt="" coords="507,105,669,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="459,122,493,122,493,127,459,127"/>
+<area shape="rect" id="Node000006" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="734,61,951,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="669,111,720,103,721,109,670,116"/>
+<area shape="rect" id="Node000007" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="717,141,968,181"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="670,133,704,138,704,144,669,139"/>
+</map>

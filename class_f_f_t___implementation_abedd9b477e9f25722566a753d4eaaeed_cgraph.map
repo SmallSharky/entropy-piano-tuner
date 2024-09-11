@@ -1,0 +1,5 @@
+<map id="FFT_Implementation::calculateFFT" name="FFT_Implementation::calculateFFT">
+<area shape="rect" id="Node000001" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="5,5,161,45"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="209,5,365,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,23,196,23,196,28,161,28"/>
+</map>

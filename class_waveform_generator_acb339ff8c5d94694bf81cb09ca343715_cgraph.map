@@ -1,0 +1,7 @@
+<map id="WaveformGenerator::preCalculate" name="WaveformGenerator::preCalculate">
+<area shape="rect" id="Node000001" title="pre&#45;calculate a waveform" alt="" coords="5,49,168,89"/>
+<area shape="rect" id="Node000002" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="233,5,450,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,55,219,47,220,53,168,60"/>
+<area shape="rect" id="Node000003" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="216,85,467,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,77,203,82,202,88,168,83"/>
+</map>

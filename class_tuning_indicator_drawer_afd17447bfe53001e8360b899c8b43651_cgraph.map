@@ -1,0 +1,30 @@
+<map id="TuningIndicatorDrawer::handleMessage" name="TuningIndicatorDrawer::handleMessage">
+<area shape="rect" id="Node000001" title="Message listener." alt="" coords="5,337,173,377"/>
+<area shape="rect" id="Node000002" href="$class_tuning_indicator_drawer.html#a0084d2a98cb82a98049aa1b9e35cf0d4" title="Main drawing function." alt="" coords="243,197,411,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,335,279,242,282,247,126,340"/>
+<area shape="rect" id="Node000007" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="501,311,666,337"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="173,336,221,329,360,320,487,319,487,324,360,326,222,335,174,342"/>
+<area shape="rect" id="Node000009" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="253,345,401,370"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="173,355,239,355,239,360,173,360"/>
+<area shape="rect" id="Node000010" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="221,394,432,419"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="174,372,252,389,251,394,173,377"/>
+<area shape="rect" id="Node000011" href="$class_drawer_base.html#a74657fb6997b6ff8fcb713bc2cf9a18a" title="Function to completely redraw the scene." alt="" coords="249,443,404,469"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="121,375,168,403,222,430,245,437,243,442,220,434,165,408,119,380"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html#aa28e72fc6d0fd9cee40a342a1fb05102" title="Abstract function: Draw a chart (polygon)." alt="" coords="502,5,665,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,195,395,127,434,88,479,55,490,49,492,54,481,60,438,92,399,130,344,199"/>
+<area shape="rect" id="Node000004" href="$class_graphics_view_adapter.html#a372860840793673dd7e9531f98dd67bd" title="Abstract function: Draw a filled rectangle." alt="" coords="502,69,665,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,195,410,157,479,119,496,112,498,117,481,124,413,162,357,199"/>
+<area shape="rect" id="Node000005" href="$class_graphics_view_adapter.html#a5da81d881ba891e58897765de76d8cf1" title="Abstract function: Draw a line." alt="" coords="502,133,665,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,195,489,174,490,179,408,200"/>
+<area shape="rect" id="Node000006" href="$class_graphics_view_adapter.html#accf72970a9b5485bfacb86ec0a4837b5" title=" " alt="" coords="502,197,665,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="411,215,488,215,488,220,411,220"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="361,235,416,266,481,296,508,305,506,310,479,301,414,271,359,240"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="487,262,680,287"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="411,233,513,256,512,262,410,239"/>
+<area shape="rect" id="Node000012" href="$class_graphics_view_adapter.html#a690fa6f4e2f35d32fedf483070903027" title="Clear the graphics panel." alt="" coords="502,379,665,419"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="384,441,488,417,489,422,385,446"/>
+<area shape="rect" id="Node000013" href="$class_drawer_base.html#a5eb83c8723a4cdefaf93f790cacc1428" title="Abstract function : draw the content." alt="" coords="513,443,654,469"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="404,453,499,453,499,459,404,459"/>
+<area shape="rect" id="Node000014" href="$class_drawer_base.html#abadb4620de698e8b7c24b310b79a2c39" title="Check whether the content has to be redrawn." alt="" coords="480,493,687,518"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="394,466,504,487,503,493,393,471"/>
+</map>

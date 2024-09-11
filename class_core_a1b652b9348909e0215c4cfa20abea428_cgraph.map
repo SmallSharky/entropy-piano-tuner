@@ -1,0 +1,22 @@
+<map id="Core::Core" name="Core::Core">
+<area shape="rect" id="Node000001" title="Core constructor." alt="" coords="5,159,96,185"/>
+<area shape="rect" id="Node000002" href="$class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784" title=" " alt="" coords="144,63,296,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,157,168,107,171,111,77,162"/>
+<area shape="rect" id="Node000004" href="$class_calculation_manager.html#a97d21b1a7c02b7d39c0e6584f19ba8d2" title=" " alt="" coords="144,184,296,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,178,131,184,130,190,96,183"/>
+<area shape="rect" id="Node000003" href="$class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8" title=" " alt="" coords="401,5,553,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,63,387,43,388,48,297,68"/>
+<area shape="rect" id="Node000005" href="$class_calculation_manager.html#a32225a0e91068c48e442c9462b1d7572" title=" " alt="" coords="344,69,609,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,182,291,153,343,126,381,111,383,116,345,130,294,158,250,186"/>
+<area shape="rect" id="Node000006" href="$class_calculation_manager.html#a44ea2061f27fb015a5e2319c2734067f" title=" " alt="" coords="657,99,809,139"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="292,181,343,169,502,143,644,125,644,130,503,148,345,175,293,187"/>
+<area shape="rect" id="Node000007" href="$class_algorithm_factory_description.html#a7cdc5c5b7ee65aae2d5de74c792f3962" title=" " alt="" coords="373,184,580,224"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="296,201,360,201,360,207,296,207"/>
+<area shape="rect" id="Node000008" href="$class_algorithm_factory_base.html#a70500dbc0f14bf291ce7322f1c394d57" title=" " alt="" coords="394,248,559,288"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="297,221,345,233,381,242,380,248,343,239,296,226"/>
+<area shape="rect" id="Node000009" href="$class_algorithm_factory_description.html#a7a392c08e0e7d1827ca58b0459c11644" title=" " alt="" coords="373,312,580,352"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="243,222,288,261,345,298,362,305,360,310,343,302,285,265,240,226"/>
+<area shape="rect" id="Node000010" href="$class_calculation_manager.html#a2ba6f6af35e9989e374464943a812f89" title=" " alt="" coords="401,376,553,416"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="233,223,251,254,276,292,307,330,345,362,388,381,386,386,343,366,304,334,271,295,246,257,229,226"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="610,102,644,106,643,111,609,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="KeyRecognizer::detectFrequencyInTreble" name="KeyRecognizer::detectFrequencyInTreble">
+<area shape="rect" id="Node000001" title="Detect keys in the treble." alt="" coords="5,5,240,45"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="288,13,481,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+</map>

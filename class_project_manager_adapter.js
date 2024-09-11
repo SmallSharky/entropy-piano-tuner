@@ -1,0 +1,47 @@
+var class_project_manager_adapter =
+[
+    [ "FileDialogResult", "struct_project_manager_adapter_1_1_file_dialog_result.html", "struct_project_manager_adapter_1_1_file_dialog_result" ],
+    [ "FileSaveType", "class_project_manager_adapter.html#aa34014a725af7b41703e1aa38bb00df5", [
+      [ "FST_SAVE", "class_project_manager_adapter.html#aa34014a725af7b41703e1aa38bb00df5a55baa5ff62a56f516ebe072fa61352c9", null ],
+      [ "FST_EXPORT", "class_project_manager_adapter.html#aa34014a725af7b41703e1aa38bb00df5a410e291b9aca2552957c538046c145fa", null ]
+    ] ],
+    [ "Results", "class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207ee", [
+      [ "R_CANCELED", "class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eead18f1a753f9464e8791c86daeaacb24f", null ],
+      [ "R_YES", "class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eeae2bf07cd3a30d5ce674116cd521154e5", null ],
+      [ "R_NO", "class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eea7b98dfa32aeb59d790024231930561be", null ],
+      [ "R_ACCEPTED", "class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eeae6e3f9355a62509de1c25f38784fde5c", null ]
+    ] ],
+    [ "ProjectManagerAdapter", "class_project_manager_adapter.html#ac51abda65f23842b17f463f9e325005e", null ],
+    [ "~ProjectManagerAdapter", "class_project_manager_adapter.html#af2007153d063c9c571bc19eb6ee38aa6", null ],
+    [ "askForSaving", "class_project_manager_adapter.html#abd46203c6af320a7b9e62af56b035572", null ],
+    [ "checkForNoChanges", "class_project_manager_adapter.html#a23f5be6868db2679bedbc733de45fc9f", null ],
+    [ "editFile", "class_project_manager_adapter.html#a6e1cfb8726745aeb76b92d6c43b22e7b", null ],
+    [ "fillNew", "class_project_manager_adapter.html#aa6b7ee989856e057fc8cafdc25f9da78", null ],
+    [ "getCurrentFilePath", "class_project_manager_adapter.html#ae00ef0eb7cda8d3783dd0b240a44b254", null ],
+    [ "getOpenPath", "class_project_manager_adapter.html#acd9c753fd182c34025cfbf4acc0a4111", null ],
+    [ "getSavePath", "class_project_manager_adapter.html#aecac686b1863bbfa287246bb58b911f6", null ],
+    [ "handleMessage", "class_project_manager_adapter.html#a785776a1147cd9e2348ddc06777ebcab", null ],
+    [ "hasChangesInFile", "class_project_manager_adapter.html#a76271a16f9a11d008314d97d140f0b9d", null ],
+    [ "init", "class_project_manager_adapter.html#a78c21fee280e0357b5ea984624592f38", null ],
+    [ "onEditFile", "class_project_manager_adapter.html#aad73e4ff64f9534c9c96dbb6bc93b9b6", null ],
+    [ "onExport", "class_project_manager_adapter.html#a694903800adf6f378086e7234c96ab1b", null ],
+    [ "onNewFile", "class_project_manager_adapter.html#a9da28834e5899f6ffd258566ebf759c4", null ],
+    [ "onOpenFile", "class_project_manager_adapter.html#a17db3e866586bed334d99c9f7209b577", null ],
+    [ "onQuit", "class_project_manager_adapter.html#a2410e1164a49257ed748a45033bf05e4", null ],
+    [ "onSaveFile", "class_project_manager_adapter.html#a7d37e4cabd1891d1be619f8d7ae20a00", null ],
+    [ "onSaveFileAs", "class_project_manager_adapter.html#a88be87d46916699fd47381c777f856a8", null ],
+    [ "onShare", "class_project_manager_adapter.html#a73a1ef9cccb240079367009409832cfb", null ],
+    [ "openFile", "class_project_manager_adapter.html#ab72a6795a7bda6d99ac5a19fcde1d39b", null ],
+    [ "readPianoFile", "class_project_manager_adapter.html#af73a78babc59fbb2f6e24309f417b219", null ],
+    [ "saveFile", "class_project_manager_adapter.html#adbc961c875a9f78c26ac88ef6980dd72", null ],
+    [ "setCallback", "class_project_manager_adapter.html#a381d6a46f14b889b363710d1cf3b773c", null ],
+    [ "setChangesInFile", "class_project_manager_adapter.html#ac8dc02b915e93b241af0249f7b854ba1", null ],
+    [ "share", "class_project_manager_adapter.html#ada7c70cedde2e45da8ddb2940fb76803", null ],
+    [ "showOpenError", "class_project_manager_adapter.html#aa25e50f4e7af6b1e8c1d1e495c9d81ed", null ],
+    [ "showSaveError", "class_project_manager_adapter.html#a17d159007595334ffaf6aba008810ae7", null ],
+    [ "writePianoFile", "class_project_manager_adapter.html#a0165e7a2a33f3a3e85aad7d22f1a0f90", null ],
+    [ "mCallback", "class_project_manager_adapter.html#a4e5523af1dc09f895d2e745c3f11dbb3", null ],
+    [ "mChangesInFile", "class_project_manager_adapter.html#a32734a594e9e4035238883ba4589a4dc", null ],
+    [ "mCore", "class_project_manager_adapter.html#a2be867df7fe43e9e928a3cfe2f93feb5", null ],
+    [ "mCurrentFilePath", "class_project_manager_adapter.html#a24b86e57559000c14eec2e0380c06c53", null ]
+];

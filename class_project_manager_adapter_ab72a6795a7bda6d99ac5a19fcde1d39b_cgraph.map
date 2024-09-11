@@ -1,0 +1,21 @@
+<map id="ProjectManagerAdapter::openFile" name="ProjectManagerAdapter::openFile">
+<area shape="rect" id="Node000001" title="Open (read) a file." alt="" coords="5,162,180,202"/>
+<area shape="rect" id="Node000002" href="$class_piano_manager.html#a7bdeb92f1fbfb953367659da9235d5e2" title=" " alt="" coords="228,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,160,154,100,188,68,227,40,239,33,242,38,229,44,192,72,158,104,110,163"/>
+<area shape="rect" id="Node000003" href="$class_core.html#af51170e1063f5b41b84d94d0d9b8e88d" title=" " alt="" coords="231,55,405,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,159,167,124,227,90,248,82,250,87,229,95,170,129,121,164"/>
+<area shape="rect" id="Node000005" href="$class_project_manager_adapter.html#af73a78babc59fbb2f6e24309f417b219" title="virtual function to read a piano file from the desired format" alt="" coords="231,105,405,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,159,225,146,226,151,173,165"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="233,169,403,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,179,219,179,219,185,180,185"/>
+<area shape="rect" id="Node000007" href="$class_project_manager_adapter.html#ac8dc02b915e93b241af0249f7b854ba1" title="change the state of mChangesInFile and notify the listener" alt="" coords="231,219,405,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,199,226,213,225,218,171,205"/>
+<area shape="rect" id="Node000009" href="$class_project_manager_adapter.html#aa25e50f4e7af6b1e8c1d1e495c9d81ed" title="Show a message box that an error occurred during the open process." alt="" coords="231,283,405,323"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="122,200,170,234,229,269,244,276,241,280,227,274,168,239,119,204"/>
+<area shape="rect" id="Node000010" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="245,348,391,373"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="108,201,156,266,190,302,229,333,243,341,241,345,227,338,187,306,152,270,104,204"/>
+<area shape="rect" id="Node000004" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="456,55,679,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,65,442,65,442,70,406,70"/>
+<area shape="rect" id="Node000008" href="$class_file_changes_callback.html#acc067ed6e14fdab56a8485e5a09b604c" title=" " alt="" coords="480,219,655,259"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="406,237,466,237,466,242,406,242"/>
+</map>

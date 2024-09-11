@@ -1,0 +1,58 @@
+<map id="CalculationAdapter" name="CalculationAdapter">
+<area shape="rect" id="Node000001" title="Adapter for starting and stopping the calculation process." alt="" coords="1920,441,2067,466"/>
+<area shape="rect" id="Node000002" href="$class_core.html" title="CORE : Class managing the core." alt="" coords="1772,441,1824,466"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1838,451,1920,451,1920,456,1838,456"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html" title=" " alt="" coords="5,361,123,386"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,347,113,265,143,213,181,160,226,111,277,70,305,54,334,42,365,35,398,32,1513,32,1550,36,1584,47,1614,64,1642,86,1667,113,1690,143,1727,210,1756,280,1776,346,1797,440,1792,441,1771,348,1751,282,1722,212,1685,146,1663,116,1639,90,1611,68,1582,52,1549,41,1513,37,398,37,366,40,336,47,307,59,280,75,229,115,185,164,148,216,117,267,78,349"/>
+<area shape="rect" id="Node000005" href="$class_p_c_m_device.html" title=" " alt="" coords="351,706,447,731"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="77,398,104,459,149,539,177,581,209,622,245,659,285,691,318,706,352,714,350,719,316,711,283,696,242,663,205,625,172,584,144,542,100,461,73,400"/>
+<area shape="rect" id="Node000004" href="$class_audio_recorder.html" title="Abstract adapter class for recording audio signals." alt="" coords="747,706,865,731"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="830,740,868,774,892,791,918,803,991,827,1054,844,1111,853,1165,855,1220,851,1277,840,1415,803,1522,768,1565,751,1603,731,1638,708,1672,678,1708,642,1746,596,1766,562,1780,526,1793,466,1798,467,1785,527,1771,565,1750,599,1712,645,1676,682,1641,712,1605,736,1567,756,1524,773,1417,808,1279,846,1220,856,1165,860,1111,858,1053,849,989,832,916,808,890,795,865,779,826,744"/>
+<area shape="rect" id="Node000007" href="$class_stroboscope.html" title="Class for a stroboscopic tuning indicator." alt="" coords="1124,737,1227,762"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="849,734,882,746,918,755,972,761,1028,761,1124,754,1124,759,1028,767,972,766,917,760,881,751,847,739"/>
+<area shape="rect" id="Node000008" href="$class_recording_manager.html" title="Recording manager." alt="" coords="1440,654,1584,679"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="843,736,879,752,918,767,1017,792,1096,802,1177,800,1278,787,1349,774,1379,764,1415,746,1462,711,1497,678,1501,681,1466,716,1417,750,1381,769,1351,779,1279,792,1177,805,1096,807,1016,797,917,772,877,757,841,740"/>
+<area shape="rect" id="Node000014" href="$class_signal_analyzer.html" title="Signal analyzer: Fourier transformation of the recorded audio signal." alt="" coords="1453,334,1571,359"/>
+<area shape="poly" id="edge23_Node000014_Node000004" title=" " alt="" coords="866,700,962,676,1072,652,1131,645,1177,644,1223,640,1278,623,1322,602,1354,581,1381,554,1414,517,1445,474,1471,429,1503,358,1508,361,1476,432,1449,477,1418,520,1385,558,1357,585,1324,607,1280,628,1224,645,1178,650,1131,650,1072,657,963,681,868,705"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="461,716,747,716,747,721,461,721"/>
+<area shape="rect" id="Node000006" href="$class_circular_buffer.html" title=" " alt="" coords="284,657,515,682"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="529,678,695,697,748,706,747,711,694,703,528,684"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="1110,747,865,726,865,721,1110,741"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="1241,746,1325,739,1371,731,1415,719,1458,699,1492,677,1495,682,1460,704,1417,724,1372,736,1326,744,1241,751"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="1539,644,1778,464,1781,468,1543,648"/>
+<area shape="rect" id="Node000009" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="1109,498,1241,523"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1235,525,1280,540,1350,568,1417,603,1494,652,1491,656,1415,608,1348,573,1278,545,1233,530"/>
+<area shape="poly" id="edge19_Node000014_Node000009" title=" " alt="" coords="1255,513,1294,511,1336,505,1377,494,1415,476,1447,450,1472,417,1503,358,1508,361,1477,420,1451,454,1417,481,1378,499,1337,510,1295,516,1255,518"/>
+<area shape="rect" id="Node000010" href="$class_piano.html" title=" " alt="" coords="777,386,835,411"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="841,416,962,488,1073,547,1463,651,1462,657,1071,552,960,493,839,421"/>
+<area shape="poly" id="edge21_Node000014_Node000010" title=" " alt="" coords="849,397,1036,396,1156,391,1278,383,1370,371,1452,356,1453,361,1371,376,1279,388,1157,397,1036,401,849,402"/>
+<area shape="rect" id="Node000021" href="$class_key_recognizer.html" title="Module for fast recognition of the pressed key." alt="" coords="1116,186,1235,211"/>
+<area shape="poly" id="edge32_Node000021_Node000010" title=" " alt="" coords="838,376,916,328,954,308,984,295,1013,280,1046,254,1057,237,1062,229,1070,220,1092,209,1115,202,1116,208,1094,214,1074,225,1066,232,1062,240,1050,258,1016,284,987,300,956,313,919,333,841,381"/>
+<area shape="rect" id="Node000011" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="358,362,441,387"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="455,375,776,394,776,400,454,381"/>
+<area shape="rect" id="Node000012" href="$class_algorithm_parameters.html" title=" " alt="" coords="319,411,479,437"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="493,419,694,409,776,400,777,405,695,415,493,425"/>
+<area shape="rect" id="Node000013" href="$class_key.html" title="Class describing a single piano key." alt="" coords="783,602,829,627"/>
+<area shape="poly" id="edge16_Node000008_Node000013" title=" " alt="" coords="843,622,945,646,1072,667,1130,671,1175,670,1279,667,1440,665,1440,670,1279,672,1175,676,1130,676,1072,672,944,651,842,627"/>
+<area shape="rect" id="Node000020" href="$class_f_f_t_analyzer.html" title="Module performing the final analysis of the Fourier transform." alt="" coords="1125,235,1226,261"/>
+<area shape="poly" id="edge28_Node000020_Node000013" title=" " alt="" coords="841,597,888,572,945,536,1001,489,1025,462,1046,432,1055,410,1058,389,1053,350,1050,311,1056,291,1070,270,1095,253,1124,246,1125,251,1097,258,1074,274,1061,293,1055,311,1058,349,1063,389,1060,411,1050,435,1029,465,1004,493,948,540,891,577,843,602"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="1561,362,1773,442,1771,447,1559,367"/>
+<area shape="rect" id="Node000015" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="725,467,887,493"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="901,490,973,494,1048,489,1415,385,1483,357,1485,362,1417,391,1048,495,973,499,901,495"/>
+<area shape="poly" id="edge30_Node000021_Node000015" title=" " alt="" coords="838,458,1046,329,1053,315,1056,302,1055,275,1055,248,1060,234,1070,221,1091,206,1115,199,1116,204,1093,211,1074,225,1065,237,1060,249,1060,275,1062,302,1058,317,1050,332,841,463"/>
+<area shape="rect" id="Node000016" href="$class_key_recognizer_callback.html" title="Callback class for KeyRecognizer." alt="" coords="719,90,893,115"/>
+<area shape="poly" id="edge20_Node000014_Node000016" title=" " alt="" coords="878,85,991,70,1059,67,1132,68,1207,75,1281,91,1352,117,1418,154,1440,173,1458,196,1486,247,1503,297,1511,333,1506,334,1498,298,1481,249,1454,199,1436,177,1414,158,1350,121,1280,96,1206,80,1132,73,1059,72,991,76,879,90"/>
+<area shape="poly" id="edge31_Node000021_Node000016" title=" " alt="" coords="870,116,1126,183,1124,188,868,121"/>
+<area shape="rect" id="Node000017" href="$class_circular_buffer.html" title=" " alt="" coords="1072,285,1279,310"/>
+<area shape="poly" id="edge22_Node000014_Node000017" title=" " alt="" coords="1293,307,1416,324,1455,331,1454,337,1416,329,1292,312"/>
+<area shape="rect" id="Node000018" href="$class_f_f_t___implementation.html" title="Thread&#45;safe implementation of fftw3." alt="" coords="728,186,884,211"/>
+<area shape="poly" id="edge24_Node000014_Node000018" title=" " alt="" coords="897,183,1029,167,1181,156,1255,156,1321,160,1377,169,1417,186,1437,201,1454,220,1481,261,1499,302,1510,333,1505,334,1494,304,1476,264,1450,223,1433,205,1415,190,1375,174,1320,165,1254,161,1181,162,1030,172,898,188"/>
+<area shape="poly" id="edge27_Node000020_Node000018" title=" " alt="" coords="887,211,918,216,1125,241,1124,246,917,221,886,216"/>
+<area shape="poly" id="edge33_Node000021_Node000018" title=" " alt="" coords="898,196,1116,196,1116,201,898,201"/>
+<area shape="rect" id="Node000019" href="$class_f_f_t_adapter.html" title="Abstract base class for handling fast Fourier transforms." alt="" coords="352,186,447,211"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="461,196,728,196,728,201,461,201"/>
+<area shape="poly" id="edge26_Node000014_Node000020" title=" " alt="" coords="1240,251,1325,264,1417,290,1459,310,1494,332,1491,336,1457,314,1415,294,1324,270,1239,256"/>
+<area shape="poly" id="edge29_Node000014_Node000021" title=" " alt="" coords="1249,198,1332,210,1376,223,1417,242,1446,262,1471,287,1505,332,1501,335,1467,291,1443,266,1415,246,1374,228,1331,216,1248,203"/>
+<area shape="rect" id="Node000022" href="$class_overpull_estimator.html" title="Class for estimating the overpull needed in a pitch raise." alt="" coords="1105,334,1245,359"/>
+<area shape="poly" id="edge34_Node000014_Node000022" title=" " alt="" coords="1259,344,1453,344,1453,349,1259,349"/>
+</map>

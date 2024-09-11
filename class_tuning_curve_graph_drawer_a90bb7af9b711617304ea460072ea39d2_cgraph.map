@@ -1,0 +1,63 @@
+<map id="TuningCurveGraphDrawer::handleMessage" name="TuningCurveGraphDrawer::handleMessage">
+<area shape="rect" id="Node000001" title="Message listener and dispatcher." alt="" coords="5,478,193,518"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a7be71a23d427c15c37408b185bcea6a4" title=" " alt="" coords="251,5,420,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,478,104,399,111,345,123,285,141,222,165,159,198,100,239,48,257,35,261,39,243,52,202,103,170,161,146,223,128,286,116,346,109,400,104,478"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="779,107,927,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,475,379,337,551,247,731,161,799,134,801,139,733,166,554,251,382,342,136,480"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="1296,157,1516,183"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,477,164,377,210,310,266,240,331,174,367,144,406,118,446,97,489,80,533,70,579,66,855,66,925,68,997,75,1136,98,1259,125,1352,151,1350,156,1258,131,1135,103,996,81,925,74,855,71,579,71,534,75,490,85,449,102,409,123,371,149,335,178,270,243,214,313,169,380,113,479"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="1301,505,1511,531"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="149,516,289,567,385,596,493,623,609,646,731,661,854,665,914,661,974,654,1086,630,1195,597,1290,563,1362,534,1364,539,1292,568,1197,602,1088,635,975,659,915,667,854,670,730,666,608,651,492,628,383,601,288,572,147,521"/>
+<area shape="rect" id="Node000006" href="$class_drawer_base.html#a74657fb6997b6ff8fcb713bc2cf9a18a" title="Function to completely redraw the scene." alt="" coords="258,1029,413,1055"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="112,517,326,1016,321,1018,107,519"/>
+<area shape="rect" id="Node000010" href="$class_tuning_curve_graph_drawer.html#a4af0a5a3226a014d898419493b83a364" title=" " alt="" coords="241,751,429,791"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="119,517,243,667,308,739,304,743,239,670,115,520"/>
+<area shape="rect" id="Node000007" href="$class_graphics_view_adapter.html#a690fa6f4e2f35d32fedf483070903027" title="Clear the graphics panel." alt="" coords="499,994,662,1034"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="412,1031,486,1022,486,1027,413,1036"/>
+<area shape="rect" id="Node000008" href="$class_drawer_base.html#a5eb83c8723a4cdefaf93f790cacc1428" title="Abstract function : draw the content." alt="" coords="510,1059,651,1084"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="413,1049,497,1059,496,1064,412,1054"/>
+<area shape="rect" id="Node000009" href="$class_drawer_base.html#abadb4620de698e8b7c24b310b79a2c39" title="Check whether the content has to be redrawn." alt="" coords="477,1108,684,1133"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="368,1052,478,1093,510,1102,509,1107,477,1098,366,1057"/>
+<area shape="rect" id="Node000011" href="$class_graphics_view_adapter.html#a5da81d881ba891e58897765de76d8cf1" title="Abstract function: Draw a line." alt="" coords="499,687,662,727"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="412,749,490,728,491,733,413,754"/>
+<area shape="rect" id="Node000012" href="$class_graphics_view_adapter.html#aaba035d126d834fc6d94c0b11c0a3209" title="Get a single graphics element specified by its index and its role." alt="" coords="499,751,662,791"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="429,769,485,769,485,774,429,774"/>
+<area shape="rect" id="Node000014" href="$class_tuning_curve_graph_drawer.html#ab79d1672a34792c0970573023c2f28fe" title="Get the pen type of a marker with a given role." alt="" coords="487,815,675,855"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="413,789,491,809,490,814,412,794"/>
+<area shape="rect" id="Node000015" href="$class_tuning_curve_graph_drawer.html#ac518bfd1107e50252f3e563b5c24dad0" title="Compute the position of a marker." alt="" coords="487,374,675,414"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="347,750,557,424,561,427,352,752"/>
+<area shape="rect" id="Node000025" href="$class_graphics_item.html#af118ebf12b3af8684ec4a3fa50cd8548" title="Short function for setting the key index and the role." alt="" coords="482,879,679,919"/>
+<area shape="poly" id="edge30_Node000010_Node000025" title=" " alt="" coords="363,789,415,827,479,865,494,872,492,877,476,870,412,832,360,794"/>
+<area shape="rect" id="Node000028" href="$class_graphics_item.html#ad18be337d3cc688e258d7324369a4d4c" title="Function to set the position of the element." alt="" coords="486,944,675,969"/>
+<area shape="poly" id="edge33_Node000010_Node000028" title=" " alt="" coords="351,790,401,859,437,897,479,929,494,937,491,942,476,934,433,901,397,862,346,793"/>
+<area shape="rect" id="Node000013" href="$class_graphics_view_adapter.html#a1640f8a29846016f9996ef3cfdfc6758" title="Get the list of the graphic items." alt="" coords="772,751,935,791"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="662,769,758,769,758,774,662,774"/>
+<area shape="poly" id="edge24_Node000015_Node000003" title=" " alt="" coords="598,372,638,322,682,258,695,227,700,200,709,175,730,149,765,130,767,134,734,153,714,178,706,202,700,229,686,261,643,325,602,375"/>
+<area shape="poly" id="edge25_Node000015_Node000004" title=" " alt="" coords="596,372,669,279,706,236,731,213,806,182,885,160,966,146,1047,139,1125,138,1198,141,1319,153,1319,158,1197,146,1125,143,1047,145,967,151,886,165,808,187,733,218,710,239,673,283,600,375"/>
+<area shape="rect" id="Node000016" href="$class_tuning_curve_graph_drawer.html#a0544c6a60d6abf249c4d3394dcfb0aac" title="Convert cents to y&#45;coordinate between 0 and 1." alt="" coords="759,605,947,645"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="594,413,615,451,646,499,686,548,734,589,748,598,745,602,730,594,682,551,641,502,610,454,589,416"/>
+<area shape="rect" id="Node000017" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="749,259,957,284"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="605,372,660,331,695,310,731,293,753,285,754,290,733,298,697,315,663,336,608,376"/>
+<area shape="rect" id="Node000018" href="$class_piano.html#a16452e4ca4fb84657512601e26731a60" title="Compute the defining temperatent." alt="" coords="732,505,975,531"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="608,412,663,452,697,473,733,490,759,499,757,504,731,495,695,477,660,457,605,416"/>
+<area shape="rect" id="Node000019" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="1023,331,1248,356"/>
+<area shape="poly" id="edge22_Node000015_Node000019" title=" " alt="" coords="592,372,615,341,646,305,685,270,731,244,797,222,852,217,908,225,975,243,1015,258,1052,278,1110,320,1107,324,1049,283,1012,263,974,249,906,231,852,222,798,227,733,248,688,274,650,309,619,345,597,375"/>
+<area shape="rect" id="Node000020" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="798,308,909,333"/>
+<area shape="poly" id="edge23_Node000015_Node000020" title=" " alt="" coords="637,371,731,342,784,330,785,335,733,347,638,377"/>
+<area shape="rect" id="Node000021" href="$class_key.html#a3ee0a9cc4f16b994883dac48baf3c915" title="Get estimated inharmonicity." alt="" coords="739,357,967,383"/>
+<area shape="poly" id="edge26_Node000015_Node000021" title=" " alt="" coords="675,383,725,379,726,384,675,388"/>
+<area shape="rect" id="Node000022" href="$class_key.html#aea29d76f56f0d83fa0fa8dcb04e697f3" title="Get overpull in cents." alt="" coords="789,407,918,432"/>
+<area shape="poly" id="edge27_Node000015_Node000022" title=" " alt="" coords="675,400,775,409,775,415,675,405"/>
+<area shape="rect" id="Node000023" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="752,456,955,481"/>
+<area shape="poly" id="edge28_Node000015_Node000023" title=" " alt="" coords="639,412,733,441,772,450,771,456,731,446,637,417"/>
+<area shape="rect" id="Node000024" href="$class_key.html#a1f37994c449884434ddfa58db90532b9" title="Get tuned frequency." alt="" coords="764,555,943,580"/>
+<area shape="poly" id="edge29_Node000015_Node000024" title=" " alt="" coords="598,413,653,477,691,511,733,540,752,548,750,553,731,544,687,515,649,480,594,416"/>
+<area shape="poly" id="edge21_Node000018_Node000005" title=" " alt="" coords="975,515,1287,515,1287,521,975,521"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="942,503,973,490,1017,462,1056,429,1114,365,1118,369,1060,432,1020,467,976,495,943,508"/>
+<area shape="poly" id="edge19_Node000019_Node000004" title=" " alt="" coords="1155,328,1372,188,1375,192,1158,333"/>
+<area shape="poly" id="edge20_Node000019_Node000005" title=" " alt="" coords="1158,354,1375,496,1372,500,1155,358"/>
+<area shape="rect" id="Node000026" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="755,863,951,888"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="679,888,741,882,742,888,680,893"/>
+<area shape="rect" id="Node000027" href="$class_graphics_item.html#a1864e6295f4187202d6e38bee9a7cb7e" title="Setter for mKeyIndex." alt="" coords="755,912,952,937"/>
+<area shape="poly" id="edge32_Node000025_Node000027" title=" " alt="" coords="680,906,741,912,740,917,679,911"/>
+</map>

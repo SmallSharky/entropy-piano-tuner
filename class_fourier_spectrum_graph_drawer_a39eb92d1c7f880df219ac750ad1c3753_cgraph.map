@@ -1,0 +1,18 @@
+<map id="FourierSpectrumGraphDrawer::draw" name="FourierSpectrumGraphDrawer::draw">
+<area shape="rect" id="Node000001" title="Draw the spectrum." alt="" coords="5,101,220,141"/>
+<area shape="rect" id="Node000002" href="$class_graphics_view_adapter.html#a5da81d881ba891e58897765de76d8cf1" title="Abstract function: Draw a line." alt="" coords="294,69,457,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,106,280,98,281,104,220,111"/>
+<area shape="rect" id="Node000003" href="$class_fourier_spectrum_graph_drawer.html#a719a08e4341ee307d0bd8e87eecb5c72" title="Function for updating the red curve showing the spectrum." alt="" coords="268,133,483,173"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,132,255,136,254,141,220,137"/>
+<area shape="rect" id="Node000004" href="$class_graphics_view_adapter.html#aa28e72fc6d0fd9cee40a342a1fb05102" title="Abstract function: Draw a chart (polygon)." alt="" coords="547,5,710,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,131,481,119,496,104,504,88,513,72,529,55,538,49,541,54,532,59,517,75,509,91,501,107,484,123,463,135"/>
+<area shape="rect" id="Node000005" href="$class_graphics_view_adapter.html#a372860840793673dd7e9531f98dd67bd" title="Abstract function: Draw a filled rectangle." alt="" coords="547,69,710,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="455,131,535,110,536,115,456,136"/>
+<area shape="rect" id="Node000006" href="$class_graphics_view_adapter.html#a655390f2c5d90c3e3e029e2d9a167502" title="Get the first of all graphics elements with a given role." alt="" coords="540,133,717,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="483,151,526,151,526,156,483,156"/>
+<area shape="rect" id="Node000007" href="$class_graphics_view_adapter.html#ac84d56eb502d5167530b80dc113fa83c" title="Get a list of graphic items that match with the given role." alt="" coords="775,163,959,203"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="458,171,531,183,586,187,628,186,727,183,761,182,761,188,727,188,629,192,586,192,530,188,457,176"/>
+<area shape="rect" id="Node000008" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="531,249,727,274"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="415,171,532,227,573,242,571,247,530,232,413,176"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="718,162,762,167,761,172,717,167"/>
+</map>

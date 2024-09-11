@@ -1,0 +1,27 @@
+var class_waveform_generator =
+[
+    [ "Spectrum", "class_waveform_generator.html#ad039a1ec71fd6c9cba34ea3571462006", null ],
+    [ "Waveform", "class_waveform_generator.html#ac9d265f6f434d133636c396e3b7c84a5", null ],
+    [ "WaveformGenerator", "class_waveform_generator.html#a84f2a98b7c300192f850351f47a668b0", null ],
+    [ "~WaveformGenerator", "class_waveform_generator.html#ada6c8bcc8aab2b0a38f8ae9284f70061", null ],
+    [ "convertAvailablePhysicalMemoryToWaveformTime", "class_waveform_generator.html#a661607a0581f8f2f7e2c6060c40fa145", null ],
+    [ "exit", "class_waveform_generator.html#a8f49623ae3d332c61a0da75c3d46c951", null ],
+    [ "getInterpolation", "class_waveform_generator.html#a32fd21b44a1d6a90496d2d6ba1f1ab11", null ],
+    [ "getWaveForm", "class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9", null ],
+    [ "init", "class_waveform_generator.html#ae13f508c9352c6b71ee782f02a30c20b", null ],
+    [ "isComputing", "class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2", null ],
+    [ "preCalculate", "class_waveform_generator.html#acb339ff8c5d94694bf81cb09ca343715", null ],
+    [ "workerFunction", "class_waveform_generator.html#a86b3c9768e075f4dbb5ace977377bee9", null ],
+    [ "mComputing", "class_waveform_generator.html#ad633a6f6977f42488235aadf9772ca51", null ],
+    [ "mFFT", "class_waveform_generator.html#afb0d52dbafae5bb1ed9bd959d56572b7", null ],
+    [ "mIn", "class_waveform_generator.html#a194ddfe840688e4c2ec5c00fe626866b", null ],
+    [ "mLibrary", "class_waveform_generator.html#a41b3dfcf665ab9c67c4907fc4579cc21", null ],
+    [ "mLibraryMutex", "class_waveform_generator.html#a65b730e5ae70b849697d51b736ffb047", null ],
+    [ "mNumberOfKeys", "class_waveform_generator.html#a28e4293b49af2d2eb96e7bbe0b100983", null ],
+    [ "mOut", "class_waveform_generator.html#a90c2659beeeccfaabf92af24046b897f", null ],
+    [ "mQueue", "class_waveform_generator.html#ae63451466f0c3e44dd531d43e4ace3da", null ],
+    [ "mQueueMutex", "class_waveform_generator.html#a0abc7c4f0da312017f072383d6512a2a", null ],
+    [ "mSampleRate", "class_waveform_generator.html#ac3bf270463787c282a63feb60c6890eb", null ],
+    [ "mWaveformSize", "class_waveform_generator.html#a937c67e066fe1a9f2d1f8d52e0ea02a1", null ],
+    [ "mWaveformTime", "class_waveform_generator.html#aee4beb71931582bb69498613ed5a4c88", null ]
+];

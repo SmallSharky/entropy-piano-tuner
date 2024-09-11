@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_algorithm_factory_base.html" title="The AlgorithmFactoryBase class create the desired Algorithm." alt="" coords="5,13,171,38"/>
+<area shape="rect" id="Node000001" href="$class_algorithm_factory.html" title="The AlgorithmFactory class is a template class to be created with the actual Algorithm." alt="" coords="219,5,431,45"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="185,23,219,23,219,28,185,28"/>
+</map>

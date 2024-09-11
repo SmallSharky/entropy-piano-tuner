@@ -1,0 +1,5 @@
+<map id="MidiAdapter::send" name="MidiAdapter::send">
+<area shape="rect" id="Node000001" title="Send new MIDI data to the messaging system." alt="" coords="5,5,145,31"/>
+<area shape="rect" id="Node000002" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="193,5,364,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,15,180,15,180,21,146,21"/>
+</map>

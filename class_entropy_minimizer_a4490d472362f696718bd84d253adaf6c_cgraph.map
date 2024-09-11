@@ -1,0 +1,56 @@
+<map id="EntropyMinimizer::minimizeEntropy" name="EntropyMinimizer::minimizeEntropy">
+<area shape="rect" id="Node000001" title="Entropy minimizer." alt="" coords="5,323,212,363"/>
+<area shape="rect" id="Node000002" href="$class_entropy_minimizer.html#a4f89a600928a0ce293749437cfaed081" title="Compute the entropy of the current normalized accumulator content." alt="" coords="279,43,481,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,322,133,277,163,217,205,154,230,125,258,100,278,87,281,92,262,104,234,129,209,157,168,220,138,279,119,324"/>
+<area shape="rect" id="Node000006" href="$class_entropy_minimizer.html#a45f9837e82d7fba35ff0a0a13aae1f47" title="Get pitch from frequ." alt="" coords="281,158,479,198"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="125,321,181,265,218,234,259,208,273,201,276,205,261,212,221,238,184,269,129,325"/>
+<area shape="rect" id="Node000007" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="878,193,1071,219"/>
+<area shape="poly" id="edge17_Node000001_Node000007" title=" " alt="" coords="116,322,135,281,165,231,206,182,231,161,259,144,303,125,350,110,398,101,446,95,544,94,640,104,730,122,812,144,932,186,931,191,810,149,729,127,639,109,544,99,447,100,398,106,351,116,305,130,261,148,234,165,210,185,170,234,140,284,121,324"/>
+<area shape="rect" id="Node000008" href="$class_entropy_minimizer.html#a94fcc29bc98b4d145801f46cfd890f7b" title="Get recorded pitch." alt="" coords="861,294,1088,334"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="188,321,260,309,418,297,577,294,724,297,848,302,847,308,724,302,577,300,418,303,260,314,189,326"/>
+<area shape="rect" id="Node000009" href="$class_entropy_minimizer.html#a3461d660ebf5f4fc7a1845b38461d6eb" title="Allowed tolerance of the tuning curve during the Monte Carlo process." alt="" coords="266,223,494,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="144,321,197,292,259,265,308,249,309,254,261,270,199,297,146,325"/>
+<area shape="rect" id="Node000010" href="$class_entropy_minimizer.html#a2a7534915d9da21fd208a3b0e6c58b81" title=" " alt="" coords="285,323,475,363"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="212,341,271,341,271,346,212,346"/>
+<area shape="rect" id="Node000015" href="$class_entropy_minimizer.html#a25ac6b72076e0ea891813b059a994767" title=" " alt="" coords="289,387,471,427"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="195,361,282,382,281,387,194,366"/>
+<area shape="rect" id="Node000016" href="$class_algorithm.html#a2d287a5531ac4de412392ac1fe0b15fc" title="Transmit the current percentage of progress to the messaging system." alt="" coords="279,502,481,542"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="127,362,182,424,220,457,261,486,277,494,275,499,259,491,216,462,178,427,123,365"/>
+<area shape="rect" id="Node000018" href="$class_algorithm.html#ad928daacb8c2b93d51a4441ef7c16cbc" title=" " alt="" coords="279,567,481,592"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="121,362,140,403,170,455,211,508,235,532,261,552,274,559,271,563,259,556,232,536,207,511,166,458,135,405,116,365"/>
+<area shape="rect" id="Node000020" href="$class_entropy_minimizer.html#a0c846975d66a7aa8b67e0c1e0959f63d" title="Update the entire tuning curve." alt="" coords="285,641,475,681"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="119,362,138,410,168,474,209,542,234,574,262,603,283,619,307,633,305,637,280,624,258,607,230,577,205,545,163,476,133,412,114,364"/>
+<area shape="rect" id="Node000021" href="$class_entropy_minimizer.html#a28b710ffd999175a29152ecdc055e0cf" title=" " alt="" coords="260,452,500,477"/>
+<area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="137,361,192,400,261,437,287,446,285,451,259,442,189,405,133,366"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a365914f5f4cf1049e98d3f0ff0e17021" title="Compute the Shannon entropy of a normalized probability distribution." alt="" coords="579,55,782,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,62,566,63,566,68,481,67"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="600,5,761,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="481,45,586,30,587,35,482,51"/>
+<area shape="rect" id="Node000005" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="880,5,1069,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="762,15,866,15,866,21,762,21"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="480,180,864,198,864,204,480,185"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="494,227,864,209,864,214,494,232"/>
+<area shape="rect" id="Node000011" href="$class_entropy_minimizer.html#ac7043e18fa5fc78112cf37746c3b90ca" title="Add or subtract a spectrum to the accumulator." alt="" coords="548,387,813,412"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="476,358,599,381,598,387,475,364"/>
+<area shape="rect" id="Node000013" href="$class_entropy_minimizer.html#a76638d79b922c7072e30687bf6e93520" title="Get recorded pitch." alt="" coords="567,322,794,362"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="476,340,553,340,553,345,476,346"/>
+<area shape="rect" id="Node000014" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="613,436,749,461"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="476,361,501,373,517,385,526,398,535,410,549,421,574,431,600,438,599,444,572,436,547,426,531,414,522,401,513,389,499,378,473,366"/>
+<area shape="rect" id="Node000012" href="$class_entropy_minimizer.html#a2b6bda1c16de56a0aa8b74ab28bd027f" title="Truncate logspectrum at the cutoffs and return an element." alt="" coords="865,387,1085,412"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="814,397,851,397,851,402,814,402"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="724,320,933,222,935,227,726,324"/>
+<area shape="poly" id="edge14_Node000013_Node000008" title=" " alt="" coords="794,329,847,323,848,329,794,334"/>
+<area shape="poly" id="edge19_Node000015_Node000011" title=" " alt="" coords="471,402,534,401,534,406,472,408"/>
+<area shape="poly" id="edge20_Node000015_Node000013" title=" " alt="" coords="471,385,574,362,575,368,472,390"/>
+<area shape="poly" id="edge21_Node000015_Node000014" title=" " alt="" coords="472,417,599,435,599,440,471,422"/>
+<area shape="rect" id="Node000017" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="595,584,766,609"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="460,540,501,551,549,569,590,579,589,584,547,574,499,557,459,545"/>
+<area shape="rect" id="Node000019" href="$class_simple_thread_handler.html#a717c9c2053e0b6c38a75acc619132b9c" title="Find out whether a thread has been registered for termination." alt="" coords="599,634,762,674"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="450,589,501,602,549,619,587,630,585,635,547,625,499,607,448,595"/>
+<area shape="poly" id="edge27_Node000020_Node000020" title=" " alt="" coords="330,641,327,631,335,622,353,616,380,614,411,617,428,624,426,629,410,622,380,619,354,621,338,626,332,632,335,639"/>
+<area shape="poly" id="edge30_Node000021_Node000014" title=" " alt="" coords="500,456,599,450,599,456,501,461"/>
+<area shape="rect" id="Node000022" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="625,535,736,560"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="462,475,501,488,525,504,549,520,612,537,611,542,547,524,522,508,499,492,460,480"/>
+<area shape="rect" id="Node000023" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="595,485,766,511"/>
+<area shape="poly" id="edge31_Node000021_Node000023" title=" " alt="" coords="495,475,582,484,581,490,495,480"/>
+</map>

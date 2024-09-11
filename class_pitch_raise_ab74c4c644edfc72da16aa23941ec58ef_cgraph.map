@@ -1,0 +1,16 @@
+<map id="PitchRaise::updateTuningcurve" name="PitchRaise::updateTuningcurve">
+<area shape="rect" id="Node000001" title="Update the tuning curve for a given key number." alt="" coords="5,81,227,107"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a16452e4ca4fb84657512601e26731a60" title="Compute the defining temperatent." alt="" coords="275,56,517,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,81,261,78,261,84,227,87"/>
+<area shape="rect" id="Node000006" href="$class_algorithm.html#ab2444aede55b764e297d7123bdf6954f" title="Update the tuning curve." alt="" coords="287,105,505,131"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="227,101,273,105,273,110,227,106"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="565,5,791,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,53,593,31,594,36,468,59"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="843,55,1054,80"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="517,66,829,65,829,70,517,71"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="839,5,1059,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="791,15,825,15,825,21,791,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="749,28,865,49,864,55,748,33"/>
+<area shape="rect" id="Node000007" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="593,107,763,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="506,116,579,116,579,122,506,121"/>
+</map>

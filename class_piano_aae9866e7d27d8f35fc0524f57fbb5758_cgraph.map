@@ -1,0 +1,7 @@
+<map id="Piano::getEqualTempFrequency" name="Piano::getEqualTempFrequency">
+<area shape="rect" id="Node000001" title="Function returning the equal temperament." alt="" coords="5,31,231,56"/>
+<area shape="rect" id="Node000002" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="279,5,499,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,30,265,27,265,32,231,35"/>
+<area shape="rect" id="Node000003" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="283,55,494,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,51,270,54,270,59,231,56"/>
+</map>

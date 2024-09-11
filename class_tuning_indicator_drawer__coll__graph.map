@@ -1,0 +1,15 @@
+<map id="TuningIndicatorDrawer" name="TuningIndicatorDrawer">
+<area shape="rect" id="Node000001" title="Drawer for the tuning indicator." alt="" coords="144,181,312,207"/>
+<area shape="rect" id="Node000002" href="$class_drawer_base.html" title="Abstract base class for drawing 2d graphics." alt="" coords="36,93,137,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,123,210,179,207,183,116,128"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html" title="Abstract base class for implementations rendering graphics." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,89,93,84,93,84,45"/>
+<area shape="rect" id="Node000004" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="162,93,294,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,133,231,181,225,181,225,133"/>
+<area shape="rect" id="Node000005" href="$class_piano.html" title=" " alt="" coords="319,93,377,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,129,246,183,243,179,319,125"/>
+<area shape="rect" id="Node000006" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="249,5,332,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="308,41,342,91,338,94,304,44"/>
+<area shape="rect" id="Node000007" href="$class_algorithm_parameters.html" title=" " alt="" coords="356,5,516,31"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="428,44,409,71,374,96,371,91,405,67,423,41"/>
+</map>

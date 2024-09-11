@@ -1,0 +1,13 @@
+<map id="entropyminimizer::AuditoryPreprocessing::checkDataConsistency" name="entropyminimizer::AuditoryPreprocessing::checkDataConsistency">
+<area shape="rect" id="Node000001" title="Check consistency of the piano dataset." alt="" coords="5,97,275,137"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="342,5,531,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,94,248,66,322,39,352,31,353,36,323,45,249,71,185,99"/>
+<area shape="rect" id="Node000003" href="$class_key.html#a3ee0a9cc4f16b994883dac48baf3c915" title="Get estimated inharmonicity." alt="" coords="323,55,551,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,94,346,80,347,85,261,99"/>
+<area shape="rect" id="Node000004" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="335,104,538,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,114,321,114,321,119,275,119"/>
+<area shape="rect" id="Node000005" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="369,153,505,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,134,356,150,355,155,260,139"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="351,203,522,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,134,251,161,323,187,358,197,357,202,322,193,249,166,184,139"/>
+</map>

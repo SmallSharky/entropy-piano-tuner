@@ -1,0 +1,9 @@
+<map id="MidiAdapter::receiveMessage" name="MidiAdapter::receiveMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,220,56"/>
+<area shape="rect" id="Node000002" href="$class_midi_adapter.html#ad7953e7f91ab3080421a3e3e646bd243" title="Convert MIDI code to MidiEvent." alt="" coords="268,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,30,254,26,255,32,221,35"/>
+<area shape="rect" id="Node000003" href="$class_midi_adapter.html#aa27adbb90c546e14a119eb0fff716065" title="Send new MIDI data to the messaging system." alt="" coords="293,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,51,279,57,279,62,220,56"/>
+<area shape="rect" id="Node000004" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="505,55,676,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,65,491,65,491,70,433,70"/>
+</map>

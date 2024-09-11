@@ -1,0 +1,7 @@
+<map id="SignalAnalyzer::PerformFFT" name="SignalAnalyzer::PerformFFT">
+<area shape="rect" id="Node000001" title="Perform fast Fourier transform." alt="" coords="5,13,208,38"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="256,5,412,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,23,242,23,242,28,209,28"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="460,5,616,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,23,446,23,446,28,412,28"/>
+</map>

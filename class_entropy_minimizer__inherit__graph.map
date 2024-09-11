@@ -1,0 +1,9 @@
+<map id="EntropyMinimizer" name="EntropyMinimizer">
+<area shape="rect" id="Node000001" title="Namespace for all entropy minimizer components." alt="" coords="85,152,222,177"/>
+<area shape="rect" id="Node000002" href="$class_algorithm.html" title="The Algorithm class is a basic abstract class for any tuning algorithm." alt="" coords="43,79,130,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,113,144,150,141,154,105,116"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+<area shape="rect" id="Node000004" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="154,79,286,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,116,166,154,162,150,198,113"/>
+</map>

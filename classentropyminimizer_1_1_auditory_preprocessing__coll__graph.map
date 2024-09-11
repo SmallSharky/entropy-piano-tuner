@@ -1,0 +1,10 @@
+<map id="entropyminimizer::AuditoryPreprocessing" name="entropyminimizer::AuditoryPreprocessing">
+<area shape="rect" id="Node000001" title="Class of functions for auditory preprocessing." alt="" coords="5,181,207,221"/>
+<area shape="rect" id="Node000002" href="$class_piano.html" title=" " alt="" coords="187,93,246,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,129,130,183,127,179,191,125"/>
+<area shape="rect" id="Node000003" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="47,5,130,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="93,44,99,118,106,181,101,182,94,119,88,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,38,143,67,188,91,186,96,141,72,106,42"/>
+<area shape="rect" id="Node000004" href="$class_algorithm_parameters.html" title=" " alt="" coords="158,5,318,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="234,45,222,93,217,92,229,43"/>
+</map>

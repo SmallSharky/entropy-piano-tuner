@@ -1,0 +1,25 @@
+<map id="src/common/core/analyzers/fftanalyzer.h" name="src/common/core/analyzers/fftanalyzer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="453,5,654,45"/>
+<area shape="rect" id="Node000002" href="$fftanalyzer_8cpp.html" title=" " alt="" coords="341,93,542,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,56,468,95,465,91,516,52"/>
+<area shape="rect" id="Node000003" href="$signalanalyzer_8h.html" title=" " alt="" coords="566,93,767,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="591,52,643,91,640,95,588,56"/>
+<area shape="rect" id="Node000004" href="$signalanalyzer_8cpp.html" title=" " alt="" coords="235,181,437,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="582,139,409,184,408,179,580,134"/>
+<area shape="rect" id="Node000005" href="$core_8h.html" title=" " alt="" coords="461,189,640,214"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="631,144,568,191,565,186,628,140"/>
+<area shape="rect" id="Node000009" href="$fourierspectrumgraphdrawer_8h.html" title=" " alt="" coords="671,181,894,221"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="705,140,759,179,755,183,702,144"/>
+<area shape="rect" id="Node000011" href="$tuningindicatordrawer_8h.html" title=" " alt="" coords="927,181,1118,221"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="759,134,945,179,944,184,757,139"/>
+<area shape="rect" id="Node000006" href="$calculationadapter_8cpp.html" title=" " alt="" coords="5,269,200,309"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="478,219,201,272,200,267,477,214"/>
+<area shape="rect" id="Node000007" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="224,269,429,309"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="509,221,377,272,375,267,507,216"/>
+<area shape="rect" id="Node000008" href="$core_8cpp.html" title=" " alt="" coords="454,277,647,302"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="553,228,553,276,548,276,548,228"/>
+<area shape="rect" id="Node000010" href="$fourierspectrumgraphdrawer_8cpp.html" title=" " alt="" coords="671,269,910,309"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="788,235,792,269,786,269,783,235"/>
+<area shape="rect" id="Node000012" href="$tuningindicatordrawer_8cpp.html" title=" " alt="" coords="935,269,1129,309"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1029,235,1033,269,1027,269,1024,235"/>
+</map>

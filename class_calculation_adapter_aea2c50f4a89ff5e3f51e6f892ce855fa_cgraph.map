@@ -1,0 +1,9 @@
+<map id="CalculationAdapter::cancelCalculation" name="CalculationAdapter::cancelCalculation">
+<area shape="rect" id="Node000001" title="Function called by the GUI to interrupt or stop the calculation thread." alt="" coords="5,37,152,77"/>
+<area shape="rect" id="Node000002" href="$class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784" title=" " alt="" coords="200,5,352,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,43,186,37,187,42,153,48"/>
+<area shape="rect" id="Node000004" href="$class_calculation_manager.html#aa487e73bb38429319e338d0987215744" title="Stop the calculation thread." alt="" coords="200,69,352,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,67,187,72,186,77,152,72"/>
+<area shape="rect" id="Node000003" href="$class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8" title=" " alt="" coords="400,5,552,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,23,386,23,386,28,352,28"/>
+</map>

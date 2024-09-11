@@ -1,0 +1,18 @@
+<map id="ExampleAlgorithm::algorithmWorkerFunction" name="ExampleAlgorithm::algorithmWorkerFunction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,220,151"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="268,29,493,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,109,209,86,267,65,301,55,302,60,269,70,211,91,158,114"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html#a1e798c941ef6b6cc223c155334c59542" title=" " alt="" coords="299,79,462,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="220,116,285,108,286,113,220,121"/>
+<area shape="rect" id="Node000006" href="$class_algorithm.html#a2d287a5531ac4de412392ac1fe0b15fc" title="Transmit the current percentage of progress to the messaging system." alt="" coords="280,143,481,183"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,141,267,147,266,152,220,147"/>
+<area shape="rect" id="Node000008" href="$class_algorithm.html#ab2444aede55b764e297d7123bdf6954f" title="Update the tuning curve." alt="" coords="271,208,490,233"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,149,211,172,269,193,302,202,301,207,267,198,209,176,156,154"/>
+<area shape="rect" id="Node000003" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="541,5,761,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,29,527,26,528,32,494,35"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="546,55,757,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="494,50,533,54,532,59,493,55"/>
+<area shape="rect" id="Node000007" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="566,179,737,204"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="482,171,553,178,552,184,481,176"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="490,206,552,199,552,205,491,211"/>
+</map>

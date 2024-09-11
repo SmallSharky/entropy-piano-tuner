@@ -1,0 +1,17 @@
+<map id="ProjectManagerAdapter::onEditFile" name="ProjectManagerAdapter::onEditFile">
+<area shape="rect" id="Node000001" title="onEditFile : Menu edit&#45;file response" alt="" coords="5,112,180,152"/>
+<area shape="rect" id="Node000002" href="$class_project_manager_adapter.html#a6e1cfb8726745aeb76b92d6c43b22e7b" title="edit a project file" alt="" coords="231,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,109,227,55,244,48,246,53,229,60,128,114"/>
+<area shape="rect" id="Node000003" href="$class_piano_manager.html#a7bdeb92f1fbfb953367659da9235d5e2" title=" " alt="" coords="228,70,408,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,110,245,96,246,101,181,116"/>
+<area shape="rect" id="Node000004" href="$class_core.html#af51170e1063f5b41b84d94d0d9b8e88d" title=" " alt="" coords="231,119,405,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,129,217,129,217,135,180,135"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="233,169,403,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="181,148,246,163,245,168,180,154"/>
+<area shape="rect" id="Node000007" href="$class_project_manager_adapter.html#ac8dc02b915e93b241af0249f7b854ba1" title="change the state of mChangesInFile and notify the listener" alt="" coords="231,219,405,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="128,150,229,204,246,211,244,216,227,209,126,155"/>
+<area shape="rect" id="Node000005" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="456,119,679,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,129,442,129,442,135,406,135"/>
+<area shape="rect" id="Node000008" href="$class_file_changes_callback.html#acc067ed6e14fdab56a8485e5a09b604c" title=" " alt="" coords="480,219,655,259"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="406,236,466,236,466,241,406,241"/>
+</map>

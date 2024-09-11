@@ -1,0 +1,9 @@
+<map id="FourierSpectrumGraphDrawer" name="FourierSpectrumGraphDrawer">
+<area shape="rect" id="Node000001" title="The FourierSpectrumGraphDrawer class." alt="" coords="50,168,265,193"/>
+<area shape="rect" id="Node000002" href="$class_drawer_base.html" title="Abstract base class for drawing 2d graphics." alt="" coords="36,93,137,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,127,148,166,144,170,106,131"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html" title="Abstract base class for implementations rendering graphics." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,89,93,84,93,84,45"/>
+<area shape="rect" id="Node000004" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="162,93,294,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,131,171,170,167,166,205,127"/>
+</map>

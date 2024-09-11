@@ -1,0 +1,26 @@
+var class_calculation_manager =
+[
+    [ "CalculationManager", "class_calculation_manager.html#acb9cf88a3b279c12164a712b97c55efe", null ],
+    [ "~CalculationManager", "class_calculation_manager.html#aaa475eec85fd592d444e5ee4a42c4871", null ],
+    [ "getAlgorithmFactoryDescriptionById", "class_calculation_manager.html#a32225a0e91068c48e442c9462b1d7572", null ],
+    [ "getAlgorithms", "class_calculation_manager.html#a7eff752f41ad2e86f7868e4723ad7655", null ],
+    [ "getCurrentAlgorithmId", "class_calculation_manager.html#aaba70b88780f2228da2f67be5af9e083", null ],
+    [ "getCurrentAlgorithmInformation", "class_calculation_manager.html#a63fd76c8ea47701989945f0f74910503", null ],
+    [ "getDefaultAlgorithmId", "class_calculation_manager.html#aa172710854c84e52dd5575d94beffe4b", null ],
+    [ "getSingleton", "class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784", null ],
+    [ "getSingletonPtr", "class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8", null ],
+    [ "hasAlgorithm", "class_calculation_manager.html#a44ea2061f27fb015a5e2319c2734067f", null ],
+    [ "loadAlgorithmInformation", "class_calculation_manager.html#a1882a2978df3f95f62c55b9d17f7d313", null ],
+    [ "loadAlgorithms", "class_calculation_manager.html#a2f9ab5ce61fa44d3b7fac6a82472f7b9", null ],
+    [ "loadAlgorithms", "class_calculation_manager.html#a97d21b1a7c02b7d39c0e6584f19ba8d2", null ],
+    [ "registerFactory", "class_calculation_manager.html#a2ba6f6af35e9989e374464943a812f89", null ],
+    [ "selfDelete", "class_calculation_manager.html#a227c8d291114155cafe9a0c7959a6a06", null ],
+    [ "setCurrentAlgorithmInformation", "class_calculation_manager.html#afa2fb7ad8090c74823e2db9e00700f80", null ],
+    [ "setCurrentAlgorithmInformationById", "class_calculation_manager.html#abe2fae72a8bf3932a8d0896c084a7137", null ],
+    [ "start", "class_calculation_manager.html#afa10bda60fb213d40a98ac559a525cf6", null ],
+    [ "stop", "class_calculation_manager.html#aa487e73bb38429319e338d0987215744", null ],
+    [ "unloadAllAlgorithms", "class_calculation_manager.html#ac0ad8faf5742a8b2170dc99fa9af7055", null ],
+    [ "mAlgorithms", "class_calculation_manager.html#a9ec952f816340dd3b9dd2410155b6915", null ],
+    [ "mCurrentAlgorithm", "class_calculation_manager.html#a88b0585525828f055e29bf764b6bb9ce", null ],
+    [ "mCurrentAlgorithmInformation", "class_calculation_manager.html#a920c7a9485ef59a241885e282d51fac4", null ]
+];

@@ -1,0 +1,7 @@
+<map id="MessageListener::~MessageListener" name="MessageListener::~MessageListener">
+<area shape="rect" id="Node000001" title="Destructor." alt="" coords="5,23,215,63"/>
+<area shape="rect" id="Node000002" href="$class_message_handler.html#a4e65d97a9bb4891587dd2c2835c1a728" title="get a reference to the singleton class" alt="" coords="273,5,494,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,31,259,27,259,32,215,36"/>
+<area shape="rect" id="Node000003" href="$class_message_handler.html#ae535917cbf4baa8c95094c3969c84436" title="Disconnect a message listener." alt="" coords="263,55,504,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,50,249,53,249,58,215,55"/>
+</map>

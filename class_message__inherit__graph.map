@@ -1,0 +1,31 @@
+<map id="Message" name="Message">
+<area shape="rect" id="Node000001" title="The Message class." alt="" coords="5,327,85,352"/>
+<area shape="rect" id="Node000002" href="$class_message_caluclation_progress.html" title="Class for a message reporting the calculation progress." alt="" coords="149,5,358,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,313,46,256,57,182,68,143,84,105,105,70,132,40,148,29,151,33,135,44,109,74,89,108,74,145,63,183,51,256,49,313"/>
+<area shape="rect" id="Node000003" href="$class_message_change_tuning_curve.html" title="Class for a message indicating a change in the tuning curve." alt="" coords="149,55,358,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="45,312,51,264,64,203,90,142,109,114,132,89,149,78,152,82,135,93,113,117,95,144,70,205,56,265,50,313"/>
+<area shape="rect" id="Node000004" href="$class_message_final_key.html" title="Class for a message reporting a finally detected key." alt="" coords="186,104,321,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="48,312,56,273,72,226,96,179,112,157,132,139,157,124,185,116,186,121,159,129,135,143,116,161,101,181,77,228,61,275,53,313"/>
+<area shape="rect" id="Node000005" href="$class_message_key_data_changed.html" title="Message sent whenever the data associated with a single key changes." alt="" coords="157,153,349,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="52,313,63,283,80,249,102,216,132,188,156,175,158,180,135,192,107,219,84,252,68,285,57,315"/>
+<area shape="rect" id="Node000006" href="$class_message_key_selection_changed.html" title="Class of a message indicating a change of the selected key." alt="" coords="143,203,364,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="59,313,89,274,109,254,132,237,157,226,160,231,135,242,113,258,93,277,63,317"/>
+<area shape="rect" id="Node000007" href="$class_message_midi_event.html" title="Class for a MIDI event." alt="" coords="181,252,326,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="75,317,132,286,180,273,181,278,134,291,77,321"/>
+<area shape="rect" id="Node000008" href="$class_message_mode_changed.html" title="Message reporting a change of the operation mode." alt="" coords="167,301,340,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="99,330,166,322,167,327,100,335"/>
+<area shape="rect" id="Node000009" href="$class_message_new_f_f_t_calculated.html" title="Class of a message informing that a new FFT has been calculated." alt="" coords="153,351,353,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="99,343,154,349,153,354,99,348"/>
+<area shape="rect" id="Node000010" href="$class_message_preliminary_key.html" title="Class of a message reporting the preliminary recognition of a key." alt="" coords="164,400,343,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="78,357,134,385,176,397,175,402,132,390,76,362"/>
+<area shape="rect" id="Node000011" href="$class_message_project_file.html" title="Message reporting an action concerining files." alt="" coords="179,449,327,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="64,362,94,400,113,419,135,434,180,451,178,456,132,439,110,423,90,404,59,365"/>
+<area shape="rect" id="Node000012" href="$class_message_recorder_energy_changed.html" title=" " alt="" coords="133,499,373,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="57,364,85,426,107,457,135,484,158,496,156,501,132,488,103,461,80,428,52,367"/>
+<area shape="rect" id="Node000013" href="$class_message_signal_analysis.html" title="Message sent whenever the data associated with a single key changes." alt="" coords="166,548,341,573"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="53,365,62,403,77,449,101,495,117,515,135,533,167,550,165,555,132,537,113,519,97,498,72,451,57,405,48,366"/>
+<area shape="rect" id="Node000014" href="$class_message_stroboscope.html" title="Message sending a complex vector to the stroboscope." alt="" coords="173,597,333,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="51,366,56,413,70,472,95,532,113,559,135,583,153,595,174,602,172,607,151,599,132,587,109,562,91,535,65,474,51,414,45,366"/>
+<area shape="rect" id="Node000015" href="$class_message_tuning_deviation.html" title="Message reporting a frequency deviation during tuning." alt="" coords="161,647,346,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="49,366,51,422,63,494,74,532,89,569,109,603,135,632,162,648,159,653,132,636,105,606,84,571,69,534,58,495,46,422,43,366"/>
+</map>

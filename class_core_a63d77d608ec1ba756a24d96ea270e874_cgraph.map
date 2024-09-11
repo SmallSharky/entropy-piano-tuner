@@ -1,0 +1,9 @@
+<map id="Core::setEnableSoundGenerator" name="Core::setEnableSoundGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,235,38"/>
+<area shape="rect" id="Node000002" href="$class_signal_analyzer.html#a355d83fd41fbf9dbc1eadb325948ac7c" title="Stop the signal analyzer." alt="" coords="283,13,437,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,23,269,23,269,28,235,28"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="485,5,648,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,23,472,23,472,28,438,28"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="696,5,859,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,23,682,23,682,28,648,28"/>
+</map>

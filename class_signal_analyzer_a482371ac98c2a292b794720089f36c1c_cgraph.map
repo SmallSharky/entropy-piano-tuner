@@ -1,0 +1,23 @@
+<map id="SignalAnalyzer::changeRole" name="SignalAnalyzer::changeRole">
+<area shape="rect" id="Node000001" title="Changes the current role of the signal analyzer." alt="" coords="5,117,208,142"/>
+<area shape="rect" id="Node000002" href="$class_signal_analyzer.html#a355d83fd41fbf9dbc1eadb325948ac7c" title="Stop the signal analyzer." alt="" coords="280,50,435,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,114,295,76,296,81,156,119"/>
+<area shape="rect" id="Node000005" href="$class_signal_analyzer.html#a63f010a3cd3274d292f9b17ea8515ffb" title="Update data buffer size." alt="" coords="256,137,459,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="208,138,243,142,242,147,208,143"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="535,5,698,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,49,522,36,522,42,435,54"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="812,5,975,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="698,23,798,23,798,28,698,28"/>
+<area shape="rect" id="Node000006" href="$class_circular_buffer.html#a4d4f546d5fa6d8b5ce1e9d3527cefb7a" title="Clear the buffer, keeping its maximal size." alt="" coords="541,70,692,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,135,506,104,538,96,539,101,507,109,413,140"/>
+<area shape="rect" id="Node000007" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="543,119,691,145"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="459,145,529,138,529,143,459,150"/>
+<area shape="rect" id="Node000008" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="507,169,727,194"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="459,164,493,167,493,173,459,169"/>
+<area shape="rect" id="Node000009" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="515,218,719,243"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="417,175,507,203,544,212,543,217,506,208,416,180"/>
+<area shape="rect" id="Node000011" href="$class_circular_buffer.html#a7a80a3483a699157eaf25a30ed400792" title="Resize the buffer, shrink oldest data if necessary." alt="" coords="537,267,696,293"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="385,175,439,215,508,252,532,261,530,266,506,257,437,219,382,180"/>
+<area shape="rect" id="Node000010" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="775,218,1012,243"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="719,228,761,228,761,233,719,233"/>
+</map>

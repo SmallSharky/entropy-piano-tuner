@@ -1,0 +1,119 @@
+<map id="SignalAnalyzer::recordPostprocessing" name="SignalAnalyzer::recordPostprocessing">
+<area shape="rect" id="Node000001" title="Process the singal after recording has finsihed." alt="" coords="5,995,272,1020"/>
+<area shape="rect" id="Node000002" href="$class_signal_analyzer.html#a0940e8fbf91c687a5208488a18b8b958" title="Analyze the final signal (in recording mode only)" alt="" coords="324,893,543,919"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,992,319,935,370,920,372,925,321,941,172,997"/>
+<area shape="rect" id="Node000037" href="$class_circular_buffer.html#ae9530f7bd16658b6bac4a7a2f9fa299c" title="Copy entire data in a time&#45;ordered form." alt="" coords="595,943,817,968"/>
+<area shape="poly" id="edge59_Node000001_Node000037" title=" " alt="" coords="250,992,320,985,581,962,581,967,320,990,250,997"/>
+<area shape="rect" id="Node000039" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="621,992,791,1017"/>
+<area shape="poly" id="edge61_Node000001_Node000039" title=" " alt="" coords="272,1004,606,1002,606,1008,272,1009"/>
+<area shape="rect" id="Node000040" href="$class_simple_thread_handler.html#a1e798c941ef6b6cc223c155334c59542" title=" " alt="" coords="352,1118,515,1158"/>
+<area shape="poly" id="edge60_Node000001_Node000040" title=" " alt="" coords="162,1018,231,1058,321,1102,345,1111,343,1116,319,1107,229,1063,159,1022"/>
+<area shape="rect" id="Node000041" href="$class_signal_analyzer.html#a436e32a6a2d95372ce751b505acb53ea" title="Update overpulls." alt="" coords="320,1068,547,1093"/>
+<area shape="poly" id="edge62_Node000001_Node000041" title=" " alt="" coords="192,1018,369,1062,368,1067,190,1023"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t_analyzer.html#af1cb3253493d9cc292312cd2536b8939" title="Main analyzing function." alt="" coords="626,893,786,919"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,903,612,903,612,909,543,909"/>
+<area shape="rect" id="Node000025" href="$class_signal_analyzer.html#a3eeb1caad173880f6747b74a27535871" title="Clipping detector." alt="" coords="595,779,817,804"/>
+<area shape="poly" id="edge40_Node000002_Node000025" title=" " alt="" coords="452,891,513,853,594,814,622,805,624,810,596,819,516,858,455,895"/>
+<area shape="rect" id="Node000026" href="$class_f_f_t_analyzer.html#aecbc009de5b7c9e3679f768c28edbb53" title="FFTAnalyzer::detectFrequencyOfKnownKey." alt="" coords="597,287,815,327"/>
+<area shape="poly" id="edge41_Node000002_Node000026" title=" " alt="" coords="438,892,687,339,692,341,443,894"/>
+<area shape="rect" id="Node000036" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="651,1041,761,1067"/>
+<area shape="poly" id="edge55_Node000002_Node000036" title=" " alt="" coords="449,917,509,970,551,1001,596,1026,638,1041,637,1046,594,1031,548,1005,506,975,446,921"/>
+<area shape="poly" id="edge56_Node000002_Node000037" title=" " alt="" coords="505,916,622,937,621,943,504,921"/>
+<area shape="rect" id="Node000038" href="$class_signal_analyzer.html#a0be7b4e052f0d77b259037eebb7a3736" title="identify final key" alt="" coords="618,829,794,869"/>
+<area shape="poly" id="edge57_Node000002_Node000038" title=" " alt="" coords="494,891,604,867,605,873,495,896"/>
+<area shape="poly" id="edge58_Node000002_Node000039" title=" " alt="" coords="460,916,520,946,596,977,627,986,626,991,594,982,518,951,457,921"/>
+<area shape="rect" id="Node000004" href="$class_f_f_t_analyzer.html#a988d1654fe1b1f2586aeaa14858b5a7f" title="Construct logarithmically binned spectrum from the mFinalFFT." alt="" coords="902,829,1094,869"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="771,891,888,867,889,873,772,896"/>
+<area shape="rect" id="Node000007" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="1483,919,1653,944"/>
+<area shape="poly" id="edge37_Node000003_Node000007" title=" " alt="" coords="788,912,819,928,831,941,838,955,843,984,848,1011,855,1022,867,1033,915,1054,979,1067,1055,1073,1137,1073,1219,1069,1297,1060,1365,1049,1418,1035,1455,1019,1490,997,1544,952,1547,956,1493,1002,1458,1024,1420,1041,1366,1054,1298,1066,1220,1074,1137,1079,1055,1078,978,1072,913,1059,864,1038,850,1026,843,1013,838,985,833,957,827,944,816,932,785,916"/>
+<area shape="rect" id="Node000010" href="$class_f_f_t_analyzer.html#acd0adf05ab04d76cc791655e203bde89" title="Estimate the frequency for a given keynumber." alt="" coords="881,893,1115,919"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="786,903,867,903,867,909,786,909"/>
+<area shape="rect" id="Node000011" href="$class_f_f_t_analyzer.html#a2b82813896c2910ed0acbe683b66d0ce" title="Estimate the frequency shift." alt="" coords="881,1235,1115,1275"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="787,909,804,916,819,928,844,963,853,999,852,1034,846,1069,840,1104,838,1139,846,1174,867,1210,887,1226,883,1230,863,1213,841,1176,833,1140,834,1104,841,1068,847,1034,848,999,839,966,815,932,802,921,785,914"/>
+<area shape="rect" id="Node000013" href="$class_f_f_t_analyzer.html#a4579c882c63db8090e581050b6d7525f" title="Estimate the inharmonicity B." alt="" coords="869,944,1127,969"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="780,916,911,939,910,944,780,921"/>
+<area shape="rect" id="Node000016" href="$class_f_f_t_analyzer.html#a89745d08c292acaaf696f9cb60cded49" title="Find the accurate frequency of a spectral peak in the original FFT." alt="" coords="1203,619,1394,659"/>
+<area shape="poly" id="edge27_Node000003_Node000016" title=" " alt="" coords="785,892,816,878,831,864,840,849,848,832,864,815,943,758,1012,725,1178,669,1202,661,1204,666,1180,674,1014,730,946,763,867,819,853,835,845,851,836,867,819,883,788,897"/>
+<area shape="rect" id="Node000019" href="$class_f_f_t_analyzer.html#ad144e9447bf3e02fb1953df0e23af60e" title=" " alt="" coords="1227,1001,1371,1027"/>
+<area shape="poly" id="edge39_Node000003_Node000019" title=" " alt="" coords="787,915,819,928,834,941,843,955,852,967,867,978,909,996,954,1008,1047,1023,1136,1026,1213,1022,1213,1027,1136,1031,1047,1028,953,1014,908,1001,864,983,848,971,839,958,830,944,816,932,785,920"/>
+<area shape="rect" id="Node000020" href="$class_f_f_t_analyzer.html#a55ee54c34ee520ceb555b7b575a6fbad" title="Estimate the quality of the recorded signal." alt="" coords="891,1173,1105,1199"/>
+<area shape="poly" id="edge23_Node000003_Node000020" title=" " alt="" coords="787,910,804,917,819,928,835,947,844,965,849,1002,851,1041,856,1061,868,1082,889,1107,913,1130,963,1164,960,1169,910,1134,885,1111,863,1085,851,1063,845,1042,843,1003,839,967,831,949,816,932,801,922,785,915"/>
+<area shape="rect" id="Node000021" href="$class_key.html#a7a8cdc37d7c13d1ce9095273f472495d" title="Convert frequency to logbin index." alt="" coords="1213,569,1384,595"/>
+<area shape="poly" id="edge28_Node000003_Node000021" title=" " alt="" coords="785,897,802,890,815,879,837,846,845,813,843,780,836,745,830,711,829,677,839,644,864,612,888,597,921,587,1008,574,1107,571,1200,573,1200,579,1107,577,1008,580,922,592,890,602,867,616,843,646,834,678,835,711,842,744,848,779,850,814,842,849,819,882,804,894,787,902"/>
+<area shape="rect" id="Node000022" href="$class_f_f_t_analyzer.html#a6c56934918d5f21fee848f830ee39fbd" title="Identify the peaks in the spectrum." alt="" coords="899,627,1097,652"/>
+<area shape="poly" id="edge31_Node000003_Node000022" title=" " alt="" coords="785,896,802,889,816,879,831,860,839,842,842,804,844,764,850,743,863,720,882,700,905,682,950,655,953,660,908,686,886,704,867,724,855,745,849,765,847,805,844,844,835,863,819,883,804,893,787,901"/>
+<area shape="rect" id="Node000023" href="$class_f_f_t_analyzer.html#a8784aef7f4f682be57f8fc1d8908142a" title=" " alt="" coords="1208,520,1389,545"/>
+<area shape="poly" id="edge38_Node000003_Node000023" title=" " alt="" coords="785,897,802,890,815,879,830,860,840,842,848,804,845,765,836,726,828,687,826,648,836,610,847,592,864,573,904,543,950,522,1000,508,1051,502,1101,500,1150,503,1233,515,1232,520,1149,508,1101,506,1051,507,1001,514,952,527,907,548,867,577,852,595,841,612,832,649,834,687,842,725,850,764,853,804,845,843,834,863,819,883,804,894,787,902"/>
+<area shape="rect" id="Node000005" href="$namespace_math_tools.html#a1fe78450a9646eab1fd4e9400cf79be8" title=" " alt="" coords="1181,684,1417,709"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1027,826,1177,726,1221,711,1223,716,1180,731,1030,831"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1095,860,1469,914,1468,920,1094,865"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="1218,1152,1379,1177"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1095,855,1115,865,1133,879,1155,912,1163,945,1162,979,1157,1012,1151,1044,1150,1076,1159,1108,1181,1139,1207,1156,1204,1160,1177,1143,1154,1110,1145,1077,1146,1044,1151,1011,1157,978,1158,946,1150,914,1129,882,1112,869,1093,860"/>
+<area shape="rect" id="Node000006" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="1471,627,1665,652"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1359,681,1418,669,1494,652,1495,658,1419,674,1360,687"/>
+<area shape="rect" id="Node000009" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="1473,1177,1663,1203"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1380,1170,1460,1177,1459,1182,1379,1175"/>
+<area shape="rect" id="Node000012" href="$namespace_math_tools.html#a39da022a8dc5843008123ada9e0d5888" title="Determine the n&#45;th moment of a distribution stored in a vector." alt="" coords="1195,1253,1402,1279"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1115,1257,1182,1259,1182,1265,1115,1262"/>
+<area shape="poly" id="edge20_Node000013_Node000006" title=" " alt="" coords="1085,941,1130,928,1194,898,1257,863,1375,787,1473,714,1540,659,1544,663,1477,718,1378,791,1260,868,1196,903,1132,932,1087,947"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="1010,968,1035,1003,1073,1049,1123,1098,1180,1138,1206,1149,1203,1154,1177,1143,1119,1102,1069,1053,1030,1006,1005,971"/>
+<area shape="rect" id="Node000014" href="$namespace_math_tools.html#a02f4832f17cb88b50599ea17a1d7d586" title="Compute the Renyi entropy of a normalized probability distribution." alt="" coords="1179,1103,1419,1128"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1024,967,1263,1094,1260,1099,1022,972"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1111,942,1129,928,1151,897,1159,866,1158,834,1153,802,1148,769,1147,736,1155,703,1177,670,1189,659,1193,663,1181,673,1160,705,1152,737,1153,769,1158,801,1164,834,1164,867,1155,900,1133,932,1114,946"/>
+<area shape="rect" id="Node000017" href="$class_key.html#aba1127cbc42134f0556d4efb2cd309e8" title="Convert frequency to real&#45;valued logbin index." alt="" coords="1469,569,1667,595"/>
+<area shape="poly" id="edge17_Node000013_Node000017" title=" " alt="" coords="1088,941,1130,928,1222,885,1290,845,1350,794,1416,719,1432,691,1438,665,1445,638,1465,612,1486,598,1489,602,1468,616,1450,641,1443,666,1437,693,1421,722,1354,798,1293,850,1224,890,1132,932,1089,946"/>
+<area shape="rect" id="Node000018" href="$class_f_f_t_analyzer.html#aa7af638641911cd1ef15ee0d7663fff6" title=" " alt="" coords="1203,937,1394,977"/>
+<area shape="poly" id="edge18_Node000013_Node000018" title=" " alt="" coords="1127,954,1189,954,1189,959,1127,959"/>
+<area shape="poly" id="edge21_Node000013_Node000019" title=" " alt="" coords="1066,967,1218,996,1217,1001,1065,972"/>
+<area shape="rect" id="Node000015" href="$namespace_math_tools.html#a365914f5f4cf1049e98d3f0ff0e17021" title="Compute the Shannon entropy of a normalized probability distribution." alt="" coords="1467,1103,1669,1128"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1419,1113,1453,1113,1453,1118,1419,1118"/>
+<area shape="poly" id="edge16_Node000016_Node000006" title=" " alt="" coords="1394,637,1458,637,1458,642,1394,642"/>
+<area shape="poly" id="edge22_Node000019_Node000007" title=" " alt="" coords="1368,999,1418,986,1524,947,1526,952,1419,991,1370,1004"/>
+<area shape="poly" id="edge26_Node000020_Node000008" title=" " alt="" coords="1105,1176,1204,1169,1204,1174,1106,1181"/>
+<area shape="poly" id="edge25_Node000020_Node000009" title=" " alt="" coords="1106,1186,1179,1187,1459,1188,1459,1193,1179,1193,1105,1191"/>
+<area shape="poly" id="edge24_Node000020_Node000012" title=" " alt="" coords="1047,1196,1238,1247,1236,1252,1046,1201"/>
+<area shape="poly" id="edge30_Node000021_Node000006" title=" " alt="" coords="1360,592,1419,605,1495,621,1494,626,1418,610,1359,597"/>
+<area shape="poly" id="edge29_Node000021_Node000017" title=" " alt="" coords="1384,579,1455,579,1455,585,1384,585"/>
+<area shape="poly" id="edge34_Node000022_Node000007" title=" " alt="" coords="1025,650,1531,910,1529,915,1023,654"/>
+<area shape="poly" id="edge32_Node000022_Node000016" title=" " alt="" coords="1097,637,1189,637,1189,642,1097,642"/>
+<area shape="poly" id="edge33_Node000022_Node000021" title=" " alt="" coords="1065,624,1217,595,1218,600,1066,629"/>
+<area shape="poly" id="edge35_Node000022_Node000023" title=" " alt="" coords="1021,624,1090,590,1178,554,1207,546,1208,551,1180,559,1092,594,1024,629"/>
+<area shape="rect" id="Node000024" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="1475,444,1661,469"/>
+<area shape="poly" id="edge36_Node000023_Node000024" title=" " alt="" coords="1344,517,1508,471,1509,476,1345,523"/>
+<area shape="poly" id="edge46_Node000026_Node000004" title=" " alt="" coords="717,327,774,470,818,566,868,662,922,747,974,816,970,819,918,750,863,665,813,568,769,472,712,329"/>
+<area shape="poly" id="edge53_Node000026_Node000006" title=" " alt="" coords="725,285,783,234,822,209,864,190,938,168,999,159,1029,160,1060,165,1132,190,1190,219,1236,250,1272,283,1302,318,1355,401,1421,506,1435,534,1442,559,1450,581,1468,604,1492,619,1489,623,1465,608,1445,584,1437,561,1430,536,1416,509,1351,404,1298,321,1268,286,1232,254,1187,224,1130,195,1059,170,1029,165,1000,164,940,173,866,195,825,214,786,239,728,289"/>
+<area shape="poly" id="edge48_Node000026_Node000017" title=" " alt="" coords="725,326,783,387,822,418,866,444,945,472,1014,485,1077,488,1138,485,1199,481,1264,479,1336,486,1419,505,1483,531,1537,560,1534,565,1481,535,1418,510,1336,491,1264,485,1199,486,1138,490,1077,493,1014,490,944,477,864,448,819,423,779,390,721,329"/>
+<area shape="poly" id="edge47_Node000026_Node000024" title=" " alt="" coords="733,325,792,366,828,386,866,402,915,414,980,424,1140,439,1312,448,1460,452,1460,458,1311,453,1140,444,980,429,914,419,865,407,826,391,789,371,730,330"/>
+<area shape="rect" id="Node000027" href="$class_f_f_t_analyzer.html#a558c07bfcc9863a41bddc5773bfd8a26" title=" " alt="" coords="894,205,1102,245"/>
+<area shape="poly" id="edge42_Node000026_Node000027" title=" " alt="" coords="766,285,865,254,897,245,898,251,866,259,767,290"/>
+<area shape="rect" id="Node000028" href="$class_f_f_t_analyzer.html#add8e87895a26d4a773934bafe168e830" title=" " alt="" coords="893,104,1103,129"/>
+<area shape="poly" id="edge43_Node000026_Node000028" title=" " alt="" coords="719,286,777,217,818,179,864,146,900,131,902,136,867,151,821,183,781,221,723,289"/>
+<area shape="rect" id="Node000031" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="894,269,1102,295"/>
+<area shape="poly" id="edge49_Node000026_Node000031" title=" " alt="" coords="815,295,880,290,881,295,815,301"/>
+<area shape="rect" id="Node000032" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="897,319,1099,344"/>
+<area shape="poly" id="edge50_Node000026_Node000032" title=" " alt="" coords="815,314,883,319,883,325,815,319"/>
+<area shape="rect" id="Node000033" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="930,368,1066,393"/>
+<area shape="poly" id="edge51_Node000026_Node000033" title=" " alt="" coords="769,325,866,353,917,364,916,369,865,358,767,330"/>
+<area shape="rect" id="Node000034" href="$class_key.html#a3712486f8c4bbf0d590f8a054e50ea6b" title="Get recorded flag." alt="" coords="935,5,1061,31"/>
+<area shape="poly" id="edge52_Node000026_Node000034" title=" " alt="" coords="710,286,728,235,759,168,779,132,804,98,832,66,864,40,891,26,921,18,922,23,893,31,867,44,835,70,808,101,784,135,764,170,733,237,716,288"/>
+<area shape="rect" id="Node000035" href="$namespace_math_tools.html#a3ebe18b107b21f002910fe3170c10d01" title="Computes the weighted arithmetric mean index of the given Y data." alt="" coords="865,55,1131,80"/>
+<area shape="poly" id="edge54_Node000026_Node000035" title=" " alt="" coords="713,286,734,244,766,190,810,135,835,110,864,89,874,83,877,88,867,94,839,114,814,138,771,193,739,246,718,288"/>
+<area shape="rect" id="Node000029" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="1221,97,1377,137"/>
+<area shape="poly" id="edge44_Node000028_Node000029" title=" " alt="" coords="1104,114,1207,114,1207,119,1104,119"/>
+<area shape="rect" id="Node000030" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="1490,97,1646,137"/>
+<area shape="poly" id="edge45_Node000029_Node000030" title=" " alt="" coords="1377,114,1476,114,1476,119,1377,119"/>
+<area shape="poly" id="edge63_Node000041_Node000036" title=" " alt="" coords="547,1067,637,1058,637,1063,547,1072"/>
+<area shape="poly" id="edge70_Node000041_Node000039" title=" " alt="" coords="470,1065,594,1026,627,1018,629,1023,595,1031,471,1070"/>
+<area shape="rect" id="Node000042" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="632,1205,780,1231"/>
+<area shape="poly" id="edge64_Node000041_Node000042" title=" " alt="" coords="525,1091,548,1104,566,1126,573,1149,580,1170,596,1191,620,1204,618,1208,593,1195,575,1173,568,1150,562,1128,545,1108,523,1096"/>
+<area shape="rect" id="Node000043" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="601,1255,811,1280"/>
+<area shape="poly" id="edge65_Node000041_Node000043" title=" " alt="" coords="529,1091,548,1104,563,1121,570,1139,573,1175,576,1209,583,1225,597,1241,601,1245,598,1249,593,1245,578,1228,571,1210,568,1175,565,1140,558,1124,545,1108,526,1096"/>
+<area shape="rect" id="Node000044" href="$class_key.html#aea29d76f56f0d83fa0fa8dcb04e697f3" title="Get overpull in cents." alt="" coords="641,1091,771,1116"/>
+<area shape="poly" id="edge66_Node000041_Node000044" title=" " alt="" coords="547,1087,628,1094,627,1100,547,1093"/>
+<area shape="rect" id="Node000045" href="$class_overpull_estimator.html#afd48bc5bc4030f8b99c9952870e39c63" title="Compute the required overpull on the basis of the interaction matrix." alt="" coords="632,1141,780,1181"/>
+<area shape="poly" id="edge67_Node000041_Node000045" title=" " alt="" coords="502,1091,548,1103,596,1125,622,1134,620,1139,594,1130,546,1109,500,1096"/>
+<area shape="rect" id="Node000046" href="$class_overpull_estimator.html#a30dcfe888caab52ad90c5ff11e527ff3" title="Initialize." alt="" coords="913,1300,1083,1325"/>
+<area shape="poly" id="edge68_Node000045_Node000046" title=" " alt="" coords="781,1171,801,1180,819,1192,830,1204,837,1216,843,1241,850,1264,856,1275,867,1285,901,1302,899,1307,864,1290,852,1278,845,1266,838,1242,832,1218,826,1207,816,1196,798,1185,779,1176"/>
+<area shape="rect" id="Node000047" href="$class_overpull_estimator.html#af1c87e8a2a76b2aaee769b43850313fd" title="Compute the interaction matrix between the string." alt="" coords="1203,1303,1394,1343"/>
+<area shape="poly" id="edge69_Node000046_Node000047" title=" " alt="" coords="1083,1313,1189,1317,1189,1322,1083,1318"/>
+</map>

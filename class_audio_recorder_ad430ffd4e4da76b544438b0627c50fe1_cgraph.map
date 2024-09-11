@@ -1,0 +1,5 @@
+<map id="AudioRecorder::controlRecordingState" name="AudioRecorder::controlRecordingState">
+<area shape="rect" id="Node000001" title="Control the beginning and the end of recording." alt="" coords="5,5,240,45"/>
+<area shape="rect" id="Node000002" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="288,13,459,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+</map>

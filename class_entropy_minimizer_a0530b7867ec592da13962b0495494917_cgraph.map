@@ -1,0 +1,13 @@
+<map id="EntropyMinimizer::handleMessage" name="EntropyMinimizer::handleMessage">
+<area shape="rect" id="Node000001" title="Message listener and dispatcher for mouse clicks in the tuning curve." alt="" coords="5,35,195,75"/>
+<area shape="rect" id="Node000002" href="$class_entropy_minimizer.html#a94fcc29bc98b4d145801f46cfd890f7b" title="Get recorded pitch." alt="" coords="249,5,476,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,41,235,37,236,42,195,47"/>
+<area shape="rect" id="Node000003" href="$class_entropy_minimizer.html#a28b710ffd999175a29152ecdc055e0cf" title=" " alt="" coords="243,70,483,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,62,230,66,230,71,195,67"/>
+<area shape="rect" id="Node000004" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="561,21,671,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,67,547,44,548,49,429,73"/>
+<area shape="rect" id="Node000005" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="548,70,684,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="483,80,534,80,534,85,483,85"/>
+<area shape="rect" id="Node000006" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="531,119,701,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="429,93,537,114,536,119,428,98"/>
+</map>

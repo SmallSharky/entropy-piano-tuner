@@ -1,0 +1,17 @@
+<map id="entropyminimizer::AuditoryPreprocessing::improveHighFrequencyPeaks" name="entropyminimizer::AuditoryPreprocessing::improveHighFrequencyPeaks">
+<area shape="rect" id="Node000001" title="Improve high&#45;frequency spectral lines." alt="" coords="5,152,316,192"/>
+<area shape="rect" id="Node000002" href="$classentropyminimizer_1_1_auditory_preprocessing.html#aabc19dd0a9f100c37c1d63717b554b89" title=" " alt="" coords="391,5,593,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,150,266,103,314,77,363,55,385,47,387,52,365,60,316,82,269,107,193,154"/>
+<area shape="rect" id="Node000004" href="$classentropyminimizer_1_1_auditory_preprocessing.html#a454af461c829289d10518be2a3b2c529" title="Compute frequency of inharmonic partial." alt="" coords="364,69,620,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,149,397,110,398,115,242,155"/>
+<area shape="rect" id="Node000005" href="$class_key.html#a3ee0a9cc4f16b994883dac48baf3c915" title="Get estimated inharmonicity." alt="" coords="378,134,606,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="316,157,364,154,364,159,316,163"/>
+<area shape="rect" id="Node000006" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="391,183,593,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="316,181,377,185,377,190,316,186"/>
+<area shape="rect" id="Node000007" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="424,233,560,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="244,189,365,217,412,227,411,233,363,223,243,195"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="395,282,589,307"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="198,190,273,229,365,267,399,276,397,282,363,272,271,234,195,194"/>
+<area shape="rect" id="Node000003" href="$class_key.html#aba1127cbc42134f0556d4efb2cd309e8" title="Convert frequency to real&#45;valued logbin index." alt="" coords="668,13,867,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="593,23,654,23,654,28,593,28"/>
+</map>

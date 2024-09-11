@@ -1,0 +1,50 @@
+<map id="KeyRecognizer::workerFunction" name="KeyRecognizer::workerFunction">
+<area shape="rect" id="Node000001" title="Main worker function for executing the key recognition thread." alt="" coords="5,325,231,350"/>
+<area shape="rect" id="Node000002" href="$class_key_recognizer.html#a4d3eac12f6777469a48d2c98ddfb2ed6" title="Construct logarithmic spectrum." alt="" coords="313,81,500,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,323,145,287,179,237,224,184,277,138,301,124,304,129,280,142,227,187,183,240,149,290,128,326"/>
+<area shape="rect" id="Node000005" href="$class_key_recognizer.html#a83d4472824709f6613d09bb8dc77677e" title="Detect forced key." alt="" coords="301,152,512,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="140,322,358,197,360,201,143,327"/>
+<area shape="rect" id="Node000009" href="$class_key_recognizer.html#a4be4d239b340713b5bf54457d89bd778" title="Detect keys in the treble." alt="" coords="289,5,524,45"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="121,324,138,276,170,207,216,133,245,98,277,67,307,49,309,53,280,71,249,101,221,136,175,210,143,278,126,325"/>
+<area shape="rect" id="Node000010" href="$class_key_recognizer.html#a0c010e16576e21b3c3b6b719d5e7f0fb" title="Estimate frequency for a given log&#45;log spectrum." alt="" coords="281,299,532,325"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="230,325,267,322,268,327,231,330"/>
+<area shape="rect" id="Node000016" href="$class_key_recognizer.html#af0eba901db51587986d4b3d255135464" title="Find the nearest key for a given frequency." alt="" coords="294,398,519,423"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="157,348,279,384,318,393,317,398,278,389,156,353"/>
+<area shape="rect" id="Node000017" href="$class_key_recognizer_callback.html#ab0e1f02f49c08dc7b456438d176edb09" title=" " alt="" coords="319,448,494,488"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="138,348,198,390,238,413,280,434,307,444,305,449,278,438,236,418,196,394,135,352"/>
+<area shape="rect" id="Node000018" href="$class_simple_thread_handler.html#a2b9a9567f74a046f9a76ff974ca3fa5e" title=" " alt="" coords="325,512,488,552"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="130,349,187,420,231,462,280,498,313,512,311,517,277,502,227,466,183,424,126,352"/>
+<area shape="rect" id="Node000019" href="$class_key_recognizer.html#adcc7380f691a2b83e93a6e84aa38a70e" title="Preprocessing of the signal." alt="" coords="279,349,535,374"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="231,344,265,347,265,352,231,349"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a1fe78450a9646eab1fd4e9400cf79be8" title=" " alt="" coords="583,58,819,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,89,569,82,569,87,500,94"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="880,58,1073,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="819,68,866,68,866,73,819,73"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="512,151,891,83,892,88,513,156"/>
+<area shape="rect" id="Node000006" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="588,159,813,185"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="512,169,574,169,574,175,512,175"/>
+<area shape="rect" id="Node000007" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="867,159,1087,185"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="814,169,853,169,853,175,814,175"/>
+<area shape="rect" id="Node000008" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="871,110,1082,135"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="772,157,891,135,892,140,773,162"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="524,25,665,31,819,43,895,53,894,58,818,48,665,36,524,30"/>
+<area shape="rect" id="Node000011" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="623,209,779,249"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="452,297,614,251,616,256,454,302"/>
+<area shape="rect" id="Node000013" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="607,274,794,299"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="532,299,593,293,594,299,533,304"/>
+<area shape="rect" id="Node000014" href="$class_key_recognizer.html#a3faff2c2ae9f9cc81aca216f1345b772" title="Map bin index to frequency." alt="" coords="898,350,1055,375"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="532,320,884,352,884,357,532,326"/>
+<area shape="rect" id="Node000015" href="$class_key_recognizer.html#a5d64a7e75360ee497f157bd817579920" title=" " alt="" coords="620,375,781,401"/>
+<area shape="poly" id="edge16_Node000010_Node000015" title=" " alt="" coords="483,322,535,335,584,353,636,369,635,374,582,359,534,340,482,327"/>
+<area shape="rect" id="Node000012" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="899,209,1055,249"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="779,227,885,227,885,232,779,232"/>
+<area shape="poly" id="edge17_Node000015_Node000014" title=" " alt="" coords="781,378,884,368,884,374,782,383"/>
+<area shape="poly" id="edge24_Node000019_Node000006" title=" " alt="" coords="517,346,533,335,547,319,554,303,556,267,559,231,566,213,581,195,588,189,592,194,585,199,571,216,564,232,562,268,559,304,551,322,536,339,519,351"/>
+<area shape="poly" id="edge26_Node000019_Node000015" title=" " alt="" coords="535,370,606,377,606,382,535,376"/>
+<area shape="rect" id="Node000020" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="606,523,795,549"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="516,372,536,385,550,400,558,416,561,449,565,481,572,496,584,510,595,518,592,522,581,514,567,499,560,482,556,450,552,418,546,403,533,389,513,376"/>
+<area shape="rect" id="Node000021" href="$class_key_recognizer.html#aee5d8c5201a36164195ed9b6ddbfc1a0" title="Map frequency to bin index." alt="" coords="623,425,779,450"/>
+<area shape="poly" id="edge23_Node000019_Node000021" title=" " alt="" coords="492,371,536,384,560,398,584,411,610,419,608,424,582,416,557,402,534,389,490,377"/>
+<area shape="rect" id="Node000022" href="$namespace_math_tools.html#a84f6eb75e82878db8bb0c3b57ab0bcfe" title="Map a vector to a different one by a unary map." alt="" coords="600,474,801,499"/>
+<area shape="poly" id="edge25_Node000019_Node000022" title=" " alt="" coords="512,372,536,385,554,404,561,424,568,443,584,461,593,466,590,470,581,465,564,446,556,426,549,406,533,389,509,377"/>
+</map>

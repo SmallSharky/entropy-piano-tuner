@@ -1,0 +1,23 @@
+<map id="MessageListener" name="MessageListener">
+<area shape="rect" id="Node000001" title="Class of a message listener." alt="" coords="5,228,137,253"/>
+<area shape="rect" id="Node000002" href="$class_entropy_minimizer.html" title="Namespace for all entropy minimizer components." alt="" coords="224,5,361,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,214,91,175,113,128,143,80,162,58,184,40,203,29,223,22,225,27,205,34,187,44,166,62,148,83,118,130,96,177,82,216"/>
+<area shape="rect" id="Node000003" href="$class_fourier_spectrum_graph_drawer.html" title="The FourierSpectrumGraphDrawer class." alt="" coords="185,55,400,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,214,121,151,150,117,184,89,207,78,209,83,187,94,154,121,125,154,87,217"/>
+<area shape="rect" id="Node000004" href="$class_piano_manager.html" title="The PianoManager class." alt="" coords="235,104,350,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,215,131,176,156,155,184,138,234,121,236,126,186,143,159,160,134,180,94,219"/>
+<area shape="rect" id="Node000005" href="$class_project_manager_adapter.html" title="Project manager adapter class." alt="" coords="205,153,380,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="109,219,184,187,225,176,226,181,186,193,111,224"/>
+<area shape="rect" id="Node000006" href="$class_recorder_level.html" title="Adapter for displaying the recording level (VU meter)" alt="" coords="235,203,350,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="151,229,235,219,235,224,151,234"/>
+<area shape="rect" id="Node000007" href="$class_recording_manager.html" title="Recording manager." alt="" coords="221,252,365,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="152,247,221,254,220,260,151,252"/>
+<area shape="rect" id="Node000008" href="$class_signal_analyzer.html" title="Signal analyzer: Fourier transformation of the recorded audio signal." alt="" coords="233,301,352,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="113,257,186,286,234,299,232,305,184,291,111,262"/>
+<area shape="rect" id="Node000009" href="$class_sound_generator.html" title="Class for managing the sound generation in the EPT." alt="" coords="229,351,356,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="95,262,135,300,187,336,230,351,228,356,184,340,131,304,91,265"/>
+<area shape="rect" id="Node000010" href="$class_tuning_curve_graph_drawer.html" title="Class for drawing various tuning curves." alt="" coords="199,400,387,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="87,264,126,326,154,358,187,385,212,397,210,402,184,390,150,362,122,329,83,267"/>
+<area shape="rect" id="Node000011" href="$class_tuning_indicator_drawer.html" title="Drawer for the tuning indicator." alt="" coords="209,449,377,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="83,266,97,304,118,350,148,396,187,435,210,447,207,452,184,439,144,399,114,353,92,306,78,268"/>
+</map>

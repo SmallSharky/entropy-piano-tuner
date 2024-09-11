@@ -1,0 +1,36 @@
+<map id="Synthesizer::setNumberOfKeys" name="Synthesizer::setNumberOfKeys">
+<area shape="rect" id="Node000001" title="Tell the synthesizer to change the total number of keys." alt="" coords="5,151,229,177"/>
+<area shape="rect" id="Node000002" href="$class_synthesizer.html#a50a5ba6b05c325842d2920772c5ed683" title="Initialize and start the synthesizer." alt="" coords="277,151,416,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,161,263,161,263,167,229,167"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="488,9,644,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,149,401,107,431,83,463,62,481,52,484,57,465,66,434,87,405,111,362,153"/>
+<area shape="rect" id="Node000005" href="$class_p_c_m_device.html#a79fdf403f93a9ab56c2aaa3ea1f15eb5" title=" " alt="" coords="473,77,659,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="373,149,463,111,490,103,491,108,465,116,375,154"/>
+<area shape="rect" id="Node000007" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="464,126,668,151"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="416,153,450,149,451,155,417,159"/>
+<area shape="rect" id="Node000009" href="$class_waveform_generator.html#ae13f508c9352c6b71ee782f02a30c20b" title="Initialization procedure of the waveform generator." alt="" coords="475,175,657,201"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="417,169,461,174,460,179,416,174"/>
+<area shape="rect" id="Node000010" href="$class_p_c_m_device.html#a3eb36ae49ca60f5c7ca9b7e1f816d661" title=" " alt="" coords="498,225,634,250"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="377,174,465,209,496,219,494,224,463,215,375,179"/>
+<area shape="rect" id="Node000011" href="$class_simple_thread_handler.html#acd459deb405647c580000490aaa71a0d" title=" " alt="" coords="485,275,647,315"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="362,175,406,216,434,239,465,259,482,267,479,272,463,264,431,243,402,220,359,179"/>
+<area shape="rect" id="Node000004" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="757,5,913,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,26,743,24,743,29,644,31"/>
+<area shape="rect" id="Node000006" href="$class_audio_interface.html#a9e1e0edcab91af83674223cd1406b751" title=" " alt="" coords="735,69,934,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="659,87,722,87,722,92,659,92"/>
+<area shape="rect" id="Node000008" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="716,134,953,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="668,139,703,140,702,145,668,144"/>
+<area shape="rect" id="Node000012" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="1001,217,1164,257"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="647,273,716,260,858,245,988,237,988,243,859,250,716,265,648,278"/>
+<area shape="rect" id="Node000013" href="$class_simple_thread_handler.html#a0832e65ca495778cf58dd039985fb69c" title=" " alt="" coords="747,339,922,379"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="648,311,737,333,736,338,647,317"/>
+<area shape="rect" id="Node000017" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="753,275,916,315"/>
+<area shape="poly" id="edge16_Node000011_Node000017" title=" " alt="" coords="648,292,740,292,740,297,648,297"/>
+<area shape="rect" id="Node000014" href="$class_simple_thread_handler.html#a773070afe77138730078e87096784f1b" title=" " alt="" coords="1001,281,1164,321"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="921,336,987,321,988,326,922,341"/>
+<area shape="rect" id="Node000015" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="1009,346,1156,371"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="922,356,996,356,996,361,922,361"/>
+<area shape="rect" id="Node000016" href="$class_simple_thread_handler.html#ac8e798b146647cf3fae4ca1e13c05e44" title="Virtual worker function, executed within the new thread." alt="" coords="1001,396,1164,436"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="922,376,988,392,987,397,921,381"/>
+<area shape="poly" id="edge17_Node000017_Node000012" title=" " alt="" coords="916,273,987,257,988,262,917,278"/>
+</map>

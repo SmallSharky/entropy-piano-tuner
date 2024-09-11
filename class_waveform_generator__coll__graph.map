@@ -1,0 +1,13 @@
+<map id="WaveformGenerator" name="WaveformGenerator">
+<area shape="rect" id="Node000001" title="The WaveformGenerator class." alt="" coords="528,63,683,88"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="249,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,31,544,60,543,65,404,36"/>
+<area shape="rect" id="Node000003" href="$class_callback_manager.html" title=" " alt="" coords="221,55,439,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,73,528,73,528,78,452,78"/>
+<area shape="rect" id="Node000004" href="$class_base_callback_manager.html" title="Base class for managing callback interfaces." alt="" coords="5,63,172,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,73,221,73,221,78,186,78"/>
+<area shape="rect" id="Node000005" href="$class_f_f_t___implementation.html" title="Thread&#45;safe implementation of fftw3." alt="" coords="252,120,408,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="404,115,543,85,544,91,406,120"/>
+<area shape="rect" id="Node000006" href="$class_f_f_t_adapter.html" title="Abstract base class for handling fast Fourier transforms." alt="" coords="41,120,136,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="150,130,252,130,252,135,150,135"/>
+</map>

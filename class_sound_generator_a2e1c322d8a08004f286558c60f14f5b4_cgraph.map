@@ -1,0 +1,10 @@
+<map id="SoundGenerator::changeVolumeOfResonatingReferenceSound" name="SoundGenerator::changeVolumeOfResonatingReferenceSound">
+<area shape="rect" id="Node000001" title="Change the volume of the resonating reference sound." alt="" coords="5,27,236,67"/>
+<area shape="rect" id="Node000002" href="$class_synthesizer.html#aec689a601eeff0325e66a2e85727dc87" title="Check whether a sound with given id is still playing." alt="" coords="301,5,466,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,287,26,287,31,236,37"/>
+<area shape="rect" id="Node000004" href="$class_synthesizer.html#ab2a165c05df2ff75cf2c277eefcea18f" title="Change the level (sustain level) of a constantly playing sound." alt="" coords="284,55,483,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,57,271,61,270,66,236,62"/>
+<area shape="rect" id="Node000003" href="$class_synthesizer.html#a756d8f979a65fa64524e9e016821dccb" title="Get a pointer to the sound according to the given ID." alt="" coords="531,35,744,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,25,517,31,517,36,466,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="483,62,517,58,517,63,483,67"/>
+</map>

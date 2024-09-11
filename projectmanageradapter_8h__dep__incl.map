@@ -1,0 +1,12 @@
+<map id="src/common/core/adapters/projectmanageradapter.h" name="src/common/core/adapters/projectmanageradapter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,316,45"/>
+<area shape="rect" id="Node000002" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="5,167,211,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,58,123,168,119,165,196,55"/>
+<area shape="rect" id="Node000003" href="$core_8h.html" title=" " alt="" coords="217,93,396,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,53,295,91,292,95,249,57"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="266,126,157,169,155,164,264,121"/>
+<area shape="rect" id="Node000004" href="$calculationadapter_8cpp.html" title=" " alt="" coords="235,167,429,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,131,328,166,323,167,312,133"/>
+<area shape="rect" id="Node000005" href="$core_8cpp.html" title=" " alt="" coords="454,174,647,199"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="356,120,516,171,514,177,355,125"/>
+</map>

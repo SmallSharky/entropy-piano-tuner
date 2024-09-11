@@ -1,0 +1,7 @@
+<map id="ExampleAlgorithm" name="ExampleAlgorithm">
+<area shape="rect" id="Node000001" title="Basic class to show how to implement own algorithms." alt="" coords="15,152,158,177"/>
+<area shape="rect" id="Node000002" href="$class_algorithm.html" title="The Algorithm class is a basic abstract class for any tuning algorithm." alt="" coords="43,79,130,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,118,89,152,84,152,84,118"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+</map>

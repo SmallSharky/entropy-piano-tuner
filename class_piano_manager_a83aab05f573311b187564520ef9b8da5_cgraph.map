@@ -1,0 +1,11 @@
+<map id="PianoManager::findNextKey" name="PianoManager::findNextKey">
+<area shape="rect" id="Node000001" title="Find the next key to be recorded." alt="" coords="5,80,208,105"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="306,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,77,255,39,292,30,293,35,257,45,143,83"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a89c784d8884021aa2a64a175f94f99b1" title=" " alt="" coords="287,55,435,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,80,273,73,274,79,209,85"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="256,104,467,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,100,243,103,242,108,208,105"/>
+<area shape="rect" id="Node000005" href="$class_key.html#a3712486f8c4bbf0d590f8a054e50ea6b" title="Get recorded flag." alt="" coords="299,153,424,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="146,103,257,138,292,147,290,153,255,143,144,108"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SimpleThreadHandler" name="SimpleThreadHandler">
+<area shape="rect" id="Node000001" title="Simple thread handler." alt="" coords="425,5,587,31"/>
+<area shape="rect" id="Node000002" href="$class_algorithm.html" title="The Algorithm class is a basic abstract class for any tuning algorithm." alt="" coords="265,79,352,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,38,342,81,340,76,461,33"/>
+<area shape="rect" id="Node000007" href="$class_key_recognizer.html" title="Module for fast recognition of the pressed key." alt="" coords="376,79,495,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="487,43,449,80,445,77,483,39"/>
+<area shape="rect" id="Node000008" href="$class_signal_analyzer.html" title="Signal analyzer: Fourier transformation of the recorded audio signal." alt="" coords="519,79,637,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="530,39,568,77,564,80,526,43"/>
+<area shape="rect" id="Node000009" href="$class_waveform_generator.html" title="The WaveformGenerator class." alt="" coords="661,79,815,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="557,32,701,76,700,81,555,37"/>
+<area shape="rect" id="Node000003" href="$class_entropy_minimizer.html" title="Namespace for all entropy minimizer components." alt="" coords="5,152,143,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,110,113,154,111,149,257,105"/>
+<area shape="rect" id="Node000004" href="$class_example_algorithm.html" title="Basic class to show how to implement own algorithms." alt="" coords="167,152,309,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="289,116,251,154,248,150,285,112"/>
+<area shape="rect" id="Node000005" href="$class_pitch_raise.html" title="Basic class to show how to implement own algorithms." alt="" coords="334,152,425,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="332,112,370,150,366,154,328,116"/>
+<area shape="rect" id="Node000006" href="$class_reset_to_recording.html" title="Algorithm to copy the recorded pitches into the tuning curve." alt="" coords="449,152,587,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="356,106,485,149,483,154,355,111"/>
+</map>

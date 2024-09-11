@@ -1,0 +1,33 @@
+<map id="src/common/core/audio/circularbuffer.h" name="src/common/core/audio/circularbuffer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="703,5,878,45"/>
+<area shape="rect" id="Node000002" href="$signalanalyzer_8h.html" title=" " alt="" coords="902,93,1103,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="851,48,957,91,955,96,849,53"/>
+<area shape="rect" id="Node000012" href="$audiorecorder_8h.html" title=" " alt="" coords="590,93,775,133"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="758,56,708,95,705,91,754,52"/>
+<area shape="rect" id="Node000003" href="$signalanalyzer_8cpp.html" title=" " alt="" coords="902,181,1103,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1005,147,1005,181,1000,181,1000,147"/>
+<area shape="rect" id="Node000004" href="$core_8h.html" title=" " alt="" coords="699,189,877,214"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="944,141,818,191,816,186,942,136"/>
+<area shape="rect" id="Node000008" href="$fourierspectrumgraphdrawer_8h.html" title=" " alt="" coords="1347,181,1570,221"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1116,133,1359,179,1358,184,1115,138"/>
+<area shape="rect" id="Node000010" href="$tuningindicatordrawer_8h.html" title=" " alt="" coords="1127,181,1318,221"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1064,136,1175,179,1174,184,1062,141"/>
+<area shape="rect" id="Node000005" href="$calculationadapter_8cpp.html" title=" " alt="" coords="459,269,653,309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="745,221,608,272,606,267,743,216"/>
+<area shape="rect" id="Node000006" href="$projectmanageradapter_8cpp.html" title=" " alt="" coords="677,269,883,309"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="788,228,784,269,779,269,783,227"/>
+<area shape="rect" id="Node000007" href="$core_8cpp.html" title=" " alt="" coords="907,277,1101,302"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="831,217,976,274,974,279,829,222"/>
+<area shape="rect" id="Node000009" href="$fourierspectrumgraphdrawer_8cpp.html" title=" " alt="" coords="1345,269,1583,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1463,235,1465,269,1460,269,1458,235"/>
+<area shape="rect" id="Node000011" href="$tuningindicatordrawer_8cpp.html" title=" " alt="" coords="1125,269,1320,309"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1225,235,1225,269,1220,269,1220,235"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="767,134,933,179,932,184,766,140"/>
+<area shape="poly" id="edge16_Node000012_Node000004" title=" " alt="" coords="718,140,775,186,772,190,715,144"/>
+<area shape="rect" id="Node000013" href="$audiorecorder_8cpp.html" title=" " alt="" coords="5,181,205,221"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="577,132,218,184,206,186,205,181,217,179,576,127"/>
+<area shape="rect" id="Node000014" href="$recordingmanager_8cpp.html" title=" " alt="" coords="229,181,459,221"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="596,139,419,184,417,179,594,134"/>
+<area shape="rect" id="Node000015" href="$stroboscope_8cpp.html" title=" " alt="" coords="483,181,674,221"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="651,144,603,183,600,179,647,140"/>
+</map>

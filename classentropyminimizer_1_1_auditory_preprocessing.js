@@ -1,0 +1,28 @@
+var classentropyminimizer_1_1_auditory_preprocessing =
+[
+    [ "Keys", "classentropyminimizer_1_1_auditory_preprocessing.html#a651ce5856fff9a84104395da5aa513f4", null ],
+    [ "SpectrumType", "classentropyminimizer_1_1_auditory_preprocessing.html#a00eef9bb895af48d462c01cb5c882219", null ],
+    [ "AuditoryPreprocessing", "classentropyminimizer_1_1_auditory_preprocessing.html#a34d59d8d82822a811ee0b435f53256d4", null ],
+    [ "~AuditoryPreprocessing", "classentropyminimizer_1_1_auditory_preprocessing.html#a00d6d95cb60b899c04cfb60606f8db73", null ],
+    [ "applyMollifier", "classentropyminimizer_1_1_auditory_preprocessing.html#aacd7fb8080b27c5ad36d8325bcd5322c", null ],
+    [ "checkDataConsistency", "classentropyminimizer_1_1_auditory_preprocessing.html#a07f7ef9deb34180762f3603023444b9f", null ],
+    [ "cleanSpectrum", "classentropyminimizer_1_1_auditory_preprocessing.html#a03803fe5c523734b70541db4945adfef", null ],
+    [ "convertToLoudness", "classentropyminimizer_1_1_auditory_preprocessing.html#a7acbc68abc180fd404f72a510445cbcd", null ],
+    [ "convertToSPLA", "classentropyminimizer_1_1_auditory_preprocessing.html#a092be6d546ae640c0f3322825424444d", null ],
+    [ "cutLowFrequencies", "classentropyminimizer_1_1_auditory_preprocessing.html#a83a6e4cb4b7a36a52325780917fe94f2", null ],
+    [ "extrapolateInharmonicity", "classentropyminimizer_1_1_auditory_preprocessing.html#a6239d031fa1c661a47ec98f2a8211b07", null ],
+    [ "ftom", "classentropyminimizer_1_1_auditory_preprocessing.html#aabc19dd0a9f100c37c1d63717b554b89", null ],
+    [ "getInharmonicPartial", "classentropyminimizer_1_1_auditory_preprocessing.html#a454af461c829289d10518be2a3b2c529", null ],
+    [ "getInharmonicPartialIndex", "classentropyminimizer_1_1_auditory_preprocessing.html#a976b4032cdebd4fe74f5348b7f201423", null ],
+    [ "improveHighFrequencyPeaks", "classentropyminimizer_1_1_auditory_preprocessing.html#a05be72ce963d760e3a1bf4b4c86a3de6", null ],
+    [ "initializeSPLAFilter", "classentropyminimizer_1_1_auditory_preprocessing.html#ad438205fdb1f9ee29509cafea3828c55", null ],
+    [ "mtof", "classentropyminimizer_1_1_auditory_preprocessing.html#a722933eee1d3d8f07cf25ca1c02683a6", null ],
+    [ "normalizeSpectrum", "classentropyminimizer_1_1_auditory_preprocessing.html#a3a80ce211b6068b867527ff87d0d654f", null ],
+    [ "mdBA", "classentropyminimizer_1_1_auditory_preprocessing.html#ad8745e30fb9cb7fa8a910b7c396b8305", null ],
+    [ "mKeyboard", "classentropyminimizer_1_1_auditory_preprocessing.html#af1d4d18e10918686745df4f366c340e7", null ],
+    [ "mKeyNumberOfA4", "classentropyminimizer_1_1_auditory_preprocessing.html#a892509e78b91b3be5bab99c24bdb2d96", null ],
+    [ "mKeys", "classentropyminimizer_1_1_auditory_preprocessing.html#a23bc1fbe2560a671a6c7e058a1300be0", null ],
+    [ "mNumberOfKeys", "classentropyminimizer_1_1_auditory_preprocessing.html#ab41592a7f5fee3cd3d77327985abb553", null ],
+    [ "mPiano", "classentropyminimizer_1_1_auditory_preprocessing.html#a8e5f429aaf6d3a1c374c9bbf4d3d2f17", null ],
+    [ "NumberOfBins", "classentropyminimizer_1_1_auditory_preprocessing.html#a00d8a68af8f2c7823a46a41d2f6b3171", null ]
+];

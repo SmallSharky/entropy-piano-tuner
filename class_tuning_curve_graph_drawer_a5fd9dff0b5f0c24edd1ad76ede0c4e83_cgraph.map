@@ -1,0 +1,13 @@
+<map id="TuningCurveGraphDrawer::drawGrid" name="TuningCurveGraphDrawer::drawGrid">
+<area shape="rect" id="Node000001" title="Draw the background grid in the tuning curve panel." alt="" coords="5,133,193,173"/>
+<area shape="rect" id="Node000002" href="$class_tuning_curve_graph_drawer.html#a0544c6a60d6abf249c4d3394dcfb0aac" title="Convert cents to y&#45;coordinate between 0 and 1." alt="" coords="245,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,131,176,93,240,55,256,48,258,53,243,60,179,97,127,135"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html#a372860840793673dd7e9531f98dd67bd" title="Abstract function: Draw a filled rectangle." alt="" coords="258,69,421,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,131,250,110,251,115,176,136"/>
+<area shape="rect" id="Node000004" href="$class_graphics_view_adapter.html#a5da81d881ba891e58897765de76d8cf1" title="Abstract function: Draw a line." alt="" coords="258,133,421,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,151,244,151,244,156,193,156"/>
+<area shape="rect" id="Node000005" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="241,198,437,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="184,171,273,192,272,197,183,176"/>
+<area shape="rect" id="Node000006" href="$class_graphics_item.html#a1fc630fbe5a9e81ff45fd41d2646c363" title="Set the z order of the element (here implemented without function)" alt="" coords="248,247,431,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="132,171,182,202,242,232,267,241,265,246,240,237,180,207,129,176"/>
+</map>

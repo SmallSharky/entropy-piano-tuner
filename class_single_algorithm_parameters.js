@@ -1,0 +1,27 @@
+var class_single_algorithm_parameters =
+[
+    [ "SingleAlgorithmParameters", "class_single_algorithm_parameters.html#adad1b0b579d1f438f0bfafd588fd6064", null ],
+    [ "getAlgorithmName", "class_single_algorithm_parameters.html#aa577a97f5024e46972bf8c0d1932c1b9", null ],
+    [ "getBoolParameter", "class_single_algorithm_parameters.html#a0fab668fef9240376bf479ffb3744536", null ],
+    [ "getBoolParameters", "class_single_algorithm_parameters.html#ad7760233392b80d406e31617ddf93ab8", null ],
+    [ "getDoubleParameter", "class_single_algorithm_parameters.html#abf7ff9020b1a5812236d627ca36812d8", null ],
+    [ "getDoubleParameters", "class_single_algorithm_parameters.html#a173f58c1617790721a5af27dd81462e5", null ],
+    [ "getIntParameter", "class_single_algorithm_parameters.html#a59733682da3cd6d859bd2a393c1a4b0f", null ],
+    [ "getIntParameters", "class_single_algorithm_parameters.html#afbba930d814c65954bf84d1569256c39", null ],
+    [ "getStringParameter", "class_single_algorithm_parameters.html#a0a5f0ecdc585f0763024c9cc17166994", null ],
+    [ "getStringParameters", "class_single_algorithm_parameters.html#a28f3faf4c47707b7bd0e16bd11e8e8d1", null ],
+    [ "hasBoolParameter", "class_single_algorithm_parameters.html#ac9781731d0670473d3b3cc7892c00cbe", null ],
+    [ "hasDoubleParameter", "class_single_algorithm_parameters.html#a9e13524cb18e6756d1dc68c6d99a5624", null ],
+    [ "hasIntParameter", "class_single_algorithm_parameters.html#a8640bc39f92980b15631ae36270885f3", null ],
+    [ "hasStringParameter", "class_single_algorithm_parameters.html#a4e1eca90524c2a2464d27b6aaa8ad06c", null ],
+    [ "loadDefaultParams", "class_single_algorithm_parameters.html#ac914b6a8a114b9070f3cacb73a34d0cd", null ],
+    [ "setBoolParameter", "class_single_algorithm_parameters.html#a99159deb6e91ca9668808925c158254e", null ],
+    [ "setDoubleParameter", "class_single_algorithm_parameters.html#ad66df708052192defe826c657dd0be97", null ],
+    [ "setIntParameter", "class_single_algorithm_parameters.html#ac974e16eaf69ae8eeb7068705597dbe2", null ],
+    [ "setStringParameter", "class_single_algorithm_parameters.html#a2685233bbcbb98a77ad2bcbc70421f00", null ],
+    [ "mAlgorithmName", "class_single_algorithm_parameters.html#a3e1a9222b001525c99efe050a2c5bc4f", null ],
+    [ "mBoolParameters", "class_single_algorithm_parameters.html#ab9f82d007412e9611d1e7a912188be27", null ],
+    [ "mDoubleParameters", "class_single_algorithm_parameters.html#a0575c2801e92334b31e134fc61a9cc6e", null ],
+    [ "mIntParamters", "class_single_algorithm_parameters.html#a1917072794943dedbf1f906204f8b1d4", null ],
+    [ "mStringParameters", "class_single_algorithm_parameters.html#a4d2a32fbbbf81deda23836dcf55e680b", null ]
+];

@@ -1,0 +1,5 @@
+<map id="EntropyMinimizer::addToAccumulator" name="EntropyMinimizer::addToAccumulator">
+<area shape="rect" id="Node000001" title="Add or subtract a spectrum to the accumulator." alt="" coords="5,5,271,31"/>
+<area shape="rect" id="Node000002" href="$class_entropy_minimizer.html#a2b6bda1c16de56a0aa8b74ab28bd027f" title="Truncate logspectrum at the cutoffs and return an element." alt="" coords="319,5,539,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,15,305,15,305,21,271,21"/>
+</map>

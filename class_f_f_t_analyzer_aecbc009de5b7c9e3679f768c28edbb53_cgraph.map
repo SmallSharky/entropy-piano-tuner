@@ -1,0 +1,38 @@
+<map id="FFTAnalyzer::detectFrequencyOfKnownKey" name="FFTAnalyzer::detectFrequencyOfKnownKey">
+<area shape="rect" id="Node000001" title="FFTAnalyzer::detectFrequencyOfKnownKey." alt="" coords="5,312,223,352"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t_analyzer.html#a558c07bfcc9863a41bddc5773bfd8a26" title=" " alt="" coords="299,40,507,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,311,139,265,170,205,213,143,240,114,269,90,285,80,288,85,272,94,243,118,218,146,175,208,144,267,125,313"/>
+<area shape="rect" id="Node000003" href="$class_f_f_t_analyzer.html#add8e87895a26d4a773934bafe168e830" title=" " alt="" coords="298,105,509,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,310,145,273,178,226,219,179,269,140,285,133,287,137,272,145,223,183,182,230,150,276,128,313"/>
+<area shape="rect" id="Node000006" href="$class_f_f_t_analyzer.html#a988d1654fe1b1f2586aeaa14858b5a7f" title="Construct logarithmically binned spectrum from the mFinalFFT." alt="" coords="307,155,499,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,310,193,261,230,234,269,211,303,197,305,202,272,216,233,239,196,265,138,314"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="868,194,1061,219"/>
+<area shape="poly" id="edge17_Node000001_Node000008" title=" " alt="" coords="147,310,203,281,270,256,383,237,540,223,854,207,854,213,540,229,384,243,271,261,205,286,150,314"/>
+<area shape="rect" id="Node000012" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="310,270,497,295"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="222,311,314,295,315,300,223,316"/>
+<area shape="rect" id="Node000013" href="$class_key.html#aba1127cbc42134f0556d4efb2cd309e8" title="Convert frequency to real&#45;valued logbin index." alt="" coords="304,319,503,345"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="223,329,290,329,290,335,223,335"/>
+<area shape="rect" id="Node000014" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="299,369,507,394"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="223,348,315,364,314,369,222,353"/>
+<area shape="rect" id="Node000015" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="302,418,505,443"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="152,350,207,378,272,404,302,412,300,418,270,409,205,383,149,355"/>
+<area shape="rect" id="Node000016" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="335,467,471,493"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="136,350,193,403,231,431,272,454,323,469,321,474,270,458,228,435,190,407,132,354"/>
+<area shape="rect" id="Node000017" href="$class_key.html#a3712486f8c4bbf0d590f8a054e50ea6b" title="Get recorded flag." alt="" coords="341,517,466,542"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="129,351,152,385,184,427,225,469,272,503,299,515,328,522,327,527,297,520,269,508,221,473,180,430,148,388,125,354"/>
+<area shape="rect" id="Node000018" href="$namespace_math_tools.html#a3ebe18b107b21f002910fe3170c10d01" title="Computes the weighted arithmetric mean index of the given Y data." alt="" coords="271,566,536,591"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="126,351,145,394,176,450,219,506,244,531,272,552,282,558,280,563,269,557,241,535,215,510,172,453,140,397,121,353"/>
+<area shape="rect" id="Node000004" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="624,5,780,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,102,535,90,549,82,558,73,583,55,610,44,612,49,585,60,562,77,552,86,537,94,499,107"/>
+<area shape="rect" id="Node000005" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="887,5,1043,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="780,23,873,23,873,28,780,28"/>
+<area shape="rect" id="Node000007" href="$namespace_math_tools.html#a1fe78450a9646eab1fd4e9400cf79be8" title=" " alt="" coords="584,169,820,194"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="500,174,570,176,570,181,499,179"/>
+<area shape="rect" id="Node000009" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="617,70,787,95"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="498,153,535,139,558,122,583,104,603,97,605,102,585,109,561,126,537,144,500,158"/>
+<area shape="rect" id="Node000010" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="621,119,783,145"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="499,158,607,143,608,148,500,164"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="820,190,854,193,854,199,820,195"/>
+<area shape="rect" id="Node000011" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="870,119,1059,145"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="783,129,856,129,856,135,783,135"/>
+</map>

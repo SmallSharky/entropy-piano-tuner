@@ -1,0 +1,33 @@
+<map id="SoundGenerator::playResonatingReferenceSound" name="SoundGenerator::playResonatingReferenceSound">
+<area shape="rect" id="Node000001" title="Play a resonating reference sound in the tuning mode." alt="" coords="5,195,241,235"/>
+<area shape="rect" id="Node000002" href="$class_key.html#ad7ede374bc0079ab85d316f5d6273ffa" title="Get computed frequency." alt="" coords="303,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,193,160,159,195,117,238,75,288,40,302,33,304,38,291,44,242,79,199,121,164,163,140,196"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a7be71a23d427c15c37408b185bcea6a4" title=" " alt="" coords="323,55,492,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,193,205,140,245,112,288,89,308,81,310,86,290,94,248,117,208,145,147,197"/>
+<area shape="rect" id="Node000004" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="625,257,735,283"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,231,290,237,463,253,611,263,611,269,463,258,289,242,241,236"/>
+<area shape="rect" id="Node000005" href="$class_key.html#ab8d373738c759f93e0e3f13cf336561b" title="Get recorded frequency." alt="" coords="306,153,509,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,193,320,178,321,184,240,198"/>
+<area shape="rect" id="Node000006" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="325,203,490,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="242,213,311,213,311,218,242,218"/>
+<area shape="rect" id="Node000007" href="$class_synthesizer.html#aec689a601eeff0325e66a2e85727dc87" title="Check whether a sound with given id is still playing." alt="" coords="325,104,490,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="162,193,221,165,288,138,317,130,319,135,290,143,223,170,164,197"/>
+<area shape="rect" id="Node000009" href="$class_sound_generator.html#a2dd3ea7f250f11f224a37c28427863bb" title="Play a permanent sine wave as a resonating background sound for tuning." alt="" coords="289,303,525,343"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="171,233,290,282,330,296,329,301,288,287,169,238"/>
+<area shape="rect" id="Node000011" href="$class_synthesizer.html#ad607dd1a8d909eb0cb2dc889edb97b09" title="Function which plays a single note (sound)" alt="" coords="593,364,767,389"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="143,234,168,263,203,296,244,328,290,353,363,374,439,385,513,388,579,386,579,391,513,393,438,390,362,380,288,358,241,333,199,300,164,266,139,238"/>
+<area shape="rect" id="Node000014" href="$class_sound_generator.html#af0b8b9eadeda73b49c9e3d28247c869b" title="Stop the resonating reference sound." alt="" coords="289,418,525,458"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="140,234,199,313,242,358,291,397,315,410,312,415,288,402,238,362,195,316,135,237"/>
+<area shape="rect" id="Node000008" href="$class_synthesizer.html#a756d8f979a65fa64524e9e016821dccb" title="Get a pointer to the sound according to the given ID." alt="" coords="573,104,787,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="490,114,559,114,559,119,490,119"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="509,301,611,281,612,286,510,306"/>
+<area shape="rect" id="Node000010" href="$class_key.html#acb1d238f5843b42f04338a8a8090e4cd" title="Get a read&#45;only reference to mPeaks." alt="" coords="623,311,737,336"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="526,321,610,321,610,326,526,326"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="510,341,602,359,601,364,509,346"/>
+<area shape="rect" id="Node000012" href="$class_waveform_generator.html#a48015c2f365fd0d0f46c8030150bd8a9" title="Mutexed getter function to obtain the calculated waveform." alt="" coords="835,325,997,365"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="767,362,821,355,822,360,768,367"/>
+<area shape="rect" id="Node000013" href="$class_waveform_generator.html#aea067fc9f81ae717a9e15877982918d2" title="Find out whether the WaveformGenerator is still computing." alt="" coords="835,389,997,429"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="768,386,822,393,821,398,767,391"/>
+<area shape="rect" id="Node000015" href="$class_synthesizer.html#add493ea683182fe21af94447ec0c458d" title="Terminate a sound." alt="" coords="583,425,777,451"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="526,435,569,435,569,441,526,441"/>
+</map>

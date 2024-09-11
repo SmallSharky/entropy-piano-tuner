@@ -1,0 +1,7 @@
+<map id="CalculationAdapter::getAvailableAlgorithms" name="CalculationAdapter::getAvailableAlgorithms">
+<area shape="rect" id="Node000001" title="Get a list of available tuning algorithms." alt="" coords="5,5,188,45"/>
+<area shape="rect" id="Node000002" href="$class_calculation_manager.html#a29dcc0a9960932d477a93ffd8276c784" title=" " alt="" coords="236,5,388,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,222,23,222,28,188,28"/>
+<area shape="rect" id="Node000003" href="$class_calculation_manager.html#a1b341be9ccc26ea19898f684c3b51de8" title=" " alt="" coords="436,5,588,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,23,422,23,422,28,388,28"/>
+</map>

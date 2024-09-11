@@ -1,0 +1,13 @@
+<map id="ProjectManagerAdapter::init" name="ProjectManagerAdapter::init">
+<area shape="rect" id="Node000001" title="Initialize the project management adapter." alt="" coords="5,88,180,128"/>
+<area shape="rect" id="Node000002" href="$class_project_manager_adapter.html#aa6b7ee989856e057fc8cafdc25f9da78" title="function to fill the piano data with the current new settings" alt="" coords="231,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,85,227,55,247,48,249,53,229,60,148,90"/>
+<area shape="rect" id="Node000003" href="$class_piano_manager.html#a7bdeb92f1fbfb953367659da9235d5e2" title=" " alt="" coords="228,70,408,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,96,214,92,215,97,180,101"/>
+<area shape="rect" id="Node000004" href="$class_core.html#af51170e1063f5b41b84d94d0d9b8e88d" title=" " alt="" coords="231,119,405,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,115,217,119,217,124,180,120"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="233,169,403,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,126,229,153,258,162,256,167,227,159,147,131"/>
+<area shape="rect" id="Node000005" href="$class_piano_manager.html#a8a4570296e703fc31a4c293f47354a21" title=" " alt="" coords="456,119,679,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,129,442,129,442,135,406,135"/>
+</map>

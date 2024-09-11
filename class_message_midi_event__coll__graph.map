@@ -1,0 +1,7 @@
+<map id="MessageMidiEvent" name="MessageMidiEvent">
+<area shape="rect" id="Node000001" title="Class for a MIDI event." alt="" coords="39,93,185,119"/>
+<area shape="rect" id="Node000002" href="$class_message.html" title="The Message class." alt="" coords="5,5,85,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,40,105,91,101,94,61,43"/>
+<area shape="rect" id="Node000003" href="$struct_midi_adapter_1_1_data.html" title="Structure of the data associated with a MIDI event." alt="" coords="110,5,250,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,43,124,94,119,91,160,40"/>
+</map>

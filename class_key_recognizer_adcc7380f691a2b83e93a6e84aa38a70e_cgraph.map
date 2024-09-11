@@ -1,0 +1,19 @@
+<map id="KeyRecognizer::signalPreprocessing" name="KeyRecognizer::signalPreprocessing">
+<area shape="rect" id="Node000001" title="Preprocessing of the signal." alt="" coords="5,104,261,129"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="327,5,517,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,102,226,71,308,39,338,31,339,36,310,45,228,76,161,106"/>
+<area shape="rect" id="Node000003" href="$class_key_recognizer.html#aee5d8c5201a36164195ed9b6ddbfc1a0" title="Map frequency to bin index." alt="" coords="344,55,500,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,101,333,80,334,85,209,107"/>
+<area shape="rect" id="Node000004" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="309,104,535,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,114,295,114,295,119,261,119"/>
+<area shape="rect" id="Node000007" href="$namespace_math_tools.html#a84f6eb75e82878db8bb0c3b57ab0bcfe" title="Map a vector to a different one by a unary map." alt="" coords="321,153,523,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="209,127,334,148,333,154,208,132"/>
+<area shape="rect" id="Node000008" href="$class_key_recognizer.html#a5d64a7e75360ee497f157bd817579920" title=" " alt="" coords="341,203,503,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="162,127,229,157,310,187,344,197,342,202,309,193,227,162,160,132"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="583,80,803,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="535,104,569,101,569,106,535,109"/>
+<area shape="rect" id="Node000006" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="587,129,798,155"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="535,125,574,128,574,134,535,130"/>
+<area shape="rect" id="Node000009" href="$class_key_recognizer.html#a3faff2c2ae9f9cc81aca216f1345b772" title="Map bin index to frequency." alt="" coords="614,203,771,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="503,213,600,213,600,218,503,218"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="AudioRecorder::automaticControl" name="AudioRecorder::automaticControl">
+<area shape="rect" id="Node000001" title="Automatic noise estimation and threshold adjustment." alt="" coords="5,112,196,152"/>
+<area shape="rect" id="Node000002" href="$class_audio_recorder.html#ac5c569b5f85c1eba74b40fab711e0c6c" title="Convert an intensity (variance) of the signal to a VU level." alt="" coords="244,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,109,185,82,243,55,264,47,266,52,245,60,187,87,137,114"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#a41b5f01c159dca05e886c3fbead73b0c" title=" " alt="" coords="271,70,447,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,111,278,95,279,101,197,116"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="263,119,456,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,129,248,129,248,135,196,135"/>
+<area shape="rect" id="Node000005" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="274,169,445,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="197,148,279,163,278,169,196,153"/>
+<area shape="rect" id="Node000006" href="$class_audio_interface.html#a6f1737975feb735e2bb8001fb215d9cb" title=" " alt="" coords="272,218,447,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="136,150,186,177,245,203,275,212,273,217,243,208,184,182,133,154"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="src/common/core/adapters/xmlwriterinterface.h" name="src/common/core/adapters/xmlwriterinterface.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="521,5,716,45"/>
+<area shape="rect" id="Node000002" href="$xmlfactory_8h.html" title=" " alt="" coords="455,93,649,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="598,58,569,95,565,91,593,55"/>
+<area shape="rect" id="Node000005" href="$xmlwriterinterface_8cpp.html" title=" " alt="" coords="685,181,880,221"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="648,54,767,179,763,183,644,57"/>
+<area shape="rect" id="Node000003" href="$xmlfactory_8cpp.html" title=" " alt="" coords="5,181,200,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,138,201,184,200,179,440,133"/>
+<area shape="rect" id="Node000004" href="$xmlreaderinterface_8cpp.html" title=" " alt="" coords="224,181,419,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="490,141,373,184,371,179,488,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="616,136,733,179,731,184,614,141"/>
+<area shape="rect" id="Node000006" href="$algorithminformationparser_8h.html" title=" " alt="" coords="443,181,661,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="555,147,555,181,549,181,549,147"/>
+<area shape="rect" id="Node000007" href="$algorithminformationparser_8cpp.html" title=" " alt="" coords="313,269,545,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="515,231,458,271,455,267,512,227"/>
+<area shape="rect" id="Node000008" href="$calculationmanager_8cpp.html" title=" " alt="" coords="570,269,779,309"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="592,227,649,267,646,271,589,231"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MessageChangeTuningCurve" name="MessageChangeTuningCurve">
+<area shape="rect" id="Node000001" title="Class for a message indicating a change in the tuning curve." alt="" coords="5,79,215,104"/>
+<area shape="rect" id="Node000002" href="$class_message.html" title="The Message class." alt="" coords="70,5,150,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,44,113,79,107,79,107,44"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AlgorithmPluginDetails" name="AlgorithmPluginDetails">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,181,195,207"/>
+<area shape="rect" id="Node000002" href="$class_algorithm_factory_description.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,45,103,80,102,119,109,181,104,181,97,119,97,79,101,44"/>
+<area shape="rect" id="Node000003" href="$class_algorithm_factory_base.html" title="The AlgorithmFactoryBase class create the desired Algorithm." alt="" coords="189,93,354,119"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="144,35,250,91,248,95,141,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,127,132,183,130,179,236,123"/>
+</map>

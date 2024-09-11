@@ -1,0 +1,5 @@
+<map id="EntropyMinimizer::getTolerance" name="EntropyMinimizer::getTolerance">
+<area shape="rect" id="Node000001" title="Allowed tolerance of the tuning curve during the Monte Carlo process." alt="" coords="5,5,233,31"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="281,5,475,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,15,268,15,268,21,234,21"/>
+</map>

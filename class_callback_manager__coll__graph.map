@@ -1,0 +1,5 @@
+<map id="CallbackManager&lt; CallbackClass &gt;" name="CallbackManager&lt; CallbackClass &gt;">
+<area shape="rect" id="Node000001" title="Callback manager that can invoke a method to all its listeners." alt="" coords="5,79,212,119"/>
+<area shape="rect" id="Node000002" href="$class_base_callback_manager.html" title="Base class for managing callback interfaces." alt="" coords="25,5,192,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
+</map>

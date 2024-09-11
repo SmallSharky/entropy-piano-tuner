@@ -1,0 +1,17 @@
+<map id="SoundGenerator::preCalculateSoundOfAllKeys" name="SoundGenerator::preCalculateSoundOfAllKeys">
+<area shape="rect" id="Node000001" title="Calculate the sound of all keys in advance." alt="" coords="5,47,223,87"/>
+<area shape="rect" id="Node000002" href="$class_sound_generator.html#ab20f0ab230cc63049dc6409cd10d9dce" title="Calculate the sound of a given key in advance, using the spectrum of the given key." alt="" coords="271,47,488,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,65,257,65,257,70,223,70"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#a362d48e9acda6d816d0b4a3d63c6e385" title=" " alt="" coords="575,5,685,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,45,561,29,562,34,482,50"/>
+<area shape="rect" id="Node000004" href="$class_key.html#acb1d238f5843b42f04338a8a8090e4cd" title="Get a read&#45;only reference to mPeaks." alt="" coords="573,55,687,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="488,65,560,65,560,70,488,70"/>
+<area shape="rect" id="Node000005" href="$class_synthesizer.html#a6afcf57ac79feb55b597601cc4146130" title="Pre&#45;calculate the PCM waveform of a sound." alt="" coords="536,105,724,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,85,529,99,528,104,467,90"/>
+<area shape="rect" id="Node000006" href="$class_waveform_generator.html#acb339ff8c5d94694bf81cb09ca343715" title="pre&#45;calculate a waveform" alt="" coords="772,105,935,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="724,122,758,122,758,127,724,127"/>
+<area shape="rect" id="Node000007" href="$class_callback_manager.html#adc6777b3a072610a956a55ac2f6abc43" title=" " alt="" coords="999,61,1217,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="934,111,986,103,986,109,935,116"/>
+<area shape="rect" id="Node000008" href="$class_waveform_generator_status_callback.html#a4e8abc132cc234600621d651c5f5250d" title="Called by WaveformGenerator if the size of the queue changed." alt="" coords="983,141,1233,181"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="935,133,970,138,969,144,934,139"/>
+</map>

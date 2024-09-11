@@ -1,0 +1,12 @@
+<map id="AudioRecorder" name="AudioRecorder">
+<area shape="rect" id="Node000001" title="Abstract adapter class for recording audio signals." alt="" coords="99,181,216,207"/>
+<area shape="rect" id="Node000005" href="$class_stroboscope.html" title="Class for a stroboscopic tuning indicator." alt="" coords="106,269,209,295"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="118,215,103,229,100,236,102,244,114,257,128,267,125,272,110,261,98,247,95,236,98,226,114,211"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html" title=" " alt="" coords="16,93,112,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,126,146,179,143,183,85,130"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html" title=" " alt="" coords="5,5,123,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,45,67,93,61,93,61,45"/>
+<area shape="rect" id="Node000004" href="$class_circular_buffer.html" title=" " alt="" coords="137,93,367,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,130,172,183,169,179,227,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,257,179,244,179,231,165,208,170,205,184,230,184,245,179,259"/>
+</map>

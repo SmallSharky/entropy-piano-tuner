@@ -1,0 +1,5 @@
+<map id="GraphicsViewAdapter::getGraphicItem" name="GraphicsViewAdapter::getGraphicItem">
+<area shape="rect" id="Node000001" title="Get a single graphics element specified by its index and its role." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$class_graphics_view_adapter.html#a1640f8a29846016f9996ef3cfdfc6758" title="Get the list of the graphic items." alt="" coords="216,5,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+</map>

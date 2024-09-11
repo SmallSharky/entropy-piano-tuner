@@ -1,0 +1,36 @@
+<map id="Core::init" name="Core::init">
+<area shape="rect" id="Node000001" title="Core initialization." alt="" coords="5,209,87,234"/>
+<area shape="rect" id="Node000002" href="$class_core_initialisation_adapter.html#ae6097cbfb31c917e92557b7e4af5a044" title="Create the initialization dialog box." alt="" coords="138,5,322,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,208,58,177,75,136,100,93,133,55,139,50,143,55,136,59,104,96,80,139,63,179,53,209"/>
+<area shape="rect" id="Node000003" href="$class_core_initialisation_adapter.html#aba84b7e377fc507e6509b02567a2a5bc" title="Destroy the initialization dialog box." alt="" coords="138,69,322,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="53,207,85,164,107,140,133,119,143,113,146,118,136,124,111,144,89,168,58,210"/>
+<area shape="rect" id="Node000004" href="$class_audio_interface.html#a77b9f8f48a0953536565986f117a3c8a" title="Inizialize the audio device." alt="" coords="157,134,303,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="65,206,96,187,134,168,155,161,157,166,136,173,99,191,67,211"/>
+<area shape="rect" id="Node000005" href="$class_recording_manager.html#a6d4a7404b47e2ff3c4e216d50ebee8f7" title=" " alt="" coords="143,183,317,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="86,213,129,207,130,212,87,218"/>
+<area shape="rect" id="Node000006" href="$class_signal_analyzer.html#aec48780bd127cd00d4084146652fe484" title="Initializes the SignalAnalyzer and its components." alt="" coords="156,233,304,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="87,224,143,231,142,237,86,229"/>
+<area shape="rect" id="Node000015" href="$class_audio_interface.html#adcb69075fb58d2f378366e42fa1db2c0" title=" " alt="" coords="135,282,325,307"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="68,232,99,251,136,268,157,276,155,281,134,273,97,255,65,237"/>
+<area shape="rect" id="Node000016" href="$class_audio_interface.html#ad24a197071c123e29ba13801c9bafabf" title="Start/restart the audio device." alt="" coords="153,331,307,357"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="57,233,88,275,110,298,136,318,148,324,145,329,133,322,107,302,84,278,53,236"/>
+<area shape="rect" id="Node000017" href="$class_core_initialisation_adapter.html#acdab515b3ddcbe699d23f4bb1a0473b6" title="Show the current progress as a progress bar in the initialization message box." alt="" coords="138,381,322,421"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="54,233,82,297,106,335,136,367,143,372,140,376,133,371,101,338,77,300,49,235"/>
+<area shape="rect" id="Node000007" href="$class_key_recognizer.html#ace5be96a5697d134e9732bb229eb181d" title="Initialization of the KeyRecognizer." alt="" coords="373,233,520,258"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="304,243,359,243,359,248,304,248"/>
+<area shape="rect" id="Node000008" href="$class_key_recognizer.html#ad051d7f6d70cf0960d317e2861598f43" title="Define the kernel vector for key recognition." alt="" coords="568,191,775,217"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="516,230,588,217,589,222,517,235"/>
+<area shape="rect" id="Node000014" href="$class_f_f_t___implementation.html#aa0e3df11ed2aaac3ca9d41743828a091" title="Optimize plan for the forward transfomation." alt="" coords="593,253,749,293"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="520,252,580,259,579,265,520,257"/>
+<area shape="rect" id="Node000009" href="$class_f_f_t___implementation.html#abedd9b477e9f25722566a753d4eaaeed" title="Foward FFT, mapping a real vector with size N to a complex one with size N/2+1." alt="" coords="825,171,981,211"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="775,195,811,193,812,199,775,201"/>
+<area shape="rect" id="Node000011" href="$class_key_recognizer.html#aee5d8c5201a36164195ed9b6ddbfc1a0" title="Map frequency to bin index." alt="" coords="825,235,981,261"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="740,214,823,230,822,235,738,219"/>
+<area shape="rect" id="Node000012" href="$class_key_recognizer.html#a5d64a7e75360ee497f157bd817579920" title=" " alt="" coords="823,121,984,146"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="713,189,847,148,848,153,715,194"/>
+<area shape="rect" id="Node000010" href="$class_f_f_t___implementation.html#ae3cd5e779f634462731886c16886a27d" title="Construct a new plan for the FFT transformation if necessary." alt="" coords="1033,224,1189,264"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="982,208,1020,218,1019,223,981,213"/>
+<area shape="rect" id="Node000013" href="$class_key_recognizer.html#a3faff2c2ae9f9cc81aca216f1345b772" title="Map bin index to frequency." alt="" coords="1032,121,1189,146"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="984,131,1018,131,1018,136,984,136"/>
+<area shape="poly" id="edge14_Node000014_Node000010" title=" " alt="" coords="750,276,861,278,984,271,1022,264,1023,270,984,276,861,283,750,281"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Algorithm::workerFunction_impl" name="Algorithm::workerFunction_impl">
+<area shape="rect" id="Node000001" title="Thread worker function of the Algorithm." alt="" coords="5,70,235,95"/>
+<area shape="rect" id="Node000002" href="$class_algorithm.html#a8d58b2de2018cf15b8ac60fbe2e49916" title=" " alt="" coords="283,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,67,278,46,279,51,180,73"/>
+<area shape="rect" id="Node000003" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="299,70,469,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,80,285,80,285,85,235,85"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#a2b9a9567f74a046f9a76ff974ca3fa5e" title=" " alt="" coords="303,120,465,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,93,290,117,289,122,179,98"/>
+</map>

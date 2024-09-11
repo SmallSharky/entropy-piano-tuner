@@ -1,0 +1,7 @@
+<map id="Piano" name="Piano">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,93,148,119"/>
+<area shape="rect" id="Node000002" href="$class_keyboard.html" title="Class describing the piano keyboard, holding a collection of keys." alt="" coords="5,5,88,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,40,86,68,109,91,105,95,82,71,60,43"/>
+<area shape="rect" id="Node000003" href="$class_algorithm_parameters.html" title=" " alt="" coords="112,5,272,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,44,165,71,138,95,134,91,161,68,178,41"/>
+</map>

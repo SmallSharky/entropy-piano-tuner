@@ -1,0 +1,17 @@
+<map id="TuningIndicatorDrawer::toggleSpectralAndStroboscopeMode" name="TuningIndicatorDrawer::toggleSpectralAndStroboscopeMode">
+<area shape="rect" id="Node000001" title="Toggle between spectral and stroboscopic operation mode." alt="" coords="5,73,271,113"/>
+<area shape="rect" id="Node000002" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="345,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,70,318,39,353,31,354,36,319,45,207,75"/>
+<area shape="rect" id="Node000003" href="$class_settings.html#aadc442271e5b8ee845cfcebd7f7868c7" title="Get flag indicating the stroboscopic mode of the tuning indicator." alt="" coords="321,55,535,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,78,307,75,307,81,271,84"/>
+<area shape="rect" id="Node000004" href="$class_drawer_base.html#a74657fb6997b6ff8fcb713bc2cf9a18a" title="Function to completely redraw the scene." alt="" coords="351,104,505,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,101,337,107,337,112,271,106"/>
+<area shape="rect" id="Node000008" href="$class_settings.html#a01e1f5e9f721750c57aff5e17588e7fc" title="Set flag indicating the stroboscopic mode of the tuning indicator." alt="" coords="319,153,537,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="213,110,319,138,358,148,357,153,318,143,211,115"/>
+<area shape="rect" id="Node000005" href="$class_graphics_view_adapter.html#a690fa6f4e2f35d32fedf483070903027" title="Clear the graphics panel." alt="" coords="607,39,770,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="486,101,594,77,595,83,487,107"/>
+<area shape="rect" id="Node000006" href="$class_drawer_base.html#a5eb83c8723a4cdefaf93f790cacc1428" title="Abstract function : draw the content." alt="" coords="618,104,759,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="505,114,604,114,604,119,505,119"/>
+<area shape="rect" id="Node000007" href="$class_drawer_base.html#abadb4620de698e8b7c24b310b79a2c39" title="Check whether the content has to be redrawn." alt="" coords="585,153,792,179"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="496,127,608,148,607,153,495,132"/>
+</map>

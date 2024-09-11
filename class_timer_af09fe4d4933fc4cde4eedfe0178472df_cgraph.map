@@ -1,0 +1,9 @@
+<map id="Timer::waitUntil" name="Timer::waitUntil">
+<area shape="rect" id="Node000001" title="Wait in idle mode for a certain minimum time span since last reset." alt="" coords="5,31,132,56"/>
+<area shape="rect" id="Node000002" href="$class_timer.html#af364668086cf7a56cff966881c5be42e" title="Check for timeout." alt="" coords="180,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,31,166,26,167,31,132,37"/>
+<area shape="rect" id="Node000004" href="$class_timer.html#a20edb6425970a42b4083f2ee6348cf75" title="Wait in idle mode without consuming CPU time." alt="" coords="191,55,287,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,50,178,56,177,61,132,55"/>
+<area shape="rect" id="Node000003" href="$class_timer.html#a112833b3ad31c2df534ab8f44da402a5" title=" " alt="" coords="347,5,517,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,15,333,15,333,21,299,21"/>
+</map>

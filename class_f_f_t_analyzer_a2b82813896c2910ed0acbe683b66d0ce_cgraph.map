@@ -1,0 +1,5 @@
+<map id="FFTAnalyzer::estimateFrequencyShift" name="FFTAnalyzer::estimateFrequencyShift">
+<area shape="rect" id="Node000001" title="Estimate the frequency shift." alt="" coords="5,5,240,45"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a39da022a8dc5843008123ada9e0d5888" title="Determine the n&#45;th moment of a distribution stored in a vector." alt="" coords="288,13,495,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+</map>

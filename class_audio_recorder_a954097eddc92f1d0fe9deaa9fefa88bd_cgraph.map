@@ -1,0 +1,5 @@
+<map id="AudioRecorder::resetInputLevelControl" name="AudioRecorder::resetInputLevelControl">
+<area shape="rect" id="Node000001" title="Reset input level control." alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" href="$class_audio_interface.html#a6f1737975feb735e2bb8001fb215d9cb" title=" " alt="" coords="244,13,419,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
+</map>

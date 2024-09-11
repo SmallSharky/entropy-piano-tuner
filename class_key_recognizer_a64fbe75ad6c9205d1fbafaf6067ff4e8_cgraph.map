@@ -1,0 +1,21 @@
+<map id="KeyRecognizer::recognizeKey" name="KeyRecognizer::recognizeKey">
+<area shape="rect" id="Node000001" title="Start key recognition." alt="" coords="5,134,219,159"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html#aa264337db95c2348e4396ccbce713ff8" title=" " alt="" coords="267,63,429,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,131,259,104,261,109,161,136"/>
+<area shape="rect" id="Node000003" href="$class_simple_thread_handler.html#acd459deb405647c580000490aaa71a0d" title=" " alt="" coords="267,127,429,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,144,253,144,253,149,219,149"/>
+<area shape="rect" id="Node000009" href="$class_simple_thread_handler.html#a9c7f6061a6b567b59ca9847180544d70" title=" " alt="" coords="483,184,646,224"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="167,157,267,176,372,188,470,196,470,202,371,194,266,181,166,162"/>
+<area shape="rect" id="Node000004" href="$class_simple_thread_handler.html#ae3190fa086d45d5325bbffabf0be5097" title="Register a thread for termination." alt="" coords="700,184,863,224"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,147,536,155,652,169,696,178,695,183,652,175,535,160,429,153"/>
+<area shape="rect" id="Node000005" href="$class_simple_thread_handler.html#a0832e65ca495778cf58dd039985fb69c" title=" " alt="" coords="477,69,652,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="423,124,475,110,476,115,425,129"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="425,164,476,178,475,183,423,169"/>
+<area shape="rect" id="Node000006" href="$class_simple_thread_handler.html#a773070afe77138730078e87096784f1b" title=" " alt="" coords="700,69,863,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="652,87,686,87,686,92,652,92"/>
+<area shape="rect" id="Node000007" href="$class_ept_exception.html#abce4d06a67b4e28198008f479ff574db" title="Override std::exception::what." alt="" coords="708,134,855,159"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="642,107,720,128,719,133,640,112"/>
+<area shape="rect" id="Node000008" href="$class_simple_thread_handler.html#ac8e798b146647cf3fae4ca1e13c05e44" title="Virtual worker function, executed within the new thread." alt="" coords="700,5,863,45"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="632,67,700,47,701,52,634,72"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="646,201,686,201,686,207,646,207"/>
+</map>

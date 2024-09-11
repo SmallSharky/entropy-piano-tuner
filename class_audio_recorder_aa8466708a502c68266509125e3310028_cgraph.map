@@ -1,0 +1,7 @@
+<map id="AudioRecorder::cutSilence" name="AudioRecorder::cutSilence">
+<area shape="rect" id="Node000001" title="Cut trailing silence." alt="" coords="5,5,197,31"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="245,5,449,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,15,232,15,232,21,197,21"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="497,5,735,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,15,484,15,484,21,450,21"/>
+</map>

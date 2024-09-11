@@ -1,0 +1,30 @@
+<map id="AudioRecorder::pushRawData" name="AudioRecorder::pushRawData">
+<area shape="rect" id="Node000001" title="The implementation calls this function when new data is available." alt="" coords="5,226,220,251"/>
+<area shape="rect" id="Node000002" href="$class_audio_recorder.html#a8f8b2e85f081536cdd97bc0dee2ca20c" title="Automatic noise estimation and threshold adjustment." alt="" coords="290,104,481,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,223,195,193,267,160,304,146,306,151,269,165,197,198,139,228"/>
+<area shape="rect" id="Node000003" href="$class_audio_recorder.html#ac5c569b5f85c1eba74b40fab711e0c6c" title="Convert an intensity (variance) of the signal to a VU level." alt="" coords="551,5,781,45"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="121,224,177,159,219,121,267,90,333,63,403,44,472,32,537,25,537,30,473,37,404,49,335,68,269,94,222,125,181,162,125,228"/>
+<area shape="rect" id="Node000006" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="581,218,751,243"/>
+<area shape="poly" id="edge15_Node000001_Node000006" title=" " alt="" coords="162,223,213,212,268,204,385,197,503,204,581,213,581,219,502,209,385,202,268,209,214,218,163,229"/>
+<area shape="rect" id="Node000008" href="$class_audio_recorder.html#ad430ffd4e4da76b544438b0627c50fe1" title="Control the beginning and the end of recording." alt="" coords="268,219,503,259"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="220,236,255,236,255,241,220,241"/>
+<area shape="rect" id="Node000009" href="$class_circular_buffer.html#a5059c441f7195cb5468c61ed27814a61" title="Append a new data element to the buffer." alt="" coords="291,283,479,309"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="174,249,311,278,310,283,173,254"/>
+<area shape="rect" id="Node000010" href="$class_stroboscope.html#a1ac64c5306f775906e410b7847ec09a2" title="Stroboscope::pushRawData." alt="" coords="285,333,485,358"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="135,249,194,283,269,318,299,327,298,332,267,322,192,288,133,254"/>
+<area shape="rect" id="Node000013" href="$namespace_math_tools.html#a258148ffe30c125f3c21127a6a2f0686" title="Restrict floating point value to an interval." alt="" coords="282,382,489,407"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="127,250,184,307,224,340,269,367,290,375,288,380,267,372,221,344,180,311,123,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,101,550,55,574,47,576,52,552,60,433,106"/>
+<area shape="rect" id="Node000004" href="$class_audio_interface.html#a41b5f01c159dca05e886c3fbead73b0c" title=" " alt="" coords="578,70,754,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="480,107,565,95,566,100,481,113"/>
+<area shape="rect" id="Node000005" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="569,119,763,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="481,124,556,126,556,132,481,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="463,142,504,160,519,172,528,183,538,193,552,203,571,211,569,216,549,208,534,197,524,186,515,175,501,165,461,146"/>
+<area shape="rect" id="Node000007" href="$class_audio_interface.html#a6f1737975feb735e2bb8001fb215d9cb" title=" " alt="" coords="579,169,753,194"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="481,141,590,163,589,168,480,146"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="503,233,567,231,567,236,503,238"/>
+<area shape="rect" id="Node000011" href="$class_settings.html#a9fe0c55fee28c9c5369dec46677dd6c1" title="Get a pointer to the singleton instance." alt="" coords="583,307,749,333"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="485,334,569,326,570,331,486,339"/>
+<area shape="rect" id="Node000012" href="$class_message_handler.html#a91817cbc1e987a726f6ec02c17f87f25" title="short function for creating and sending a message and drop older messages of the same type so that th..." alt="" coords="558,357,774,382"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="486,351,544,356,544,362,485,357"/>
+</map>

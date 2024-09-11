@@ -1,0 +1,18 @@
+<map id="FFTAnalyzer::identifyPeaks" name="FFTAnalyzer::identifyPeaks">
+<area shape="rect" id="Node000001" title="Identify the peaks in the spectrum." alt="" coords="5,95,203,121"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t_analyzer.html#a89745d08c292acaaf696f9cb60cded49" title="Find the accurate frequency of a spectral peak in the original FFT." alt="" coords="251,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,93,250,55,271,47,273,52,252,60,143,98"/>
+<area shape="rect" id="Node000004" href="$class_key.html#a7a8cdc37d7c13d1ce9095273f472495d" title="Convert frequency to logbin index." alt="" coords="261,70,431,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,95,247,90,247,96,203,100"/>
+<area shape="rect" id="Node000006" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="261,119,431,145"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="203,115,247,120,247,125,202,120"/>
+<area shape="rect" id="Node000007" href="$class_f_f_t_analyzer.html#a8784aef7f4f682be57f8fc1d8908142a" title=" " alt="" coords="255,169,437,194"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="141,118,251,155,279,163,278,168,250,160,139,123"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="492,17,685,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,24,478,25,478,30,441,30"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="404,67,516,42,518,48,405,72"/>
+<area shape="rect" id="Node000005" href="$class_key.html#aba1127cbc42134f0556d4efb2cd309e8" title="Convert frequency to real&#45;valued logbin index." alt="" coords="489,70,688,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,80,476,80,476,85,432,85"/>
+<area shape="rect" id="Node000008" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="495,169,682,194"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="437,179,481,179,481,184,437,184"/>
+</map>

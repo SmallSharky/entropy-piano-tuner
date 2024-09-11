@@ -1,0 +1,61 @@
+<map id="FFTAnalyzer::analyse" name="FFTAnalyzer::analyse">
+<area shape="rect" id="Node000001" title="Main analyzing function." alt="" coords="5,319,165,345"/>
+<area shape="rect" id="Node000002" href="$class_f_f_t_analyzer.html#a988d1654fe1b1f2586aeaa14858b5a7f" title="Construct logarithmically binned spectrum from the mFinalFFT." alt="" coords="246,240,438,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,317,256,281,257,286,132,322"/>
+<area shape="rect" id="Node000005" href="$class_key.html#a696c852443621ce03bd7bc4f8a8625df" title="Convert continuous slot index to frequency in Hz." alt="" coords="823,269,993,294"/>
+<area shape="poly" id="edge35_Node000001_Node000005" title=" " alt="" coords="96,317,144,272,176,247,212,226,293,190,360,172,430,163,518,153,641,135,694,136,760,154,800,174,837,201,890,256,887,260,833,205,797,179,758,158,693,141,641,140,519,159,430,168,361,177,295,195,215,230,179,251,147,276,100,321"/>
+<area shape="rect" id="Node000008" href="$class_f_f_t_analyzer.html#acd0adf05ab04d76cc791655e203bde89" title="Estimate the frequency for a given keynumber." alt="" coords="225,119,459,145"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="90,318,107,286,133,244,168,199,212,162,242,147,244,151,215,166,172,203,137,247,111,289,95,320"/>
+<area shape="rect" id="Node000009" href="$class_f_f_t_analyzer.html#a2b82813896c2910ed0acbe683b66d0ce" title="Estimate the frequency shift." alt="" coords="225,5,459,45"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="86,319,96,269,118,198,135,159,156,121,181,86,212,55,218,50,221,55,215,59,185,89,160,124,140,162,123,200,101,271,91,320"/>
+<area shape="rect" id="Node000011" href="$class_f_f_t_analyzer.html#a4579c882c63db8090e581050b6d7525f" title="Estimate the inharmonicity B." alt="" coords="213,395,471,421"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="130,342,285,389,284,394,128,347"/>
+<area shape="rect" id="Node000014" href="$class_f_f_t_analyzer.html#a89745d08c292acaaf696f9cb60cded49" title="Find the accurate frequency of a spectral peak in the original FFT." alt="" coords="543,584,734,624"/>
+<area shape="poly" id="edge25_Node000001_Node000014" title=" " alt="" coords="102,343,151,384,215,430,296,477,362,510,520,569,544,578,542,583,518,575,360,515,294,482,212,434,147,388,99,347"/>
+<area shape="rect" id="Node000017" href="$class_f_f_t_analyzer.html#ad144e9447bf3e02fb1953df0e23af60e" title=" " alt="" coords="567,319,711,345"/>
+<area shape="poly" id="edge37_Node000001_Node000017" title=" " alt="" coords="166,329,553,329,553,335,166,335"/>
+<area shape="rect" id="Node000018" href="$class_f_f_t_analyzer.html#a55ee54c34ee520ceb555b7b575a6fbad" title="Estimate the quality of the recorded signal." alt="" coords="235,70,449,95"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="87,318,100,276,124,218,161,156,184,128,212,105,221,99,224,103,215,109,188,132,165,159,129,220,105,278,92,320"/>
+<area shape="rect" id="Node000019" href="$class_key.html#a7a8cdc37d7c13d1ce9095273f472495d" title="Convert frequency to logbin index." alt="" coords="553,699,724,725"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="89,345,93,407,110,501,125,551,148,601,177,645,215,682,238,694,271,703,355,714,450,717,540,715,540,720,450,722,354,719,269,708,236,699,212,686,173,648,143,603,120,553,105,502,88,408,84,345"/>
+<area shape="rect" id="Node000020" href="$class_f_f_t_analyzer.html#a6c56934918d5f21fee848f830ee39fbd" title="Identify the peaks in the spectrum." alt="" coords="243,647,441,673"/>
+<area shape="poly" id="edge29_Node000001_Node000020" title=" " alt="" coords="95,344,139,433,174,492,215,549,265,598,313,637,310,641,261,602,211,552,170,495,134,436,90,346"/>
+<area shape="rect" id="Node000021" href="$class_f_f_t_analyzer.html#a8784aef7f4f682be57f8fc1d8908142a" title=" " alt="" coords="548,749,729,774"/>
+<area shape="poly" id="edge36_Node000001_Node000021" title=" " alt="" coords="89,345,91,414,96,463,105,518,121,574,143,629,174,680,215,722,255,748,300,766,347,778,395,784,488,784,568,774,569,779,489,789,394,789,346,783,298,771,253,753,212,726,170,683,138,632,115,576,100,519,90,464,85,414,84,345"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a1fe78450a9646eab1fd4e9400cf79be8" title=" " alt="" coords="521,270,757,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,265,507,270,507,275,438,270"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="438,252,589,249,759,255,829,264,828,269,758,260,589,254,438,257"/>
+<area shape="rect" id="Node000006" href="$namespace_math_tools.html#a8728aa92ae92d86dae452c3287372dab" title="Normalize a distribution stored in a vector." alt="" coords="558,169,719,194"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="418,237,576,195,577,200,419,243"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="811,506,1005,531"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="741,293,760,305,781,328,790,351,796,376,809,404,847,454,885,494,881,498,843,457,804,407,791,378,784,353,776,330,757,309,738,298"/>
+<area shape="rect" id="Node000007" href="$namespace_math_tools.html#a8e5a71490a2b0d116956bcb8bcefae0f" title="Compute the norm of a vector." alt="" coords="813,118,1003,143"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="706,166,826,143,827,149,707,171"/>
+<area shape="rect" id="Node000010" href="$namespace_math_tools.html#a39da022a8dc5843008123ada9e0d5888" title="Determine the n&#45;th moment of a distribution stored in a vector." alt="" coords="535,14,742,39"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="460,23,522,23,522,29,460,29"/>
+<area shape="poly" id="edge18_Node000011_Node000004" title=" " alt="" coords="471,415,611,433,759,461,816,479,866,498,864,503,814,484,758,467,610,438,471,421"/>
+<area shape="poly" id="edge17_Node000011_Node000006" title=" " alt="" coords="355,393,423,332,517,255,602,199,605,203,520,259,426,336,359,397"/>
+<area shape="rect" id="Node000012" href="$namespace_math_tools.html#a02f4832f17cb88b50599ea17a1d7d586" title="Compute the Renyi entropy of a normalized probability distribution." alt="" coords="519,369,759,394"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="471,394,505,391,506,396,471,399"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="363,419,414,459,473,511,486,528,495,543,505,557,520,570,532,577,529,581,517,574,501,560,491,546,482,532,469,515,410,463,359,423"/>
+<area shape="rect" id="Node000015" href="$class_key.html#aba1127cbc42134f0556d4efb2cd309e8" title="Convert frequency to real&#45;valued logbin index." alt="" coords="809,627,1007,653"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="379,418,444,440,519,461,587,473,642,475,695,482,726,491,760,506,787,524,821,553,886,615,883,619,818,557,784,528,757,510,724,496,694,487,641,481,587,478,518,467,443,445,378,423"/>
+<area shape="rect" id="Node000016" href="$class_f_f_t_analyzer.html#aa7af638641911cd1ef15ee0d7663fff6" title=" " alt="" coords="543,520,734,560"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="366,418,433,457,520,499,557,513,555,518,518,504,431,461,363,423"/>
+<area shape="poly" id="edge19_Node000011_Node000017" title=" " alt="" coords="382,393,518,353,555,345,556,350,519,359,383,398"/>
+<area shape="rect" id="Node000013" href="$namespace_math_tools.html#a365914f5f4cf1049e98d3f0ff0e17021" title="Compute the Shannon entropy of a normalized probability distribution." alt="" coords="807,369,1009,394"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="759,379,793,379,793,384,759,384"/>
+<area shape="poly" id="edge14_Node000014_Node000004" title=" " alt="" coords="717,581,758,569,860,534,862,539,759,575,719,586"/>
+<area shape="poly" id="edge20_Node000017_Node000005" title=" " alt="" coords="706,317,826,294,827,299,707,322"/>
+<area shape="poly" id="edge24_Node000018_Node000006" title=" " alt="" coords="427,93,471,104,542,131,603,160,600,165,540,136,470,109,426,98"/>
+<area shape="poly" id="edge23_Node000018_Node000007" title=" " alt="" coords="450,86,759,109,800,114,799,119,758,115,450,91"/>
+<area shape="poly" id="edge22_Node000018_Node000010" title=" " alt="" coords="410,67,557,39,558,45,411,73"/>
+<area shape="poly" id="edge28_Node000019_Node000004" title=" " alt="" coords="716,697,757,678,773,663,783,649,791,632,805,613,880,539,883,542,809,616,796,635,787,651,777,667,760,682,719,702"/>
+<area shape="poly" id="edge27_Node000019_Node000015" title=" " alt="" coords="687,697,758,677,846,654,847,659,759,683,688,702"/>
+<area shape="poly" id="edge32_Node000020_Node000005" title=" " alt="" coords="441,665,530,669,623,667,705,656,735,647,757,634,783,603,794,571,795,539,791,505,785,470,782,433,787,395,804,355,833,322,866,299,869,303,836,326,809,357,792,396,787,433,790,469,796,504,800,539,799,572,787,606,760,638,738,652,706,662,623,672,530,674,441,670"/>
+<area shape="poly" id="edge30_Node000020_Node000014" title=" " alt="" coords="410,645,529,622,530,627,411,650"/>
+<area shape="poly" id="edge31_Node000020_Node000019" title=" " alt="" coords="416,670,553,694,552,700,415,675"/>
+<area shape="poly" id="edge33_Node000020_Node000021" title=" " alt="" coords="369,670,436,702,520,735,550,743,548,748,518,740,434,707,367,675"/>
+<area shape="rect" id="Node000022" href="$namespace_math_tools.html#a245ada2fb161d9992f7a139bbc6f9364" title="Find the component where the vector has its maximum." alt="" coords="815,749,1001,774"/>
+<area shape="poly" id="edge34_Node000021_Node000022" title=" " alt="" coords="730,759,801,759,801,764,730,764"/>
+</map>

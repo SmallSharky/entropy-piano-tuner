@@ -1,0 +1,16 @@
+<map id="TuningCurveGraphDrawer::manuallyEditTuningCurveByClick" name="TuningCurveGraphDrawer::manuallyEditTuningCurveByClick">
+<area shape="rect" id="Node000001" title="Manually edit tuning curve by mouse click." alt="" coords="5,73,251,113"/>
+<area shape="rect" id="Node000002" href="$class_piano.html#a16452e4ca4fb84657512601e26731a60" title="Compute the defining temperatent." alt="" coords="299,31,541,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,70,330,56,331,61,247,75"/>
+<area shape="rect" id="Node000006" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="323,80,517,105"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="251,90,309,90,309,95,251,95"/>
+<area shape="rect" id="Node000007" href="$class_message_handler.html#a2eb557a1fefbc719a63ca7487e504cee" title="short function for creating and sending a message" alt="" coords="335,129,505,155"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="247,110,331,124,330,130,247,115"/>
+<area shape="rect" id="Node000003" href="$class_piano.html#aae9866e7d27d8f35fc0524f57fbb5758" title="Function returning the equal temperament." alt="" coords="589,5,815,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,30,576,27,576,32,542,35"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#a49ed6c8f56a37881d49a3a16e01d1daa" title=" " alt="" coords="867,55,1078,80"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="541,46,854,60,854,65,541,51"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#a6920a5de40fff9a2014f03f8a5bb6e14" title=" " alt="" coords="863,5,1083,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="815,15,849,15,849,21,815,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="773,28,889,49,888,55,772,33"/>
+</map>

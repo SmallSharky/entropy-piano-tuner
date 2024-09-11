@@ -1,0 +1,9 @@
+<map id="SignalAnalyzer::createPolygon" name="SignalAnalyzer::createPolygon">
+<area shape="rect" id="Node000001" title="Create a polygon for drawing." alt="" coords="5,31,225,56"/>
+<area shape="rect" id="Node000002" href="$class_p_c_m_device.html#ad678ef7d6072cfae9d1007ae868d9d43" title=" " alt="" coords="273,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,30,259,27,260,32,226,35"/>
+<area shape="rect" id="Node000004" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="279,55,472,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,51,265,54,265,60,225,56"/>
+<area shape="rect" id="Node000003" href="$class_audio_interface.html#acbfeec552c71767ce529845fd105093e" title=" " alt="" coords="525,5,763,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,15,512,15,512,21,478,21"/>
+</map>

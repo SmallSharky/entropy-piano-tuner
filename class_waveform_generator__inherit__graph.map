@@ -1,0 +1,9 @@
+<map id="WaveformGenerator" name="WaveformGenerator">
+<area shape="rect" id="Node000001" title="The WaveformGenerator class." alt="" coords="116,167,271,192"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,86,168,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,117,179,164,176,169,112,122"/>
+<area shape="rect" id="Node000003" href="$class_callback_manager.html" title=" " alt="" coords="193,79,410,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,129,211,168,208,164,263,125"/>
+<area shape="rect" id="Node000004" href="$class_base_callback_manager.html" title="Base class for managing callback interfaces." alt="" coords="218,5,385,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,44,304,79,299,79,299,44"/>
+</map>

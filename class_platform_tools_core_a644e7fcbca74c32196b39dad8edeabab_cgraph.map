@@ -1,0 +1,5 @@
+<map id="PlatformToolsCore::getInstalledPhysicalMemoryInB" name="PlatformToolsCore::getInstalledPhysicalMemoryInB">
+<area shape="rect" id="Node000001" title="Returns the physical memory, can be used to detect low memory devices." alt="" coords="5,5,233,45"/>
+<area shape="rect" id="Node000002" href="$getmemorysize_8cpp.html#a62d6c381522415ec9be81fe30b316a52" title=" " alt="" coords="281,13,405,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,23,267,23,267,28,234,28"/>
+</map>

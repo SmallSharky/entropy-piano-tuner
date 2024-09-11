@@ -1,0 +1,7 @@
+<map id="GraphicsItem::setKeyIndexAndItemRole" name="GraphicsItem::setKeyIndexAndItemRole">
+<area shape="rect" id="Node000001" title="Short function for setting the key index and the role." alt="" coords="5,23,203,63"/>
+<area shape="rect" id="Node000002" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="251,5,447,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,30,237,27,238,32,203,36"/>
+<area shape="rect" id="Node000003" href="$class_graphics_item.html#a1864e6295f4187202d6e38bee9a7cb7e" title="Setter for mKeyIndex." alt="" coords="251,55,448,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,50,237,54,237,59,203,56"/>
+</map>

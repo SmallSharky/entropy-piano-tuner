@@ -1,0 +1,5 @@
+<map id="MathTools::computeRenyiEntropy" name="MathTools::computeRenyiEntropy">
+<area shape="rect" id="Node000001" title="Compute the Renyi entropy of a normalized probability distribution." alt="" coords="5,5,245,31"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a365914f5f4cf1049e98d3f0ff0e17021" title="Compute the Shannon entropy of a normalized probability distribution." alt="" coords="293,5,496,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,15,279,15,279,21,246,21"/>
+</map>

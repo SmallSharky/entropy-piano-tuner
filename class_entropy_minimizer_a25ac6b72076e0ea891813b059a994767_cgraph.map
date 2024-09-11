@@ -1,0 +1,15 @@
+<map id="EntropyMinimizer::setAllSpectralComponents" name="EntropyMinimizer::setAllSpectralComponents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,188,95"/>
+<area shape="rect" id="Node000002" href="$class_entropy_minimizer.html#ac7043e18fa5fc78112cf37746c3b90ca" title="Add or subtract a spectrum to the accumulator." alt="" coords="236,5,501,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,53,235,41,285,31,286,36,237,46,183,58"/>
+<area shape="rect" id="Node000004" href="$class_entropy_minimizer.html#a76638d79b922c7072e30687bf6e93520" title="Get recorded pitch." alt="" coords="255,55,482,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,73,242,73,242,78,188,78"/>
+<area shape="rect" id="Node000007" href="$class_key.html#ab062601c0f20eb3003104dbf7a0e28e2" title="Get a read&#45;only reference to mSpectrum." alt="" coords="301,120,437,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="183,93,237,105,288,115,287,120,235,110,182,98"/>
+<area shape="rect" id="Node000003" href="$class_entropy_minimizer.html#a2b6bda1c16de56a0aa8b74ab28bd027f" title="Truncate logspectrum at the cutoffs and return an element." alt="" coords="553,5,773,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,15,539,15,539,21,502,21"/>
+<area shape="rect" id="Node000005" href="$class_entropy_minimizer.html#a94fcc29bc98b4d145801f46cfd890f7b" title="Get recorded pitch." alt="" coords="549,55,776,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,73,536,73,536,78,482,78"/>
+<area shape="rect" id="Node000006" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="566,120,759,145"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="472,93,584,115,583,120,471,98"/>
+</map>

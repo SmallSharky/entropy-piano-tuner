@@ -1,0 +1,7 @@
+<map id="KeyRecognizer::constructLogSpec" name="KeyRecognizer::constructLogSpec">
+<area shape="rect" id="Node000001" title="Construct logarithmic spectrum." alt="" coords="5,5,192,45"/>
+<area shape="rect" id="Node000002" href="$namespace_math_tools.html#a1fe78450a9646eab1fd4e9400cf79be8" title=" " alt="" coords="240,13,476,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,226,23,226,28,192,28"/>
+<area shape="rect" id="Node000003" href="$namespace_math_tools.html#a7c9a732488d87f78d2b0cc78f3e047f5" title="Round a floating point number to an integer." alt="" coords="524,13,717,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,23,510,23,510,28,476,28"/>
+</map>

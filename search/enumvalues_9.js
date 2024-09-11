@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['r_5faccepted_0',['R_ACCEPTED',['../class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eeae6e3f9355a62509de1c25f38784fde5c',1,'ProjectManagerAdapter']]],
+  ['r_5fcanceled_1',['R_CANCELED',['../class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eead18f1a753f9464e8791c86daeaacb24f',1,'ProjectManagerAdapter']]],
+  ['r_5fno_2',['R_NO',['../class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eea7b98dfa32aeb59d790024231930561be',1,'ProjectManagerAdapter']]],
+  ['r_5fyes_3',['R_YES',['../class_project_manager_adapter.html#ae7cb1022758f51c6248a67fc801207eeae2bf07cd3a30d5ce674116cd521154e5',1,'ProjectManagerAdapter']]],
+  ['role_5fchart_4',['ROLE_CHART',['../class_fourier_spectrum_graph_drawer.html#a4d7af1dc2dab41e9d11dc7e25f8ea60aa3b889268a0b6e3b04e1a44f284becee3',1,'FourierSpectrumGraphDrawer']]],
+  ['role_5fcomputed_5ffrequency_5',['ROLE_COMPUTED_FREQUENCY',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea43ac3f1dd4651d0672e9eb791acf4f5b',1,'TuningCurveGraphDrawer']]],
+  ['role_5fglobal_6',['ROLE_GLOBAL',['../class_fourier_spectrum_graph_drawer.html#a4d7af1dc2dab41e9d11dc7e25f8ea60aa33e2abfb03f7a1caacb1e9b170c8fb01',1,'FourierSpectrumGraphDrawer::ROLE_GLOBAL'],['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716eafe2816c7e9b58710ab5ed6abe85e21f0',1,'TuningCurveGraphDrawer::ROLE_GLOBAL']]],
+  ['role_5fgrid_7',['ROLE_GRID',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea0efdc27a95f91fd24688e124fe2ad827',1,'TuningCurveGraphDrawer']]],
+  ['role_5fidle_8',['ROLE_IDLE',['../class_signal_analyzer.html#a99fe8a01ab3694db944cc1aca71ea502a1862e05c0be4ca495fb0c12f3b9a3db4',1,'SignalAnalyzer']]],
+  ['role_5finharmonicity_9',['ROLE_INHARMONICITY',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea9b120ca6b0f84bb9cd2d69400c3efbb1',1,'TuningCurveGraphDrawer']]],
+  ['role_5fkey_5findividual_10',['ROLE_KEY_INDIVIDUAL',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea0f9f7be3c10dd41621bfe1e021e705e9',1,'TuningCurveGraphDrawer']]],
+  ['role_5foverpull_11',['ROLE_OVERPULL',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea51eafa00788b600116885f129cf27592',1,'TuningCurveGraphDrawer']]],
+  ['role_5fpeak_12',['ROLE_PEAK',['../class_fourier_spectrum_graph_drawer.html#a4d7af1dc2dab41e9d11dc7e25f8ea60aa41d6ef670eaf6dc826fc34a34548fa2e',1,'FourierSpectrumGraphDrawer']]],
+  ['role_5frecord_5fkeystroke_13',['ROLE_RECORD_KEYSTROKE',['../class_signal_analyzer.html#a99fe8a01ab3694db944cc1aca71ea502a0ab10aeb7a015252dfb6e56fd3aeaae8',1,'SignalAnalyzer']]],
+  ['role_5frecorded_5ffrequency_14',['ROLE_RECORDED_FREQUENCY',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716eafd17a818c5015ca8572e9ae7c4780233',1,'TuningCurveGraphDrawer']]],
+  ['role_5frolling_5ffft_15',['ROLE_ROLLING_FFT',['../class_signal_analyzer.html#a99fe8a01ab3694db944cc1aca71ea502ac39fb95b7b0ceee75005b18c2b7e9af8',1,'SignalAnalyzer']]],
+  ['role_5ftuned_5ffrequency_16',['ROLE_TUNED_FREQUENCY',['../class_tuning_curve_graph_drawer.html#aa532970264dc2cd3c270aae8c30a716ea4338dfa3f91e9d0afb04f8cc3e277108',1,'TuningCurveGraphDrawer']]]
+];

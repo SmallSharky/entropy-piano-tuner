@@ -1,0 +1,14 @@
+<map id="FourierSpectrumGraphDrawer::updateSpectrum" name="FourierSpectrumGraphDrawer::updateSpectrum">
+<area shape="rect" id="Node000001" title="Function for updating the red curve showing the spectrum." alt="" coords="5,133,220,173"/>
+<area shape="rect" id="Node000002" href="$class_graphics_view_adapter.html#aa28e72fc6d0fd9cee40a342a1fb05102" title="Abstract function: Draw a chart (polygon)." alt="" coords="285,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,131,197,93,267,55,284,48,286,53,269,60,200,98,143,135"/>
+<area shape="rect" id="Node000003" href="$class_graphics_view_adapter.html#a372860840793673dd7e9531f98dd67bd" title="Abstract function: Draw a filled rectangle." alt="" coords="285,69,447,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,131,272,110,274,115,193,136"/>
+<area shape="rect" id="Node000004" href="$class_graphics_view_adapter.html#a655390f2c5d90c3e3e029e2d9a167502" title="Get the first of all graphics elements with a given role." alt="" coords="277,133,455,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,151,264,151,264,156,220,156"/>
+<area shape="rect" id="Node000005" href="$class_graphics_view_adapter.html#ac84d56eb502d5167530b80dc113fa83c" title="Get a list of graphic items that match with the given role." alt="" coords="512,163,696,203"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="195,171,268,183,323,187,366,186,464,183,498,182,498,188,464,188,366,192,323,192,268,188,195,176"/>
+<area shape="rect" id="Node000006" href="$class_graphics_item.html#a3ddaa6bdfb4e46c457ec11950525dd19" title="Setter function for mRole." alt="" coords="268,249,464,274"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="152,171,269,227,310,242,308,247,267,232,150,176"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="455,162,499,167,498,172,455,167"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SignalAnalyzer" name="SignalAnalyzer">
+<area shape="rect" id="Node000001" title="Signal analyzer: Fourier transformation of the recorded audio signal." alt="" coords="199,79,318,104"/>
+<area shape="rect" id="Node000002" href="$class_simple_thread_handler.html" title="Simple thread handler." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,33,232,76,230,81,126,38"/>
+<area shape="rect" id="Node000003" href="$class_message_listener.html" title="Class of a message listener." alt="" coords="193,5,325,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,44,261,79,256,79,256,44"/>
+<area shape="rect" id="Node000004" href="$class_key_recognizer_callback.html" title="Callback class for KeyRecognizer." alt="" coords="349,5,523,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,38,289,81,287,76,394,33"/>
+</map>

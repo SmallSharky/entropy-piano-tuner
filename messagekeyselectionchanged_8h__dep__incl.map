@@ -1,0 +1,21 @@
+<map id="src/common/core/messages/messagekeyselectionchanged.h" name="src/common/core/messages/messagekeyselectionchanged.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="921,5,1155,45"/>
+<area shape="rect" id="Node000002" href="$signalanalyzer_8cpp.html" title=" " alt="" coords="5,93,207,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,37,593,59,405,75,218,96,207,97,206,92,218,91,405,70,593,53,907,31"/>
+<area shape="rect" id="Node000003" href="$soundgenerator_8cpp.html" title=" " alt="" coords="231,93,429,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="907,42,689,65,442,96,430,98,429,92,442,91,689,60,907,37"/>
+<area shape="rect" id="Node000004" href="$recordingmanager_8cpp.html" title=" " alt="" coords="454,93,683,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="922,50,672,96,671,91,921,45"/>
+<area shape="rect" id="Node000005" href="$algorithm_8cpp.html" title=" " alt="" coords="708,93,917,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="977,53,863,96,861,91,975,48"/>
+<area shape="rect" id="Node000006" href="$core_8cpp.html" title=" " alt="" coords="941,101,1135,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1041,59,1041,100,1035,100,1035,59"/>
+<area shape="rect" id="Node000007" href="$tuningcurvegraphdrawer_8cpp.html" title=" " alt="" coords="1159,93,1370,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1102,48,1216,91,1214,96,1100,53"/>
+<area shape="rect" id="Node000008" href="$tuningindicatordrawer_8cpp.html" title=" " alt="" coords="1394,93,1589,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1151,45,1394,91,1393,96,1150,50"/>
+<area shape="rect" id="Node000009" href="$messagekeyselectionchanged_8cpp.html" title=" " alt="" coords="1613,93,1863,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1169,39,1601,91,1613,92,1613,98,1600,96,1169,44"/>
+<area shape="rect" id="Node000010" href="$pianomanager_8cpp.html" title=" " alt="" coords="1887,93,2061,133"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1169,30,1491,51,1684,68,1876,91,1887,92,1886,98,1875,96,1683,74,1491,56,1169,35"/>
+</map>
